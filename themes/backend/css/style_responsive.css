@@ -1,0 +1,1396 @@
+@media screen and (max-width: 1300px) {
+   #patient_form .width100 .check_outer .res_ch,.ocupation{
+      width: 49% !important;
+    }
+    #call_dls_info input.style3[type="button"]{
+        padding: 8px 32px !important;
+    }
+    #patient_form .padding_btm{
+        font-size:12px !important;
+    }
+    #patient_info .pat_width{
+        width: 49.3% !important;
+    }
+    #patient_info .bld_grp_lft,#patient_info .bld_grp_rt{
+         width: 24% !important;
+         float:left !important;
+    }
+    .half_div_right {
+        width: 50% !important;
+    }
+    .half_div_right .outer_address, #enq_form .width40{
+        width:100% !important;
+    }
+    #enq_form .button_box{
+        text-align:center;
+    }
+    #enq_form input[name="search_btn"] {
+        float:none !important;
+    }
+    .emt_landing_page .tdd_dash_buttons{
+        height: 180px;
+    }
+    .header_right_block {
+        width: 75%;
+    }
+}
+@media all and (max-width:1200px){
+   #call_dls_info .search_btn {
+    right: 87px !important;
+   }
+    #consent_form select{
+        padding: 6px 33px 6px 2px !important;
+    }
+    #selected_non_unit_drugs_view .style5 th,#show_selected_unit_item .style5 th{
+        font-size:12px !important;
+    }
+    #selected_non_unit_drugs_view .style5 td{
+        font-size:11px !important;
+    }
+    .interfc_left .pt_no {
+        width: 68% !important;
+    }
+}
+
+@media all and (max-width:1152px){
+   .pcr_contentpan #call_dls_info .width33 {
+      width: 50% !important;
+   }
+   #pat_details_block .width30{
+        width: 47% !important;
+   }  
+    #ptn_inv_mng .style6 ,#truma_info .btn{
+       padding: 5px 13px 5px 13px !important;
+    }
+    .pat_mng_table .check_input {
+      right: 27px !important;
+    }
+    .pat_mng1 .cf_comp{
+      width: 60% !important;
+    }
+    .pat_mng1 .cases,#ptn_inv_mng .width25{
+       width: 35% !important;
+    }
+    #patient_form .cases {
+       width: 42% !important;
+    }
+    #patient_form .cf_comp {
+       width: 53% !important;
+    }
+    #ptn_inv_mng input[type="text"]{
+        margin-right:5px !important;
+    }
+    #fdqa_table .width85{
+        width:100% !important;
+    }
+    #add_caller_details .width15 h3,#ptn_inv_mng .style6 ,#truma_info .btn{
+        font-size:12px !important;
+    }
+    #inc_map_details .inc_ambu_list .border td {
+        font-size: 9px;
+    }
+    .amb_h3 {
+      font-size: 10px;
+    }
+    .header_right_block {
+        width: 77%;
+    }
+}
+@media all and (max-width:1024px){
+    .unit_drugs_box .unit_block .chkbox_check,.que_fit, .amb_h3,#previous_incident_details .style5 th{
+        font-size:12px !important;
+    }
+    #ptn_inv_mng .width56,#add_inc_details .address_bar{
+      width: 58% !important;
+    }
+    #add_inc_details .interfc {
+        width: 48% !important;
+    }
+    .box_type1 {
+        padding: 0px 5px 10px 5px !important;
+    }
+    .half_div_right .width50{
+        width:100% !important;
+    }
+    .half_div_right, #patient_info .row{
+        margin:0px !important;
+    } 
+    #add_inc_details .lf_side{
+        width: 60% !important;
+    }
+    #add_inc_details .rt_side{
+        width:40% !important;
+    }
+    #add_inc_details .rt_side #add_inc_details_block .width33,#add_inc_details .outer_pat_info .width33,.outer_fc_details .width33,.interfc_left .width33,#add_inc_details .pt_no{
+        width:50% !important;
+    }
+    #add_inc_details .full_width {
+        width: 95% !important;
+    }
+    .inthp_sumry textarea {
+        width: 97% !important;
+    }
+     #add_inc_details #INCIDENT_MAP,
+     #add_inc_details .map_block_outer .ambulance_box{
+         width: 100% !important;
+     }
+    .res_address_bar .ambulance_box{
+        display: block;
+    }
+    .ambulance_box .ambulance_box{
+        display: none;
+    }
+    #add_inc_details .map_block_outer{
+        margin-top: 36px;
+    }
+    #add_inc_details .rt_side .outer_smry {
+        padding-bottom: 0px;
+    }
+    #inc_map_details .inc_ambu_list .border td,#previous_incident_details .style5 td{
+        font-size: 11px;
+    }
+}
+@media all and (max-width: 1000px) {
+    #inc_filters .width17, #feedback_form .width25 {
+       width: 30% !important;
+       margin-right:10px !important;
+    }
+    #followup_call_form .width2{
+        width:60% !important;
+    }
+    #complnt_form .width25{
+        width:30%  !important;
+    }
+    #inc_map_details .width25{
+        width:20% !important;
+    }
+    #patient_add_asst .width20 .label,#patient_add_asst input[type="text"],#patient_add_asst select,#patient_add_asst .chkbox_check,.inc_ambu_list table td,#add_inc_details input[type="text"].mi_autocomplete_input, #call_purpose_form input[type="text"],.questions_row .width70,.questions_row .width_30,#call_purpose_form select,#call_purpose_form .chkbox_check,#previous_incident_details .style5 td,.dls,#add_res_view .style3 td,#complnt_form .style3 td,.confirm_save .style3 td,#previous_incident_details table.style5 th,#enq_form p,#enq_form #get_answer table td ,#enq_form .enq_table td{
+       font-size:12px !important;
+    }
+    #patient_add_asst .dis_blk{
+        width:13% !important;
+    }
+    #patient_add_asst .prob_dia{
+        width:51% !important;
+    }
+    #patient_form .cf_comp label{
+        line-height:28px !important;
+    }
+    #add_inc_details #map_block_outer .extend_map_block{
+        top: -34px !important;
+    }
+    #patient_form .cf_comp {
+        width: 57% !important;
+    }
+    #complnt_form .pos_rel .width2{
+        width:59% !important;
+    }
+}
+@media all and (max-width: 980px) {
+    #patient_assessment .width20,#ptn_inv_mng .width25{
+        width:33% !important;
+    }
+    #patient_info .map_logo {
+        top: -9px !important;
+        right: 29px !important;
+    }
+    #ptn_inv_mng .width40, #ptn_inv_mng .width56{
+        width:100% !important;
+        padding-bottom:10px;
+    }
+}
+@media all and (max-width: 960px) {
+    patient_add_asst .text_area{
+        width:92% !important;
+    }
+    .questions_row .width70{
+       width: 65% !important;
+    }
+    .questions_row .width_30 {
+          width: 35% !important;
+    }
+    .map_inc_button{
+        margin-right: 38% !important;
+    }
+    .min_distance_block{
+        width:18% !important;
+    }
+    .map_block_outer .map_inc_button {
+        margin: -27px auto !important;
+        height: 45px !important;
+        width: 203px !important;
+        padding-left: 22px !important;
+        font-size: 12px;
+    }
+    #stock_req_form legend, #stock_req_form input[type="text"], #stock_req_form select,#patient_add_asst input[type="text"],#add_caller_details ul.dtl_row li{
+        font-size:11px !important;
+    }
+    .stock_req_form fieldset a,#selected_non_unit_drugs_view .style5 th,#show_selected_unit_item .style5 th,#selected_non_unit_drugs_view .style5 td,#show_selected_unit_item .style5 td{
+        font-size:10px !important;
+    }
+     .pcr_contentpan #call_dls_info .drg ,#pat_details_block .width30 .width100,.drg,.pcr_contentpan #call_dls_info .lst_name,#stock_req_form .stock_req_form,#pat_details_block .lst_name{
+        width: 100% !important;
+     }
+     #pat_details_block .width30, #patient_add_asst .prob_dia{
+        width: 54% !important;
+    }
+    .pcr_contentpan #call_dls_info .gen,.rec_hp input[type="text"].mi_autocomplete_input{
+        width:95% !important;
+    }
+    #patient_add_asst .outer_left_pt{
+        width:45% !important;
+    }
+    #patient_form .cf_comp .check_table_input, #patient_form .cf_comp table td {
+        padding-left:0px !important; 
+    }
+    #patient_form .cf_comp #get_answer{
+        padding: 0px 5px 10px 5px !important;
+    }
+    .check_outer {
+        padding: 0px 5px 1px 5px;
+    }
+    #patient_form .cases .style6,#patient_form .cf_comp,.style6, #stock_req_form legend{
+        font-size:13px !important;
+    }
+    #call_dls_info .search_btn {
+        right: 7px !important;
+    }
+    #add_res_view .map_inc_button {
+       margin: -3px auto !important;
+    }
+    .unit_drags{
+        width:47% !important;
+    }    
+    #ercp_dash .bottom_outer .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 23% !important;
+    }
+    #add_inc_details .map_block_outer {
+        margin-top: 12px;
+    }
+    .pcr_contentpan{
+        padding-top: 150px;
+    }
+}
+@media all and (max-width:900px){
+    .details_enq p,#enq_form select,#enq_form .questions,#enq_form #get_answer .table td,.style4,.style5,#fwdcmp_btn .submit_btnt,.questions_row .width_30,.questions_row .width70,#add_inc_details .chkbox_check,#add_inc_details input[type="text"],#add_inc_details select,.inc_ambu_list li{
+        font-size:12px !important;
+    }
+    .type_case .res_ch,.unit_drags,.non_unit_drags{
+        width:100% !important;
+    }
+    .pcr_contentpan .hos_trans input[type="text"],.pcr_contentpan .hos_trans select{
+        font-size:11px !important;
+    }
+    #enq_form .width15 {
+        width: 22% !important;
+    }
+}
+@media only screen and (max-width: 890px) {
+    .pat_mng1 .pat_width{
+        width:50% !important;
+    }
+    .mar_btm {
+      margin-bottom: 5px !important;
+    }
+    .p_mng_right {
+        margin-right: 7px;          
+    }
+    #patient_add_asst .outer_left_pt {
+      width: 44% !important;
+    }
+    #patient_add_asst .prob_dia {
+     width: 55% !important;
+    }    
+    #add_inc_details .lf_side .width_30,#adv_call_form .width17{
+         width: 33% !important;
+    } 
+    #adv_call_form .width15{
+        width:31% !important;
+    }
+}
+@media only screen and (max-width: 860px) {
+    #patient_add_asst .width20,#add_inc_details .rt_side,#add_inc_details .lf_side, .pat_cond .width33,#popup_div .call_purpose_form_outer .width17{
+        width: 50% !important;
+    }
+    #add_inc_details .outer_btn{
+        padding-top:0px !important;
+    }
+    .outer_loc,.outer_min{
+        position:relative;
+    }
+    #patient_add_asst .outer_left_pt{
+        padding-left:64px !important;
+    }
+    #patient_add_asst .width100 .label{
+        font-size:12px !important;
+    }
+    .hide_head{
+        display:none;
+    }
+    #patient_add_asst .width20{
+        display:block;clear:both;
+    }
+    #patient_add_asst #outer_bp{
+        display:inline-block !important;
+        clear:none !important;
+    }
+    #patient_add_asst .dyst_bp{
+        float:left;
+    }
+    #add_inc_details .address_bar,#patient_add_asst .dyst_bp,#popup_div .call_purpose_form_outer .width15{
+        width: 48% !important;
+    }
+    #patient_add_asst .dyst_bp .width20, #patient_add_asst #outer_bp,#patient_add_asst .width20, #patient_add_asst .res_ch,#add_inc_details .lf_side .width_30,#add_inc_details .lf_side .width_66,#add_inc_details .rt_side #add_inc_details_block .width33,#add_inc_details .dub_inc,#add_inc_details .outer_btn,#add_inc_details .rt_side input[type="text"],#add_inc_details input[type="text"].mi_autocomplete_input,#add_inc_details .outer_pat_info .width33,.questions_row .width70,#add_inc_details #patient_gender,.outer_smry textarea,#add_inc_details .questions_row .width30,.outer_fc_details .width33,.outer_fc_details input[type="text"],.interfc_left .width33,#add_inc_details .pt_no,.interfc_left .questions_row .width_30,#add_inc_details .full_width,.inthp_sumry textarea {
+        width:100% !important;
+    }
+    .min{
+        height:inherit;
+        position:absolute;
+        left: -70px;
+        font-size:12px !important;        
+        top: 6px;
+        display:block;
+    }
+    .outer_loc::before{        
+        color:red;
+        content : attr(data-head);
+        height:inherit;
+        position:absolute;
+        left: -26px;
+        font-size:12px !important;        
+        top: 8px;
+    }
+    #patient_add_asst .outer_left_pt {
+      width: 43% !important;
+     }
+    #patient_add_asst .box_type1 {
+       padding: 0px 15px 67px 15px !important;
+    }
+    #add_inc_details #inc_services_details .width_20{
+        width:30% !important;
+    }    
+    #add_inc_details #fwdcmp_btn{
+        text-align:center;
+    }
+    #add_inc_details #fwdcmp_btn .style4 {
+        float:none !important;
+    }
+    #add_inc_details .dub_inc .width33{
+        width: 40% !important;
+    }
+    #add_inc_details .nature input[type="text"].mi_autocomplete_input,.interfc_left .outer_gen{
+        width:95% !important;
+    }
+    #add_inc_details #first_name {
+        margin-bottom: 5px !important;
+    }
+    #driver_pcr .field_error_show::after {
+        right: auto;
+        left:0;
+    }
+}
+@media all and (max-width: 854px){
+    #view_indent .style3 .field_error_show::after{
+        top: -40px !important;
+    }
+    #view_indent .save_btn_wrapper { 
+        margin-top: 0px !important;
+        padding-bottom:10px;
+    } 
+     #view_indent h3{
+         padding-bottom:15px;
+     }
+     #complnt_form .style3 td{
+        line-height:30px !important;
+    }
+     #list_table .table {
+         margin: 10px 0 -6px !important;
+         border-bottom:none !important;     
+    }   
+    #enq_form .enq_table td {
+        padding-top:5px!important;
+    }
+    #complnt_form .tabl_btm_note {
+        margin-top: 6px !important;
+    }
+    .style2 td{ 
+        color: #696969; 
+        border-bottom:none !important;
+    }   
+    #amb_list #list_table .actions_list .btn {
+        width: 112px !important;
+    }  
+    #list_table .table td::before{
+           background:#085b80;
+           color: #fff;         
+    } 
+     #list_table .table td{       
+         color: #696969; 
+         border-bottom:2px solid #FFF!important;         
+         line-height: 40px;
+     }
+     #list_table .table .alignleft,.style2 .alignleft{ width:60%;}
+      
+    .inc_pt_info .width47, #feedback_form .width2,#feedback_form #fdqa_table .width85, .questions_row .width70,.questions_row .width_30,#add_inc_details #incient_state .width97, #add_inc_details #incient_dist .width97{
+        width:100% !important;
+    } 
+    #followup_call_form  .width2,#patient_assessment .width25,.call_purpose_form_outer .pan_box .width30,.call_purpose_form_outer .pan_box bottom_border .width50{
+        width:50% !important;
+    }  
+    .questions_row {
+       line-height: 19px;
+    }        
+    #inc_pt_info .style3 td:nth-child(1), #ptn_inv_mng .width25 {
+        width: 40% !important;
+    }      
+    .pcr_contentpan #amb_list .actions_list a{
+        line-height: 26px !important;
+    }
+    .pcr_contentpan #amb_list .actions_list li{
+        padding:5px;
+    } 
+    #driver_pcr .text_align_center{
+       text-align: left !important;
+    }
+     #driver_pcr .table_wrp .style5 td:nth-child(1){
+         font-weight:600;
+    }
+    .pat_mng1 .style6{
+        font-size:13px !important;
+    }
+     .pat_mng1 .display_inlne_block .width40 {
+       width: 104% !important;
+    }
+    #truma_info .width40{
+        width: 48% !important;
+    }
+    #Injury{        
+        padding: 4px 23px 6px 2px !important;
+        height: 30px !important;
+        overflow:hidden;
+    }
+    #Injury ,#truma_info .btn{
+      margin: 5px 5px 5px 0px !important;
+   }     
+    #truma_info .btn {
+      padding: 7px 24px 6px 24px !important;
+    }
+    #truma_info .btn-default {
+     padding: 7px 28px 10px 28px !important;
+    }
+    .non_clss{
+       display:none;
+    }
+    #patient_form #get_answer .chkbox_check,#patient_form .past_med_his .chkbox_check ,#patient_form .type_case .chkbox_check, #truma_info .table_wrp .style5 select, #selected_non_unit_drugs_view .table_wrp .style5 td::before,#show_selected_unit_item .table_wrp .style5 td::before{
+        font-size: 11px !important;
+    }
+    #selected_non_unit_drugs_view .table_wrp .style5 td::before ,#show_selected_unit_item .table_wrp .style5 td::before{
+        width: 80px !important;
+    }
+    #selected_non_unit_drugs_view .table_wrp .style5 td,#show_selected_unit_item .table_wrp .style5 td{
+        padding-left: 107px !important;
+    }
+   
+}
+
+@media all and (max-width: 800px) {
+  
+    #add_inc_details_block .width_100 .width_16,#Injury{
+        width:33% !important;
+    }
+    .hos_trans .field_error:hover::after,.hos_trans .field_error_show::after {
+        font-size:10px !important;
+    }
+    #patient_info .map_logo {
+        right: 18px !important;
+        height: 85px !important;
+        width: 85px !important;
+    }
+    .clg_photo {
+        right: 35px !important;
+   }
+    #patient_assessment .hand_time label{
+        margin-bottom: -2px !important;
+    }
+    #patient_assessment  .amb_status{
+       margin-bottom: -3px !important;
+    }
+    .dub_inc .width33{
+       width: 65% !important;
+    }
+    #add_colleague_registration_form .button_box{
+        text-align:center;
+    }
+    .around_km{
+        width:66% !important;
+    }
+    #patient_assessment .width25,#add_inc_details .dub_inc .width33,#add_inc_details .dub_inc .width60{
+        width:50% !important;
+    }      
+    .interfc_left .width100{
+        width:95% !important;
+    }
+    #add_inc_details .width2 .no_pat, #add_inc_details .width2 .cf_comp,#add_inc_details .pat_info .width33,#add_inc_details #first_name,#add_inc_details #middle_name,#add_inc_details #last_name,#add_inc_details #patient_gender,#truma_info .width40,#truma_info .width50,#add_colleague_registration_form .button_field_row,.interfc_left .outer_gen,#add_inc_details .interfc_left .outer_age{
+      width: 100% !important;
+    }
+    #add_inc_details #first_name,#add_inc_details #middle_name,#add_inc_details #last_name,#add_inc_details #patient_gender{
+        margin-bottom:10px !important;
+    }
+}
+
+@media all and (max-width:785px){   
+    .bottom_outer .width30 {
+        width: 54% !important;
+    }
+     #patient_form .padding_btm {
+       font-size: 11px !important;
+    }
+    #add_res_view .add_res_outer .width50 input[type="text"]{
+        margin-top:0px !important;
+    }
+    #ptn_inv_mng .width25 {
+       width: 56% !important;
+    }
+    #add_res_view .add_res_outer {
+       width: 80% !important;
+    }
+    #add_res_view .add_outer .width_16{
+        width: 25% !important;
+    }
+    #add_res_view .add_outer .width_66{
+        width: 76.68% !important;
+    }
+    ul.dtl_block li,#adv_call_form .form_field .label{
+        font-size:12px !important;
+    }
+}
+
+@media all and (max-width: 768px) {
+    #inc_pt_info .style3 td:nth-child(1) {
+        width: 45% !important;
+    }
+    #call_purpose_form input[type="text"]{
+        font-size:12px !important;
+    }
+    #add_res_view .width50 ,#med_adv .width50{    
+        width:55% !important;
+    }
+    #inc_min_distance{
+        adding: 6px 21px 6px 2px !important;
+    }
+    .event_outer .width33{
+        width: 90% !important;
+    }
+}
+@media all and (max-width:760px){
+    #unrecog_form .width50,#unrecog_form .width2,#unrecog_form select,#followup_call_form .width2,.unit_drags,.non_unit_drags,.rec_hp,.pcr_contentpan #call_dls_info .gen ,#patient_form #get_answer table.style6, .pcr_contentpan #call_dls_info .dls, #add_colleague_registration_form .material_sts .width2,.add_res_outer .width50, #add_res_view .outer_id{
+        width:100% !important;
+    } 
+    #complnt_form .width_15 .common_search {
+        padding: 6px 27px !important;
+    }
+    #pat_details_block #patient_gender,#pat_details_block .width30 .width100 {
+       width: 97% !important;
+    }
+     #inc_services_details .width_20 {
+       width: 50% !important;
+    }    
+    #enq_form .width15 {
+       width: 26% !important;
+    }
+    #patient_form #get_answer .chkbox_check, #patient_form .type_case .chkbox_check {
+       font-size: 13px !important;
+    }
+    #patient_form .past_med_his .chkbox_check{
+        font-size: 11px !important;
+    }
+    #add_res_view .add_res_outer .search_btn {
+        right: 87px !important;
+        width: 20% !important;
+    }
+    #complnt_form textarea{
+        margin-bottom:24px;
+    }  
+    .call_purpose_form_outer .ans_block_box .madv_ans h2{
+        font-size:18px;
+    }
+}
+
+@media only screen and (max-width: 730px) {
+    #patient_assessment .width30, #ptn_inv_mng .width25 {
+        width:40% !important;
+    }
+    #patient_assessment .width70{
+        width:60% !important;
+    }
+    .clg_photo {
+        top: -53px !important;
+    }    
+}
+
+@media all and (max-width:727px){
+    .rt_outer .cf_comp{
+        margin-left:10px!important;
+    }
+}
+@media all and (max-width: 720px) {
+    #inc_pt_info .style3 td:nth-child(1),#Injury{
+        width: 50% !important;
+    }
+    #complnt_form #fwdcmp_btn{
+        padding-bottom:10px;
+    }
+     .event_outer .event_outer_inner{
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 710px) {    
+    .pat_mng1 .cf_comp {
+       width: 57% !important;
+    }
+    .pat_mng1 .cases {
+        width: 40% !important;
+    }
+    #patient_form .cf_comp {
+        width: 48% !important;
+    }
+    #patient_form .cases {
+        width: 50% !important;
+    }
+    #patient_form .type_case .res_ch{
+        width: 100% !important;
+    }
+    .clg_photo {
+       top: 7px !important;
+       right: 224px !important;
+    }
+    #call_dls_info .field_error_show::after{
+        font-size: 9px !important;
+    }
+}
+
+@media all and (max-width: 695px){  
+    .resume_box{
+        width:95% !important;
+    }
+    #test_call_form .text_area{
+        width:98% !important;
+    }
+    #patient_assessment input[type="text"]{
+        font-size: 10px !important;
+    }   
+    #add_caller_details .call_bx,#test_call_form .width50,#add_caller_details .call_bx .amb_details{
+        width:100%  !important;
+    }
+    .inc_ambu_list li {
+       padding-left: 4px !important;
+    }
+    #call_dls_info .input{
+       width: 60% !important;
+    }
+    #call_dls_info .search_btn {
+        right: -29px !important;
+    } 
+    #add_caller_details .call_bx .width15{
+        width:25% !important;
+    }
+    .mt_atnd_calls .caller_details .call_bx ul.dtl_row li{
+        margin-left:15px !important;
+    }
+}
+
+@media only screen and (max-width: 672px) {
+    #patient_info .pat_width,.ocupation{
+        width: 100% !important;
+    }
+    #patient_info .bld_grp_lft, #patient_info .bld_grp_rt,.iden_mark .width50{
+        width:48% !important;
+    }
+}
+
+@media only screen and (max-width: 665px) {
+    .clg_photo {
+       right: 212px !important;
+    }
+    #complnt_form .width25, #inc_filters .width17 ,#feedback_form .width25,#patient_form .outer_apgr{
+       width: 50% !important;
+    }
+    #inc_filters .width17 ,#feedback_form .width25{    
+      margin-right:0px !important;
+    }
+    #inc_filters .width_15{
+        width: 24% !important;
+    }
+    #followup_call_form .width2 {
+      width: 98% !important;
+    }
+    .pat_mng1 .pat_width,#enq_form .enq_scroll,#enq_form #get_answer{
+        width: 100% !important;
+    }
+    #complnt_form .pos_rel .width2 {
+        width: 48% !important;
+    }
+    .case_mr_btm {
+      margin-bottom: 48px !important;
+    }
+    #patient_form .padding_btm {
+     font-size: 12px !important;
+    }    
+    #enq_form #get_answer{
+      border-left: 1px solid #FFBF42;
+      margin-top:5px;
+    }
+    #enq_form .ambulance_box {
+         border-right: 1px solid #FFBF42;
+    }
+    #enq_form .enq_scroll,#enq_form #get_answer{
+        height: 113px !important;
+    }
+    #followup_call_form textarea{
+        margin-bottom:20px !important;
+    }   
+}
+
+@media all and (max-width: 640px) {
+    .event_outer .event_outer_inner{
+        width: 90%;
+    }
+    #test_call_form .test_que,#test_call_form .text_area,#add_res_view .res_ch{
+        font-size:13px !important;
+    }
+    #add_res_view .res_ch{
+        display:inline-block;
+    }
+    .pat_mng1 .pat_width,.pat_mng1 .case_mr_btm,.pin_house{
+        width: 100% !important;
+   }
+   .pat_mng1 .cf_comp, #patient_add_asst .prob_dia, #patient_add_asst .outer_left_pt,#add_inc_details #inc_services_details .width_20{
+        width: 50% !important;
+    }
+    .clg_photo {
+        right: 191px !important;
+    }
+    #ptn_inv_mng .width25 {
+       width: 60% !important;
+    }
+    .pat_mng1 select {
+       margin-bottom:5px !important;
+    }
+    #hp_form select, #hp_form input[type="text"]{
+       margin-bottom:2px !important;
+    }
+    .pat_mng1 .padding_btm {
+        padding-bottom: 7px !important;
+    }
+    #patient_form .cases {
+        min-height: 420px !important;
+        margin-bottom: 91px !important;
+    }
+    #patient_add_asst .width20 .label,#patient_add_asst .chkbox_check ,#patient_add_asst .width100 .label{
+      font-size: 11px !important;
+    }
+    #patient_add_asst .width100 .label{
+        margin-right:8px;
+    }
+}
+
+@media all and (max-width: 620px) {
+    #patient_form .cases,#patient_form .cf_comp,.ans_block_box .width2{
+       width: 100% !important;
+    }
+    #patient_form .type_case .res_ch {
+       width: 48% !important;
+    }
+    #patient_form .cases {
+       margin-bottom: 7px !important;
+    }
+    .cf_comp select,.cf_comp input[type="text"]{
+        width:99% !important;
+    }
+    #patient_form .btm_mng{
+       margin-bottom: -21px !important;
+    } 
+}
+
+@media all and (max-width: 600px) {
+    #add_res_view .width50{
+      width: 60% !important;
+    }  
+    #med_adv .width50{
+       width: 75% !important;
+    }
+    #add_res_view .add_res_outer .search_btn {
+        right: 14px !important;
+    }
+    .clg_photo {
+       right: 174px !important;
+    }
+    .pcr_main .next_pre_outer{
+        padding: 0px 0px 20px 0px !important;
+    }  
+    #truma_info .btn-default {
+        padding: 6px 26px 9px 25px !important;
+    }
+    #patient_assessment textarea, #consent_form p{
+        width:97% !important;
+    }
+    #driver_pcr .style5,#patient_assessment .width49,.select_left,.select_middle,#add_res_view .outer_type{
+        width: 100% !important;
+    }
+    .hide_class{
+       display:none;
+    }
+    #patient_assessment .width50,#patient_assessment .width25{
+       width:50% !important;
+    }
+    .time_con {
+        top: 78px !important;
+        left: 0px !important;
+    }
+    .rel_tp{
+       padding-top:30px;
+    }
+}
+@media all and (max-width: 565px) {
+    .inc_pt_info {
+        padding: 15px 10px 10px 10px !important;
+        margin-bottom: 8px !important;
+    }
+    .clg_photo {
+      right: 148px !important;
+    }
+    #test_call_form .style5 {
+       margin-right: 8px !important;
+    }
+    #test_call_form .button_box {
+      margin: 0px 0px !important;
+    }
+    .disnone{
+        display:none;
+    }
+    #call_dls_info input.style3[type="button"] {
+      padding: 8px 20px !important;
+    }    
+    #patient_assessment .label label{
+        margin-bottom: -1px !important;
+        line-height: 26px !important;
+    }    
+    #patient_assessment .padd_btm {
+     padding: 1px 0px 0px 0px !important;
+   }
+    #patient_assessment .pad_tp{
+        padding-top:6px !important;
+    }
+    #patient_assessment .tp{
+        padding-top:8px !important;
+    }
+    #patient_assessment .width70 .width50,#add_inc_details .width2,#add_inc_details .rt_side,#add_inc_details input[type="text"].mi_autocomplete_input,#add_inc_details input[type="text"],#add_inc_details textarea , #add_inc_details .address_bar,#add_inc_details .nature,#add_inc_details .nature input[type="text"].mi_autocomplete_input,.interfc_left .width100 {
+        width:100% !important;
+    }    
+    #patient_assessment .width70,#patient_assessment .width30,#add_inc_details .questions_row .width2, #adv_call_form .width17{
+        width: 50% !important;
+    }
+    .min_distance_block {
+        width: 40% !important;
+        top: -38px !important;
+    }
+    #add_inc_details .dub_inc{
+        max-height:88px !important;  
+    }
+    #add_inc_details .address_bar {
+        padding-bottom: 15px !important;
+    }
+    #add_inc_details .extend_map_block {
+        right: -3px;
+        left:0px !important;
+        font-size: 12px !important;
+    }
+    #add_inc_details .interfc {
+        padding-bottom: 39px !important;
+    }
+    #add_res_view .map_inc_button {
+        margin: -1px 5px 5px auto !important;
+    }
+    #add_res_view .address_bar {
+        padding-bottom: 0px !important;
+    }
+     #add_res_view .add_outer .width_16 {
+        width: 32% !important;
+        margin-right: 6px;
+    }
+    #add_res_view .add_outer .width_66 {
+        width: 98% !important;
+    }
+    #fdqa_table table.style4 td{
+        font-size:11px !important;
+    }
+    #adv_call_form .width15{
+        width:47% !important;
+    }
+    #add_inc_details .map_block_outer {
+        margin-top: 35px;
+    }
+}
+@media all and (max-width: 540px) {   
+    #inc_details  .style2 td::before {
+        width: 129px !important;
+    }
+    #add_res_view #fwdcmp_btn{
+        text-align:center;
+    }
+    #add_res_view .style4{
+        margin-top:10px !important;
+    }
+    #add_res_view #fwdcmp_btn .submit_btnt {
+        float:none !important;
+        display:block !important;
+        margin:0 auto !important;
+    }
+    #enq_form .width15 {
+        width: 46% !important;
+    }
+    #call_dls_info .inline_fields,#add_res_view .inline_fields ,#med_adv .inline_field,#patient_form .type_case .res_ch, #ptn_inv_mng .width25,#add_colleague_registration_form .width2,.half_div_left,.half_div_right{
+        width: 100% !important;
+    }
+    .clg_photo {
+       right: 99px !important;
+       top: -21px !important;
+    }   
+    #Injury {
+      width: 70% !important;
+    }
+     #add_res_view .inline_fields ,#med_adv .inline_fields {
+        float:left;
+    }  
+    #patient_add_asst .box_type1 {
+        padding: 0px 5px 67px 5px !important;
+    }
+    #call_dls_info .search_btn {
+       right: 42px !important;
+    }
+    #add_res_view .add_outer .width_16 {
+        width: 48% !important;
+        margin-right: 7px;
+    }
+    #ercp_dash .bottom_outer .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 25% !important;
+    }
+    #add_caller_details .call_bx .width15{
+        width:34% !important;
+    }
+     #patient_assessment .pad_tp{
+        padding-top:27px !important;
+    }
+}
+@media all and (max-width:498px){
+   
+    #add_res_view .hlf{
+        float:left;
+    }
+    #test_call_form .style5 {
+        margin-right: 3px !important;
+    }    
+    #patient_add_asst .prob_dia, #patient_add_asst .outer_left_pt , #patient_add_asst input[type="text"],#patient_add_asst .text_area,#popup_div .call_purpose_form_outer .width17,#add_res_view .hlf,#popup_div .call_purpose_form_outer .width50,#popup_div .call_purpose_form_outer .width15{
+        width: 100% !important;
+    }
+    #patient_add_asst .dyst_bp {
+        width: 49% !important;
+        margin-right: 3px;
+    }
+    #patient_add_asst .box_type1 {
+        padding: 0px 5px 10px 5px !important;
+    } 
+    .logo_label{
+       /*// width: 70%;*/
+    }
+}
+@media all and (max-width: 480px) {  
+    #call_dls_info .search_btn {
+       right: 47px !important;
+    }  
+    #call_dls_info .width50 input[type="text"] {
+        width: 94% !important;
+    }
+    #Injury {
+       width: 93% !important;
+    }
+    #call_dls_info .search_btn {
+       right: -11px !important;
+    }
+    #call_dls_info .epcr .width50  input[type="text"],#call_dls_info .epcr #pcr_pat_id,#pat_details_block #patient_gender,#pcr_amb_id,#pat_details_block .width30 .width100,#med_adv .outer_med_details{
+        width: 100% !important;
+    }
+    #med_adv .inc_id {
+        width:70% !important;
+    }
+    .left_align{
+        padding-right:10px !important;
+    }
+    #call_dls_info .epcr .style6,#hp_form input[type="text"],#hp_form select{
+        font-size:11px !important;
+    } 
+    #adv_call_form .form_field .label {
+      font-size: 10px !important;
+    }
+    #add_caller_details .call_bx .width15 {
+       padding-top: 26px;
+    }
+    #add_caller_details ul.dtl_row li {
+        width:45% !important;
+        padding-bottom: 10px;
+    }
+}
+@media all and (max-width:465px){
+    .clg_photo {
+        right: 51px !important;
+    }
+    .pls_outer input[type="text"],.loc_hosp input[type="text"],.loc_hosp select,#patient_assessment textarea{
+        width:98% !important;
+    }
+    #add_res_view input.style3[type="button"], #med_adv input.style3[type="button"] {
+      margin-top: 0px !important;
+    }
+    #inc_details .style2 td::before {
+      width: 115px !important;
+    }
+    #patient_add_asst .dyst_bp {
+      width: 48% !important;
+    }
+    #inc_details table.style2 td {
+        padding-left: 149px !important;
+    }
+    #inc_filters .width17,#feedback_form .width25,#feedback_form input[type="text"], #patient_assessment .width30,#patient_assessment .width70,#inc_filters input[type="text"],#stock_req_form .stock_req_form .width49, #ptn_inv_mng .margin_auto,#complnt_form .width25,#complnt_form .width25 input[type="text"],#complnt_form .pos_rel .width2,#add_res_view .add_outer .width_16,#add_res_view .add_outer .width_6659{
+        width: 100% !important;
+    }
+    #inc_filters .width_15, #add_caller_details .call_bx .width15{
+        width: 40% !important;
+    }
+    #call_purpose_form .call_purpose_form_outer {
+        padding: 4px 42px 25px 25px !important;
+    }
+    #ptn_inv_mng .margin_auto{
+        text-align:center;
+    }  
+    #inc_filters .width_15 .label{
+        display:none !important;
+    }
+    #patient_assessment .pad_tp {
+        padding-top: 10px !important;
+    }
+    #call_dls_info input[type="text"], #followup_call_form table.style2 td::before, #followup_call_form table.style3 td::before{
+        font-size:12px !important;
+    }
+    #followup_call_form table.style2 td, #followup_call_form table.style3 td {
+        font-size:11px !important;
+    }  
+    #patient_assessment .out_med textarea{
+        width:97% !important;
+    }
+}
+@media all and (max-width:455px){
+    #followup_call_form #incact input[type="button"]{
+        font-size: 11px !important;
+        padding: 5px 14px !important;
+    }
+    #patient_form .padding_btm,#adv_call_form select,#adv_call_form input[type="text"]{
+        font-size: 12px !important;
+    }
+   .pat_mng1 .cf_comp,.pat_mng1 select,.pat_mng1 input[type="text"],.pat_mng1 .display_inlne_block .width40,#call_dls_info .epcr .width50, #call_dls_info .epcr input[type="text"].mi_autocomplete_input,.pcr_contentpan #call_dls_info .gen,#pat_details_block #patient_gender,.pcr_contentpan #call_dls_info .width33,#pat_details_block .width30,#adv_call_form .width17, #add_res_view .add_res_outer,#adv_call_form .outer_cl .width50,.call_purpose_form_outer .pan_box .width30,.call_purpose_form_outer .pan_box .width50{
+        width: 100% !important;
+    }
+    .p_mng_right {
+        margin-right: 0px !important;
+    }
+    .left_align {
+        padding-right: 0px !important;
+    } 
+    #adv_call_form .width15{
+        width:95% !important;
+    }
+}
+@media all and (max-width: 432px) {
+  
+    #inc_details .style2 td::before {
+        width: 104px !important;
+    }
+    #inc_details table.style2 td {
+        padding-left: 140px !important;
+    }
+    .tabl_btm_note,#ptn_inv_mng .table_wrp .style5 .field_error_show::after{
+        font-size: 10px !important;
+    }
+    #inc_fwd_note{
+        margin-bottom: 5px !important;
+        margin-top: -3px !important;
+    }
+    #ptn_inv_mng .table_wrp .style5 .field_error_show::after {
+        top: -33px !important;
+        right: 1px;
+        width: 165px !important;        
+    }
+    #call_purpose_form .call_purpose_form_outer {
+        padding: 4px 24px 15px 15px !important;
+    }
+    #add_inc_details .dub_inc .label{
+        font-size:11px !important;
+    }
+}
+@media all and (max-width:420px){
+    #change_colleague_password .field_error_show::after{
+        font-size: 10px !important;
+    }
+    #add_inc_details .dub_inc{
+       max-height: 109px !important;
+    }
+    .dub_inc .width33 {
+        max-height: 50px !important;
+    }
+    #add_inc_details .extend_map_block {
+       font-size: 9px !important;
+    }
+    #fdqa_table .style4 td{
+        width: 61% !important;
+    }
+    #add_inc_details .dub_inc .width2{
+        width:50% !important;
+    }      
+    #adv_call_form .width50 .float_right{
+        float:none;
+    }
+    #enq_form .que_enq .enq_scroll td label{
+        display:inline-block;
+        width:12%;
+    } 
+    .madv_ans ul {
+        padding-left: 23px;
+    }
+    .madv_ans ul li{
+        font-size:12px;
+    }
+    .call_purpose_form_outer .ans_block_box .madv_ans h2 {
+        font-size: 15px;
+    }
+    #patient_form #get_answer .field_error_show::before{
+        top: 11px !important;
+        right: -5px !important;
+     }   
+}
+@media all and (max-width: 400px) {
+    .clg_photo {
+        right: 247px !important;
+        top: 2px !important;
+    }    
+    #inc_details table.style2 td {
+        padding-left: 118px !important;
+    }
+    #inc_details .style2 td::before {
+        width: 90px !important;
+    }    
+    .hos_trans .width25 input[type="text"]{
+        width:98% !important;
+    }
+    #truma_info .btn-default{
+        padding: 7px 21px 9px 21px !important;
+    }
+    #truma_info .btn-default,#consent_form p ,#consent_form select,#consent_form input[type="text"],#test_call_form .test_que{
+        font-size:12px !important;
+    }
+     #fwdcmp_btn .submit_btnt{
+       font-size:9px !important;
+     }
+     #patient_assessment .width25,#patient_assessment .ptn_asst .width50{
+         width:100% !important;
+     }
+    #add_inc_details #inc_services_details .width_20{
+        width: 50% !important;
+    }
+    #test_call_form .style4{
+       float:none;
+    }    
+    .none_prop{
+        display:none;
+    }
+    #enq_form .enq_table .field_error_show::after, #enq_form .enq_table .field_error_show::before {
+        left: auto;
+        right: 14px !important;
+   }
+}
+@media only screen and (max-width: 380px) {    
+    #patient_assessment .width50,#patient_assessment .width25,#patient_form .type_case .res_ch,#truma_info .width30,#truma_info select{
+        width:100% !important;
+    } 
+    #ptn_inv_mng input[type="text"], #med_adv .width50{
+       width: 91% !important;
+    }
+    #ptn_inv_mng .table_wrp .style5 .field_error_show::after {
+        right: 5px !important;
+        width: 156px !important;
+    }
+    #add_colleague_registration_form label,#call_dls_info input.style3[type="button"], #add_colleague_registration_form input[type="text"],#add_colleague_registration_form select,#add_colleague_registration_form .style1,#add_colleague_registration_form #password,#change_colleague_password .button_box input[type="button"]{
+        font-size:12px !important;
+    }
+    .clg_photo {
+        right: 224px !important;
+    }
+    #previous_incident_details .style5 td.no_record,#truma_info .table_wrp .style5 select, #add_res_view .style3 td{
+       font-size: 10px !important;
+    }
+    .pcr_contentpan #amb_list .actions_list li {
+        padding: 5px 0px;
+    }
+    #call_dls_info input.style3[type="button"] {
+        padding: 6px 15px !important;
+    }
+    #add_inc_details .in_hosp .radio_check.field_error_show::after{
+        width: 141px !important;
+    }
+    #summary_div .inc_pt_info .style3 .width35{
+        width:44% !important;
+    }
+    #summary_div .inc_pt_info .style3{
+        margin: 10px 0 6px;
+    }
+    .confirm_save .summary_info .save_btn_wrapper{
+        margin-top: 0px;
+    }
+    #ercp_dash .bottom_outer .width33 {
+        width: 70% !important;
+    }
+}
+@media all and (max-width: 360px) {
+    #view_indent .field_error_show::after {
+       right: 1px !important;
+    }
+    #add_caller_details #purpose_of_calls.field_error_show::after, #add_caller_details #caller_relation_div.field_error_show::after {
+        width: 154px !important;
+    }
+    #fdqa_table .style4 td{
+        font-size:3vw !important;
+    }
+    #followup_call_form .style3 td{
+        padding-left:5px !important;
+        line-height: 23px !important;
+    }
+    .dis_none1{
+        display:none!important;
+    }
+    #call_dls_info .search_btn {
+        right: 17px !important;
+    }
+    .clg_photo {
+       right: 200px !important;
+    }
+    #add_inc_details .dub_inc .width33,#add_inc_details .address_bar,#add_inc_details .dub_inc .width60,#add_res_view .res_ch,.outer_inp_search .width70,#med_adv .width50,.pat_cond .width33{
+        width: 100% !important;
+    }
+    .search_btn_inp{
+        margin-top:3px;
+        float:left;
+    }
+    #add_inc_details #map_block_outer .extend_map_block {
+        left:0px;
+        top: -26px !important;
+    }
+    #add_inc_details .map_block_outer{
+        padding-top:10px;
+    }
+    #add_inc_details .dub_inc .width2,min_distance_block{
+        width:50% !important;
+    }
+    .min_distance_block {
+        top: -27px !important;
+    }
+    #add_inc_details .address_bar {
+        padding-bottom: 1px !important;
+    }
+    #add_inc_details select, .confirm_save .style3 td,#followup_call_form table.style2 td,#followup_call_form table.style2 td::before,#followup_call_form table.style3 td,#followup_call_form table.style3 td::before,#enq_form .questions,#enq_form #get_answer .table td,#enq_form p{
+        font-size:10px !important
+    }
+    #enq_form .questions {
+        width:85% !important;
+    }
+    #add_inc_details .interfc {
+        padding-bottom: 6px !important;
+    }    
+    #add_res_view .address_bar {
+        margin-bottom: -3px !important;
+    }
+    #add_caller_details ul.dtl_row li{
+        padding-bottom:19px;
+    }    
+    #ercp_dash .bottom_outer .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 27% !important;
+    }
+}
+@media all and (max-width:340px){
+   
+    #inc_filters .width_15 {
+         width: 50% !important;
+    }    
+    #add_inc_details select {
+        font-size: 9px !important;
+    }
+    #add_res_view .style3 td,#med_adv .style3 td,#fdqa_table table.style4 td{
+        font-size: 10px !important;
+    }
+    #add_res_view .res_ch{
+        width:92% !important;
+    }
+    .clg_photo {
+        right: 184px !important;
+    }
+    table.style2 td, table.style3 td, table.style4 td, .style2 td::before, #incact input[type="button"], #fdqa_table table.style4 td select, #feedback_form .style3 td,#complnt_form .style3 td,#followup_call_form .style3 td{
+      font-size: 3vw !important;
+   } 
+    #stock_req_form .label ,#stock_req_form legend {
+        font-size: 11px !important;
+    }
+    #med_adv .style3 td,#feedback_form .style3 td{
+        padding-left:4px !important;
+    }
+    #fdqa_table .style4 td {
+         width: 56% !important;
+    }
+    #profile_photo,#add_colleague_registration_form .file_clg{
+         width: 100% !important;
+    }
+    .check_outer {
+      padding: 0px 0px 0px 0px;
+    }
+    #patient_form .past_med_his .chkbox_check,#enq_form select{
+        font-size: 10px !important;
+    }
+    #ercp_dash .bottom_outer .width33,.pcr_contentpan .bottom_outer .width30{
+        width: 78% !important;
+    }
+    #ercp_dash .bottom_outer .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 26% !important;
+     }
+    #add_caller_details ul.dtl_row li {
+         width: 93% !important;
+          padding-bottom: 10px;
+    }
+    #add_caller_details .call_bx .width15{
+      width:96% !important;  
+      padding-top:0px;
+    }
+    #add_caller_details .call_bx .width15 #purpose_of_calls{
+        padding-left:17px;
+    }
+    #add_caller_details .call_bx .width15 h3{
+        padding-top:15px;
+        padding-bottom:15px;
+    }
+}
+@media all and (max-width: 320px) {   
+    #inc_details table.style2 td {
+        padding-left: 111px !important;
+    }
+    #stock_req_form .label {
+       font-size:10px !important;
+    }
+}
+
+
+

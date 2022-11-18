@@ -1,0 +1,4 @@
+<div class="head_outer"><h3 class="txt_clr2 width1 txt_pro hheadbg">Ambulance live Tracking</h3> </div>
+<a class="lnk_icon_btns btn float_right" href="https://www.nuevastech.com/API/API_LiveTrackVehicle.aspx?track=S&username=JKERC&accesskey=5682C1ED819E8B48FC3E&vehiclename=<?php echo $amb_reg;?>&tracktype=LT" target="_blank" style="background: #085b80 !important;">Extend Map</a>
+<iframe src="https://www.nuevastech.com/API/API_LiveTrackVehicle.aspx?track=S&username=JKERC&accesskey=5682C1ED819E8B48FC3E&vehiclename=<?php echo $amb_reg;?>&tracktype=LT" style="width:100%; height: 600px; border:0px;">
+</iframe> 

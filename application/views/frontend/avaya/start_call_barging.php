@@ -1,0 +1,1 @@
+<a class="click-xhttp-request btn" data-href="{base_url}avaya_api/start_call_barging" data-qr="agentid=<?php echo $avaya_agentid; ?>&ext=<?php echo $extension; ?>&clg_id=<?php echo $clg_id;?>" name="<?php echo $colleague->clg_ref_id; ?>"  style="display: block;">Start Call Barging</a>

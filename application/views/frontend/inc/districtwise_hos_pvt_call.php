@@ -1,0 +1,1 @@
+<input name="incient[drop_hospital]" id="amb_id_base_pvt_hos" class="mi_autocomplete dropdown_per_page width97" data-href="{base_url}auto/get_hospital_pvt?hosp_type=Pvt&dist_code=<?php echo $dist_code;?>&ptn_ayu_id=<?php echo $ptn_ayu_id;?>" placeholder="Hospital"  tabindex="2" autocomplete="off" value="" data-value="" data-callback-funct="base_pvt_hos_baselocation">

@@ -1,0 +1,3 @@
+<input  name="incient[hospital_id_dis]" class="mi_autocomplete width100" placeholder="Name of Hospital" data-href="{base_url}auto/get_hospital_bed_ero" type="text" data-errors="{filter_required:'Please select current facility from dropdown list',filter_greater_than_zero:'Name of  Hospital should not be blank'}" id="host" TABINDEX="13"  data-value="<?php  echo $hospital->hp_name; ?>" value="<?php  echo $hospital->hp_id; ?>" data-callback-funct="hospital_avaibility" readonly="readonly" disabled="">
+
+ <input type="hidden" name="incient[hospital_id]" TABINDEX="78" value="<?php  echo $hospital->hp_id; ?>" class=" width97 stauto">

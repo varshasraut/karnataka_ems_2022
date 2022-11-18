@@ -1,0 +1,100 @@
+@media print
+{
+    .width1 {
+    width:99%;
+    clear: both;
+    margin-left: 1%;
+}
+.width100 {
+    width:100% !important;
+    clear: both;
+}
+.width3,.width75 {
+    width:75%;
+}
+.width70 {
+    width:70%;
+}
+.width2,.width50 {
+    width:50%;
+}
+.width4,.width40 {
+    width:40% !important;
+}
+.width5,.width33 {
+    width: 33% !important;
+}
+.width_10 {
+    width: 10%;
+}
+.width_12 {
+    width: 12%;
+}
+.width_14 {
+    width: 14.28%;
+}
+.width6,.width_15 {
+    width: 15%;
+}
+.width_16 {
+    width: 16.50%;
+}
+.width_20 {
+    width: 20% !important;
+}
+.width_25 {
+    width: 25%;
+}
+.width_30 {
+    width: 30%;
+}
+.width_66 {
+    width: 66.68%;
+}
+.width_48 {
+    width: 48%;
+}
+.width_60{
+    width: 60%;
+}
+.float_left {
+    float:left;
+}
+.float_right {
+    float:right;
+}
+table.student_screening  td {
+    padding-left: 10px;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+table.student_healthcard{
+    color: #333333;
+    width: 100%;
+    margin: 10px 0 25px;
+    margin-top: 10px;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+table.student_healthcard tr{
+    height: 45px !important;
+    border: 1px solid #ddd;
+}
+table.student_healthcard  th {
+    background: #ffffff;
+    color: #000;
+    text-align: left;
+    font-size: 17px;
+    font-family: 'Open Sans';
+    padding-left: 10px;
+    border: 1px solid #ddd;
+}
+table.student_healthcard  td {
+    padding-left: 10px;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+table.student_healthcard  > tbody > tr:nth-child(2n) > td {
+    background-color: #ffffff;
+}
+}

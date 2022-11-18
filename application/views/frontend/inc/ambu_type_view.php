@@ -1,0 +1,1 @@
+<input type="hidden" name="incient[amb_type]" id="amb_type" value="<?php echo $ambu_type->ambu_type;?>">

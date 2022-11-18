@@ -1,0 +1,3 @@
+<div class="width100 float_left">
+        <input name="handover_odometer" onkeyup="this.value=this.value.replace(/[^\d]/,'')" tabindex="20" class="  form_input filter_maxlength[8]" placeholder="Enter Handover Odometer" type="text" data-base="search_btn" value="<?php echo $get_odometer[0]->handover_odometer; ?>"  data-errors="{filter_required:'hospital Odometer should not be blank!',filter_valuegreaterthan:'hospital Odometer should greater than or equlto scene Odometer',filter_rangelength:'Hospital Odometer should <?php echo $get_odometer[0]->handover_odometer; ?>',filter_maxlength:'Hospital Odometer number at max 7 digit long.'}" id="hospital_odometer_pcr"  <?php echo $odo_hospital_disabled; ?> >
+</div>

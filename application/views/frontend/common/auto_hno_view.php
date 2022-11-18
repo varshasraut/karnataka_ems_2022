@@ -1,0 +1,1 @@
+<input name="<?php echo $dt_rel; ?>[hno]" value="<?php echo $house_no; ?>" class="auto_hno" data-base="" type="text" placeholder="House Number" tabindex="<?php echo $tab; ?>">

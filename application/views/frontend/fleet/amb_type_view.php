@@ -1,0 +1,2 @@
+
+<input name="ambt_make" tabindex="23" class="form_input " placeholder="Make" type="text"  data-errors="{filter_required:'Estimate cost should not be blank!',filter_maxlength:'Amount at max 6 digit long',filter_number:'Amount in a number format'}" value="<?= @$amb_type ?>"    <?php echo $update; echo $approve; echo $rerequest;?> readonly="readonly">

@@ -1,0 +1,3 @@
+
+
+                            <input type="text" name="gri[gc_district_code]" data-value="<?= @$grievance_data[0]->dst_name ?>" value="<?= @$grievance_data[0]->dst_code; ?>" class="mi_autocomplete "  data-href="<?php echo base_url() ?>auto/get_hospital_location/<?php echo $hp_district ?>"  placeholder="Base Location" TABINDEX="8" <?php echo $autofocus; ?>  <?php echo $update; ?> <?php echo $view; ?> >

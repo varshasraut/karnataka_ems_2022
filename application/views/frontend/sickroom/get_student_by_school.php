@@ -1,0 +1,1 @@
+<input name="student_id" value="<?=@$amb[0]->school_id;?>" class="mi_autocomplete width99 filter_required" data-href="{base_url}auto/get_auto_student?school_id=<?php echo $school_id;?>"  data-base="" tabindex="7" data-value="<?php echo $amb[0]->school_name; ?>" data-nonedit="yes" readonly="readonly" data-errors="{filter_required:'Student should not be blank'}">

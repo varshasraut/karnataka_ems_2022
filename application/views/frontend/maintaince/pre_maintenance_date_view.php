@@ -1,0 +1,1 @@
+ <input type="text" name="maintaince[mt_pre_maintenance_date]"  value="<?= @$mt_pre_maintenance_date; ?>" class="" placeholder="Previous Maintenance date" data-errors="{filter_required:'Previous Maintenance date '}" TABINDEX="8">

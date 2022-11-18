@@ -1,0 +1,62 @@
+{"CallUniqueID":1562074450,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562074264,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562074040,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562073994,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562073933,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562073893,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562073153,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1562073124,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561988648,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561988604,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561988488,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561988469,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561988176,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987872,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987860,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987839,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987804,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987803,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987790,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987789,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561987745,"CallState":"C","CallStateDesc":"Connected","CallingDevice":9730015484,"CalledDevice":1001}
+{"CallUniqueID":1561986777,"CallState":"C","CallStateDesc":"Connected","CallingDevice":"9730015484","CalledDevice":"1001"}
+{"CallUniqueID":1561986775,"CallState":"C","CallStateDesc":"Connected","CallingDevice":"9730015484","CalledDevice":"1001"}
+{"CallUniqueID":1561986728,"CallState":"C","CallStateDesc":"Connected","CallingDevice":"9730015484","CalledDevice":"1001"}
+{"CallUniqueID":1561986419,"CallState":"C","CallStateDesc":"Connected","CallingDevice":"9730015484","CalledDevice":"1001"}
+{"CallUniqueID":1561985952,"CallState":"C","CallStateDesc":"Connected","CallingDevice":"9730015484","CalledDevice":"1001"}
+{"CallUniqueID":1561985937,"CallState":"C","CallStateDesc":"Connected","CallingDevice":"9730015484","CalledDevice":"1001"}
+{"ActionID":1561985553,"AgentID":1001,"AgentExtension":101,"AgentCampaign":500,"AgentAction":"LI","AgentActionParam":100}
+{"ActionID":1561985512,"AgentID":1001,"AgentExtension":101,"AgentCampaign":500,"AgentAction":"LI","AgentActionParam":100}
+{"ActionID":1561985511,"AgentID":1001,"AgentExtension":101,"AgentCampaign":500,"AgentAction":"LI","AgentActionParam":100}
+{"ActionID":1561984957,"AgentID":1001,"AgentExtension":101,"AgentCampaign":500,"AgentAction":"LI","AgentActionParam":100}
+{"ActionID":1561984666,"AgentID":1001,"AgentExtension":101,"AgentCampaign":500,"AgentAction":"LI","AgentActionParam":100}
+{"callingFromPhoneNumber":"9730015484","agentNumber":"1076","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9730015484","agentNumber":"1076","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9730015484","agentNumber":"1076","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9730015484","agentNumber":"1076","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9730015484","agentNumber":"1076","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9730015484","agentNumber":"1076","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"7774005483","agentNumber":"1077","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"7774005483","agentNumber":"1077","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9011064886","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9011064886","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9011064886","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9011064886","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9011064886","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1061","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1061","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1012","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1061","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1061","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1060","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1060","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1060","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1060","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9673735290","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9673735290","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9673735290","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"9673735290","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1061","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"1061","agentNumber":"1061","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"917977036951","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}
+{"callingFromPhoneNumber":"917977036951","agentNumber":"5252","message":"Connection is Ringing","status_code":"101"}

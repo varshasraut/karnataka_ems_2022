@@ -1,0 +1,1 @@
+<input name="maintaince_ambulance" value="" class="mi_autocomplete width97 filter_required" data-href="<?php echo base_url();?>/auto/get_baselocation_ambulance/<?php echo $amb_base_location; ?>" placeholder="Ambulance Number" data-errors="{filter_required:'Please select ambulance from dropdown list'}" data-callback-funct="update_base_location" >

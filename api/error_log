@@ -1,0 +1,125 @@
+[11-Nov-2019 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/speroems/public_html/api/application/controllers/Login.php on line 154
+[11-Nov-2019 12:43:51 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/speroems/public_html/api/application/controllers/Login.php on line 154
+[11-Nov-2019 12:44:01 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/speroems/public_html/api/application/controllers/Login.php on line 154
+[11-Nov-2019 12:44:52 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/speroems/public_html/api/application/controllers/Login.php on line 154
+[11-Nov-2019 12:44:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/speroems/public_html/api/application/controllers/Login.php on line 154
+[11-Nov-2019 12:45:16 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/speroems/public_html/api/application/controllers/Login.php on line 154
+[11-Nov-2019 13:18:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/speroems/public_html/api/application/controllers/Login.php on line 340
+[12-Nov-2019 19:04:38 Asia/Calcutta] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/speroems/public_html/api/application/controllers/Login.php on line 709
+[12-Nov-2019 13:39:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/speroems/public_html/api/application/controllers/Login.php on line 705
+[14-Nov-2019 14:33:59 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/speroems/public_html/api/application/controllers/Vehicleotp.php on line 92
+[14-Nov-2019 09:25:44 UTC] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/speroems/public_html/api/application/controllers/Vehicleotp.php on line 90
+[14-Nov-2019 11:37:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/speroems/public_html/api/application/controllers/Checkpilotemtotp.php on line 49
+[14-Nov-2019 17:08:31 Asia/Calcutta] PHP Fatal error:  Call to undefined method CI_Input::get_cookie() in /home/speroems/public_html/api/application/controllers/Checkpilotemtotp.php on line 48
+[20-Nov-2019 05:43:41 UTC] PHP Parse error:  syntax error, unexpected ''error'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/speroems/public_html/api/application/controllers/Assignincidentcalls.php on line 19
+[20-Nov-2019 11:44:02 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/speroems/public_html/api/application/controllers/Driverparameters.php on line 14
+[21-Nov-2019 15:08:47 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getEmtPilot() in /home/speroems/public_html/api/application/controllers/Driverparameters.php on line 17
+[26-Nov-2019 15:44:51 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::editPatient() in /home/speroems/public_html/api/application/controllers/Patientadd.php on line 130
+[27-Nov-2019 18:38:11 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::editPatientData() in /home/speroems/public_html/api/application/controllers/Patientadd.php on line 144
+[06-Dec-2019 15:55:35 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 360 seconds exceeded in /home/speroems/public_html/api/system/libraries/Session/drivers/Session_files_driver.php on line 267
+[06-Dec-2019 16:05:36 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 360 seconds exceeded in /home/speroems/public_html/api/system/libraries/Session/drivers/Session_files_driver.php on line 267
+[26-Dec-2019 12:37:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/speroems/public_html/api/application/controllers/Assignincidentcalls.php on line 124
+[31-Dec-2019 07:54:04 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ']' in /home/speroems/public_html/api/application/controllers/Patientdetails.php on line 49
+[06-Jan-2020 14:24:01 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::checkPilot() in /home/speroems/public_html/api/application/controllers/Pilotemtotp.php on line 296
+[06-Jan-2020 14:29:58 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::checkPilot() in /home/speroems/public_html/api/application/controllers/Pilotemtotp.php on line 296
+[06-Jan-2020 14:32:26 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::checkPilot() in /home/speroems/public_html/api/application/controllers/Pilotemtotp.php on line 296
+[07-Jan-2020 14:17:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ';' in /home/speroems/public_html/api/application/models/User.php on line 1369
+[16-Jan-2020 15:47:06 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getWithPatner() in /home/speroems/public_html/apinewinstance/application/controllers/Driverparameters.php on line 36
+[16-Jan-2020 16:21:15 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getWithPatner() in /home/speroems/public_html/apinewinstance/application/controllers/Driverparameters.php on line 36
+[16-Jan-2020 16:36:12 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getWithPatner() in /home/speroems/public_html/apinewinstance/application/controllers/Driverparameters.php on line 36
+[16-Jan-2020 16:36:20 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getWithPatner() in /home/speroems/public_html/apinewinstance/application/controllers/Driverparameters.php on line 36
+[16-Jan-2020 16:37:20 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getWithPatner() in /home/speroems/public_html/apinewinstance/application/controllers/Driverparameters.php on line 36
+[20-Jan-2020 17:11:13 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/speroems/public_html/apinewinstance/application/controllers/Googlenotification.php on line 24
+[20-Jan-2020 17:11:13 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/speroems/public_html/apinewinstance/application/controllers/Googlenotification.php on line 24
+[20-Jan-2020 17:12:58 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/speroems/public_html/apinewinstance/application/controllers/Googlenotification.php on line 25
+[20-Jan-2020 17:12:59 Asia/Calcutta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/speroems/public_html/apinewinstance/application/controllers/Googlenotification.php on line 25
+[22-Jan-2020 10:48:42 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/speroems/public_html/apinewinstance/application/controllers/Assignincidentcallsdeatils.php on line 21
+[07-Feb-2020 05:49:20 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:28 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[07-Feb-2020 05:49:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/speroems/public_html/api/application/controllers/Listassignincidentcalls.php on line 20
+[18-Apr-2020 00:09:07 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:09:20 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:09:24 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:09:44 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:09:48 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:11:08 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:11:25 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:11:41 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:11:45 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 30
+[18-Apr-2020 00:12:39 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:12:57 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:13:43 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:13:51 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:14:22 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:14:31 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:14:34 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:14:37 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:14:42 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:14:51 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:15:07 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:15:09 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:15:12 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:15:14 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:15:46 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:26 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:29 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:36 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:36 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:36 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:36 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:38 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:43 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:47 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:50 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:18:53 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:19:00 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:19:04 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:19:53 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:20:08 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:20:53 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:26:53 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:27:00 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:27:10 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:27:12 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:27:25 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:28:15 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:28:18 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:32:56 Asia/Calcutta] PHP Fatal error:  Call to a member function baseMonth() on a non-object in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 31
+[18-Apr-2020 00:34:29 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getEpcrPkId() in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 33
+[18-Apr-2020 00:34:38 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getEpcrPkId() in /home/speroems/public_html/api/application/controllers/Patienthandovercondition.php on line 33
+[18-Apr-2020 22:09:31 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/speroems/public_html/api/application/models/User.php on line 1209
+[07-May-2020 11:17:07 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::insertLatLong() in /home/speroems/public_html/api/application/models/User.php on line 2701
+[07-May-2020 11:30:00 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::insertLatLong() in /home/speroems/public_html/api/application/models/User.php on line 2701
+[07-May-2020 11:31:43 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::insertLatLong() in /home/speroems/public_html/api/application/models/User.php on line 2701
+[07-May-2020 11:32:06 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::insertLatLong() in /home/speroems/public_html/api/application/models/User.php on line 2701
+[11-Jun-2020 12:59:06 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:10 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:15 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:16 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:18 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:19 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:36 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:38 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:47 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:49 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 12:59:58 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 13:00:04 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[11-Jun-2020 13:00:05 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::UpdateLatLong() in /home/speroems/public_html/api/application/controllers/Latlong.php on line 22
+[19-Jul-2020 13:17:38 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::checkdevicelogin() in /home/speroems/public_html/pcmcapi/application/models/User.php on line 2721
+[19-Jul-2020 13:21:09 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::checkdevicelogin() in /home/speroems/public_html/pcmcapi/application/models/User.php on line 2721
+[19-Jul-2020 13:26:22 Asia/Calcutta] PHP Fatal error:  Cannot redeclare User::checkdevicelogin() in /home/speroems/public_html/pcmcapi/application/models/User.php on line 2721
+[19-Jul-2020 13:38:02 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getuserOtp() in /home/speroems/public_html/pcmcapi/application/controllers/Driverlogin.php on line 38
+[19-Jul-2020 13:38:40 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::getuserOtp() in /home/speroems/public_html/pcmcapi/application/controllers/Driverlogin.php on line 38
+[19-Jul-2020 14:18:10 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::updateusertOtp() in /home/speroems/public_html/pcmcapi/application/controllers/Driverlogin.php on line 60
+[19-Jul-2020 16:42:19 Asia/Calcutta] PHP Fatal error:  Call to undefined method User::updateusertOtp() in /home/speroems/public_html/pcmcapi/application/controllers/Driverlogin.php on line 59

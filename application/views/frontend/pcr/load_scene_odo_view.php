@@ -1,0 +1,3 @@
+<div class="width100 float_left">
+    <input name="scene_odometer" onkeyup="this.value=this.value.replace(/[^\d]/,'')" tabindex="20" class=" form_input <?php echo $filter_greterthan; ?> filter_maxlength[8]" placeholder="Enter Scene Odometer" type="text" data-base="search_btn" value="<?php echo $get_odometer[0]->scene_odometer; ?>"  id="scene_odometer_pcr" <?php echo $odo_scene_disabled; ?> >
+</div>

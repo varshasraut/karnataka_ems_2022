@@ -1,0 +1,1 @@
+   <input name="cluster[cluster_id]" tabindex="17" class="mi_autocomplete form_input" placeholder="Cluster" type="text" data-errors="{filter_required:'Cluster should not be blank!'}" data-href="<?php echo base_url();?>auto/get_auto_cluster/<?php echo $po_id;?>" data-value="" data-qr="po_id=<?php echo $po_id;?>" >

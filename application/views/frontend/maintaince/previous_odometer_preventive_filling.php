@@ -1,0 +1,52 @@
+<?php
+// $odometer = $previous_odometer . '-' . $previous_odometer;
+
+// $filter_rangelength = "filter_rangelength[" . $odometer . "]";
+?>
+<div class="width2 float_left">
+    <div class="field_lable float_left width33"><label for="previous_odometer">Previous Preventive Maintenance Odometer<span class="md_field">*</span></label></div>
+
+    <div class="filed_input float_left width50" >
+        <input type="text" name="maintaince[mt_preventive_previos_odometer]" id="filling_previous_odometer" value="<?= @$current_odometer; ?>"  onkeyup="sum(this);"   class="filter_required filter_maxlength[7] filter_number" placeholder="Previous Odometer" data-errors="{filter_required:'Please select Previous Odometer',filter_maxlength:'Preventive Maintenance Previous Odometer at max 6 digit long.',filter_number:'number shuold be integer'}" TABINDEX="8" readonly='readonly'>
+
+
+    </div>
+</div>
+ <div class="width2 float_left">
+                        
+                        <div class="field_lable float_left width33"><label for="mt_ex_onroad_datetime">Last System Updated Odometer<span class="md_field">*</span></label></div>
+
+                        <div class="filed_input float_left width50" >
+                              <input type="text" name="previous_odometer" id="previous_odometer" value="<?=@$previous_odometer;?>" class="filter_required" placeholder="Previous Odometer" data-errors="{filter_required:'Previous Odometer should not be blank'}" TABINDEX="8" <?php echo $update; echo $approve; echo $rerequest;?>>
+                              
+                           
+                           
+                        </div> 
+ </div> 
+<div class="width2 float_left">
+    <div class="field_lable float_left width33"><label for="in_odometer">Current Odometer<span class="md_field">*</span></label></div>
+
+    <div class="filed_input float_left width50" >
+
+        <input type="text" name="in_odometer" class="filter_required filter_valuegreaterthan[<?=@$previous_odometer;?>] filter_maxlength[7] filter_number" id="end_odometer" onkeyup="sum(this);" placeholder="Current Odometer" data-errors="{filter_required:'In odometer should not be blank',filter_valuegreaterthan:'Current Odometer should greater than or equal Previous Odometer' ,filter_maxlength:'Previous Odometer at max 6 digit long.',filter_number:'number shuold be integer'}" TABINDEX="8">
+    </div>
+</div>
+<div class="width2 float_left">
+    <div class="field_lable float_left width33"><label for="in_odometer">Odo meter Difference<span class="md_field">*</span></label></div>
+
+    <div class="filed_input float_left width50" >
+
+        <input type="text" id="distance" name="odometer_diff" class="filter_maxlength[7] filter_number" id="end_odometer" placeholder="Odo meter Difference" data-errors="{filter_required:'In odometer should not be blank',filter_valuegreaterthan:'Current Odometer should greater than or equal Previous Odometer' ,filter_maxlength:'Previous Odometer at max 6 digit long.',filter_number:'number shuold be integer'}" TABINDEX="8">
+    </div>
+</div>
+<script>
+function sum(field){
+      field.value = field.value.replace(/[^\d]/, "");
+      var txtFirstNumberValue = document.getElementById('previous_odometer').value;
+      var txtSecondNumberValue = document.getElementById('end_odometer').value;
+      var result = parseInt(txtSecondNumberValue) - parseInt(txtFirstNumberValue);
+      if (!isNaN(result)) {
+         document.getElementById('distance').value = result;
+      }
+}
+</script>

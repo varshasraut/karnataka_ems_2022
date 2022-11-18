@@ -1,0 +1,1 @@
+<input type="hidden" id="hidden_caller_id" name="caller[caller_id]" value="<?php echo @$caller_id; ?>" data-base="caller[cl_purpose]">

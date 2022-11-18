@@ -1,0 +1,1586 @@
+@media screen and (max-width: 1400px) {
+    input[name="search"]{
+        width: 60%;
+    }
+    .login_wrapper .trans_box .button_box{
+        padding-top: 0px !important;
+    }
+    .login_wrapper .trans_box .ems_logo {
+        height: 78px !important;
+    }
+    .login_wrapper .trans_box{
+        padding: 12px 20px 40px 20px !important;
+    }
+    
+}
+@media screen and (max-width: 1360px) {
+    #container .grp_actions_width{
+        width: 62%;
+    }
+    #pcr_top_steps .header_top_link{
+        padding: 0px 30px 0px 30px !important;
+    }
+    .mt_atnd_calls .caller_details .call_bx {
+        padding: 15px 8px 0px !important;
+    }
+}
+@media screen and (max-width: 1300px) {
+    input[name="search"]{
+        width: 56%;
+    }
+    #pcr_top_steps .header_top_link{
+        padding: 0px 10px 0px 10px !important;
+    }
+    #PCR_STEPS li a,.pcr_contentpan .chkbox_check,.pcr_contentpan select,.pcr_contentpan input[type="text"],#consent_form p,#consent_form span{
+       font-size:13px !important;
+    }   
+    .header_right_block {
+       width: 68%;
+    }
+    .logo_label {
+       padding: 13px 13px 13px 0px !important;
+    }
+    .profile_user_name {
+        padding: 0px 10px 0px 10px !important;
+    }
+    #container .grp_actions_width {
+        width: 77% !important;
+    }
+    .pcr_contentpan .bottom_outer .width30{
+        width: 35% !important;
+    }
+    #add_caller_details .width_14{
+        width:13% !important;
+        font-size:12px !important;
+    }
+    #add_caller_details .call_bx{
+        max-height: 64px;
+    }   
+    .field_error_show::after {
+        font-size:12px !important;
+    } 
+    .bottom_outer .width33{
+        width: 40% !important;
+    }
+}
+
+@media all and (max-width:1200px){   
+    .pcr_contentpan .bottom_outer .width30{
+        width: 38% !important;
+    }   
+    .header_top_link ul li a {
+        padding-left: 25px;
+    }    
+    #pcr_top_steps .header_top_link {
+        padding: 0px 5px 0px 5px !important;
+    } 
+    .logo_content {
+       padding-left: 15px !important;
+       width: 161px !important;
+    }
+    .header_wrapper .profile_content {
+        padding-right: 15px !important;
+    }
+    #add_res_view .add_res_outer .width50 {
+        width: 100% !important;
+    }
+    .outer_inp_search .width70{
+        width:60% !important;
+    }
+
+    .header_wrapper .profile_box {
+        padding-top: 20px !important;
+    }  
+    .calls .header_right_block{
+        width: 70%;
+    }
+    
+}
+@media all and (max-width:1152px){ 
+    #list_table .table th{
+        font-size:15px!important;
+    }
+    #list_table .table td,.bottom_outer .width30,#stock_req_form legend,#stock_req_form input[type="text"],#stock_req_form select, #ero_dash #list_table .table th{
+       font-size:12px!important;
+    }    
+    #PCR_STEPS li a,#add_caller_details select,#add_caller_details input[type="text"], #ero_dash #list_table .table td{
+       font-size: 11px !important;
+    }
+    .header_top_link ul li.hospital_trans_icon a {
+       padding-left:23px !important;
+    }
+    .header_top_link ul li a {
+       padding-left: 22px;
+    }
+    .accept_btn {
+       padding: 8px 30px !important;
+    }
+    .pcr_contentpan .style6{
+       padding:2px 0px 4px 0px !important;
+    }
+    #container .group_action_field {
+       padding: 0 0px;
+    }
+    #container .grp_actions_width {
+       width: 83% !important;
+    }
+    .head_logo {
+     width: 121px !important;
+    }
+    .logo_label span {
+        padding-left: 10px !important;
+        font-size: 16px !important;
+    }
+   
+
+    .head_logout_lnk {
+        padding: 6px 8px 6px 10px !important;
+        font-size: 12px !important;
+    }
+    .head .profile_content .profile_box .head_links a {
+         margin-left: 5px;
+    }
+    .logo_label {
+        padding: 13px 13px 16px 0px !important;
+    }
+    .profile_user_name{
+       font-size:13px !important;
+       display: none;
+    }
+    #add_caller_details .width_14 {
+      width: 14% !important;
+    }
+    .bottom_outer .width33{
+       width:47% !important;
+    }
+    #content{
+       margin: 0px 25px 0px 33px !important;
+    }
+}
+@media all and (max-width:1024px){ 
+    input.style3[type="button"]{
+      padding: 7px 31px !important;
+    }
+    a.attend_call {
+      width: 123px !important;
+      padding: 5px 13px !important;
+      text-align: center;
+    }
+    .logo_content {
+       width: 143px !important;
+    }   
+}
+
+@media all and (max-width: 980px) {   
+    .list_icon{
+       display:inline-block;
+       padding-right: 17px;
+    }
+    #home_nav_bar .navigation ul li.incomplete_step::before {
+        width: 2px;
+        height: 5px;
+        left: 9px;
+        border-left: 4px solid #f3f3f3;
+    }
+    .field_error_show::after {                                  
+        font-size:10px !important;
+    }
+    .pcr_contentpan .chkbox_check{
+        font-size: 12px !important;; 
+    }
+     #home_nav_bar,.pcr_active_tab{
+        background-color: #696969 !important;
+    }
+    #home_nav_bar ul li a{
+        font-size: 14px !important;        
+    }
+    #header_main #home_nav_bar .navigation ul li a {
+       padding-left: 42px !important;
+    }
+    .navigation ul li a:hover {
+        background-color: #202020 !important;
+        max-height: 40px;
+    }
+    #home_nav_bar ul li.consents_icon a {
+         background: url('../images/consents.png') no-repeat 10px center;
+    }
+    #home_nav_bar ul li.menu_icon a {
+        background: url('../images/close_icon.png') no-repeat 10px center;
+    }
+    #home_nav_bar ul li.patient_history_icon a {
+        background: url('../images/patient_history.png') no-repeat 10px center;
+    }
+    #home_nav_bar ul li.patient_ass1_icon a {
+        background: url('../images/Patient_ass1.png') no-repeat 10px center;
+    }
+    #home_nav_bar ul li.trauma_ass_icon a {
+        background: url('../images/call_info_icon.png') no-repeat 10px center;
+    }
+    #home_nav_bar ul li.patient_ass3_icon a {
+        background: url('../images/patient_ass3.png') no-repeat 10px center;
+    }
+    #home_nav_bar ul li.patient_manage1_icon a {
+        background: url('../images/patient_managment1.png') no-repeat 10px center;
+        padding-left: 30px;
+    }
+    #home_nav_bar ul li.patient_manage2_icon a {
+        background: url('../images/patient_mangement.png') no-repeat 10px center;
+        padding-left: 30px;
+    }
+    #home_nav_bar ul li.hospital_trans_icon a {
+        background: url('../images/hospital_transper.png') no-repeat 10px center;
+        padding-left: 30px;
+    }
+    #home_nav_bar ul li.driver_pcr_icon a {
+        background: url('../images/driver_pcr.png') no-repeat 10px center;
+    }
+    .list_icon{
+        padding:9px 5px 0px 7px !important; 
+    }
+    #PCR_STEPS li{
+        display:none !important;
+    }
+     .list_icon img{      
+        padding-right: 12px;
+    }
+    .list_icon .menu_titile{
+        position:absolute;
+        left: 63px;
+        top: 147px;
+    }
+    .menu_titile,.list_icon img{
+          display:inline-block !important;
+    }
+    .pcr_contentpan .label{
+        padding:5px 0px 5px 0px !important;
+    }
+     .pcr_contentpan input[type="text"] {
+        margin-bottom: 5px;
+    }
+    table.style2 th,table.style2 td{
+        font-size: 12px !important;
+        padding: 5px !important;
+    }
+    .map_block_outer .map_inc_button {
+        height: 50px !important;
+        width: 220px !important;
+        padding-left: 28px !important;
+        padding-right: 20px !important;
+    }
+    .map_block_outer .map_inc_button .bullet {
+      padding-left: 30px !important;
+      line-height: 47px !important;
+    }
+    .extend_map_block{
+       margin-top:10px !important;
+    }  
+    #home_nav_bar{
+        width:100% !important;
+        top: 120px !important;
+        position: absolute;
+        top:116px;
+    }
+    #home_nav_bar ul li{
+        display:block !important;
+        max-height: 40px;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 45% !important;
+    }
+    #add_res_view .map_inc_button {
+        margin: -6px auto !important;
+    }
+    #add_inc_details #fwdcmp_btn {
+        margin-top: 9px !important;
+    }    
+    .extend_map{
+       display:none;
+    }
+}
+@media all and (max-width: 960px) {
+    #fwdcmp_btn .style4{  
+        padding: 7px 55px 7px 27px;    
+    }
+    input.style3[type="button"]{
+        padding: 7px 24px !important;
+    }
+    #call_dls_info .style6,.pcr_contentpan input[type="text"],.pcr_contentpan textarea ,.pcr_contentpan select{
+        font-size:13px !important;
+    }
+    .pcr_contentpan .chkbox_check, #ero_dash #list_table .table th{
+        font-size: 11px !important;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 45% !important;
+    }     
+    #fwdcmp_btninput[name="search_btn"] {
+       padding: 7px 58px !important;
+    }
+    #ero_dash #list_table .table td {
+        font-size: 10px !important;
+    }
+    .bottom_outer .width33 {
+        width: 50% !important;
+    }
+    
+    /*header*/
+    .profile_user_name{
+        display: unset;
+    }
+    .header_top_link ul li {
+        padding-left: 3px !important;
+    }
+    .logo_label {
+        padding: 10px 20px 0px 0px !important;
+        width: 85%;
+    }
+    #header_main #home_nav_bar .navigation ul li a {
+        padding-left: 29px !important;
+    }
+    .header_right_block,head_prof_info,.outer_spero,.head_links{
+        width: 100% !important;
+    }
+    .head_links{
+        background-color:white;
+        padding:7px 0px 7px 0px !important;
+    }
+    .head_links a{
+        display:inline-block;               
+        background-image: url('../images/call_icon.png') no-repeat 10px 5px !important;
+    }
+    .head_links .lnk_icon_btns{
+        background-color: #085b80 !important;
+        color:#fff;
+    }
+   
+    .header_wrapper .profile_content {
+       padding-right: 0px !important;
+    }
+    .header_wrapper .profile_box {
+        padding-top: 6px !important;
+        height: auto !important;
+    }
+    .head_logo {
+       height: 40px !important;
+       width: 96px !important;
+    }
+    .header_wrapper .head {
+       border-bottom: none !important;
+       height: auto;
+    }
+    .logo_content {
+        padding-left: 45px !important;
+        width: 166px !important;
+        padding-bottom: 0px !important;
+        margin-top: 6px !important;
+            height: 46px;
+    }
+    .profile_user_name {
+        font-size: 15px !important;
+    }
+    .head_prof_info{
+        text-align: left;
+        margin-bottom: 15px;
+        padding-left: 3px;
+        float:none !important;
+    }
+    .outer_spero{
+         display:inline-block;
+         background:#fff;
+    }
+    .logo_label span {
+      font-size: 21px !important;
+    }  
+    .common_header .header_right_block{
+        max-height: 66px !important;
+    }
+    #add_res_view .map_inc_button {
+       margin: -17px auto !important;
+    }
+    .header_wrapper .profile_content {
+       width: 100% !important;
+    }
+    #content {
+        margin: 0px 25px 0px 27px !important;
+    }    
+    .dropdown-content {
+        top: 36px;
+    }
+    .head .profile_content .profile_box .head_links a{
+        width: 110px;
+    }
+    .profile_box .bvg_logo {
+        width: 90px;
+        height: 40px;
+        margin-right: 15px;
+        margin-top: -8px;
+    }
+    .header_left_block{
+        width: 120px;
+    }
+    .contentpan .hide_button,
+    .contentpan .show_button{
+        top:180px;
+    }
+    #container .leftsidebar {
+        top: 176px;
+    }
+    a.lnk_icon_btns {
+        padding: 5px 10px 5px 27px !important;
+    }
+    #rightsidecontent #content{
+        padding: 155px 0px 25px 0px;
+    }
+    .mt_atnd_calls{
+        padding-top: 155px;
+    }
+}
+@media all and (max-width: 920px) {
+  
+    
+    /*header*/
+  
+    .logo_label {
+        padding: 10px 20px 0px 0px !important;
+        width: 85%;
+    }
+    .header_left_block {
+    width: 128px;
+}
+   
+}
+@media only screen and (max-width: 890px) {
+    #fwdcmp_btn .style4{  
+        font-size: 13px;
+    }       
+    #ercp_dash #list_table .table td{
+        font-size:11px !important;
+    }
+    #ercp_dash #list_table .table th{
+        font-size:12px !important;
+    }
+}
+@media only screen and (max-width: 860px) {
+    #add_caller_details .outer_caller_dl{
+         width: 19% !important;
+        font-size: 10px !important;
+    }
+    #add_caller_details .input_call_outer{
+         width: 71% !important;
+        display: inline-block;
+    }
+    #add_caller_details .input_call_outer .width_14 {
+       width: 33% !important;
+    }
+    #add_caller_details .call_bx {
+        max-height: 124px !important;
+    }
+    #add_caller_details select{
+        padding: 6px 19px 6px 2px !important;
+    }
+    .mt_atnd_calls .caller_details .call_bx {
+        padding: 15px 0px 0px !important;
+        margin-left:0px !important;
+    }   
+    .mt_atnd_calls #call_purpose_form .call_purpose_form_outer {
+       padding: 4px 2% 25px 2% !important;
+       margin : 0px !important;
+    }
+    #add_caller_details .outer_caller_dl h3{
+        margin-left:10px;
+    }
+    .mt_atnd_calls .caller_details .call_bx {
+        width:100% !important;
+    }
+    .mt_atnd_calls #call_purpose_form, .mt_atnd_calls #call_purpose_form {
+        padding-right:0px !important;
+    }
+}
+@media all and (max-width: 854px){
+    .header_left_block {
+    width: 115px;
+}
+    .logo_label {
+    padding: 10px 20px 0px 0px !important;
+    width: 81%;
+}
+    input.style3[type="button"] {
+      padding: 7px 18px !important;
+    }      
+    #list_table .table td::before, .style2 td::before, .table_wrp .style5 td::before, .box3 .style3 td::before, .inc_ambu_list table td::before,#previous_incident_details .style5 td::before{
+        display:inline-block;
+        height:inherit;
+        position:absolute;
+        left:0; top:0;right:0;bottom:0;        
+        text-align:center;        
+        width:150px!important;        
+        line-height: 25px;        
+        padding:5px!important;        
+        font-family: Open Sans;         
+        font-size:14px;         
+    }      
+   
+    .table_wrp .style5 .field_error_show::after {
+        top: -33px !important;
+    }
+    .table_wrp .style5 .field_error_show::before,#view_indent .style3 .field_error_show::before {
+       border-width: 0px 1px !important;
+    }
+    table.style2{
+        border-bottom:1px solid #c0c0c0 !important;
+    }
+    #list_table .table th,.style2 th,.table_wrp .style5 th,.box3 .style3 td.dis_none,.inc_ambu_list table th,#previous_incident_details .style5 th{ display:none;}
+    
+    .style2 td,table.style2 td, #list_table .table td,.table_wrp .style5 td,.box3 .style3 td,.inc_ambu_list table td,#previous_incident_details .style5 td{
+        width:100%!important; 
+        font-size:14px;
+        position:relative; 
+        padding-left:200px!important;
+        clear:both!important; 
+        float:left;
+        display:inline-block;
+        min-height: 40px;
+    }
+    .inc_ambu_list table td{
+        min-height:40px;
+    }
+    .table_wrp .style5 td::before{
+          background:#ffff;
+          color: #666666; 
+          border-right:1px solid #c0c0c0;
+          font-weight: 600;
+    }    
+    .style2 td::before{
+        background-color:#F3F3F3;
+        color: #696969;           
+    }
+    .box3 .style3 td::before,.style2 td::before,.inc_ambu_list table td::before{
+          border-right:1px solid #C0C0C0;
+    }
+    #driver_pcr .style5 .txt {
+        width: 74% !important;
+        height: 31px !important;
+        margin:5px 0px 5px 0px !important;
+    }
+    .table_wrp .style5 td,.box3 .style3 td,.inc_ambu_list table td,#previous_incident_details .style5 td{    
+        line-height: 40px;   
+        border-bottom:none !important;
+    }
+    #inc_pt_info .style3 td{
+        line-height: 30px;
+    }
+    #add_res_view .style3 td{
+        line-height: 20px;
+    }
+    .table_wrp .style5 td:last-child,.box3 .style3 td:last-child,.inc_ambu_list table td:last-child ,#previous_incident_details .style5 td:last-child{
+         margin-bottom:15px;            
+         border-bottom:1px solid #C0C0C0 !important;
+    }
+    #list_table .table td:last-child{
+       overflow: inherit;
+    }   
+    a.attend_call {
+        padding: 0px 11px !important;
+        font-size: 11px !important;
+    }
+    #list_table table > tbody > tr:nth-child(n) > td {
+       background-color: #F3F3F3;
+    }    
+    #driver_pcr .style5 td:nth-child(1)::before{content:"Type/Parameter";}
+    #driver_pcr .style5 td:nth-child(2)::before{content:"Time";}
+    #driver_pcr .style5 td:nth-child(3)::before{content:"Km";}    
+    
+    #selected_non_unit_drugs_view .table_wrp .style5 td:nth-child(1)::before{content:"Inventory Id";}
+    #selected_non_unit_drugs_view .table_wrp .style5 td:nth-child(2)::before{content:"Inventory Title";}
+    
+    #show_selected_unit_item .table_wrp .style5 td:nth-child(1)::before{content:"Inventory Id";}
+    #show_selected_unit_item .table_wrp .style5 td:nth-child(2)::before{content:"Inventory Title";}
+    #show_selected_unit_item .table_wrp .style5 td:nth-child(3)::before{content:"Quantity";}
+    
+    #disable_div_truma_assessment .table_wrp .style5 td:nth-child(1)::before{content:"Name";}
+    #disable_div_truma_assessment .table_wrp .style5 td:nth-child(2)::before{content:"Select Injury";}
+    #disable_div_truma_assessment .table_wrp .style5 td:nth-child(3)::before{content:"Action";} 
+    
+    #disable_div_truma_assessment #selected_front_detail .style5 td:nth-child(1)::before{content:"Name";}
+    #disable_div_truma_assessment #selected_front_detail .style5 td:nth-child(2)::before{content:"Injury Name";}
+    #disable_div_truma_assessment #selected_front_detail .style5 td:nth-child(3)::before{content:"Action";} 
+    
+    #complnt_form .style2 td:nth-child(1)::before{content:"Sr.No";}
+    #complnt_form .style2 td:nth-child(2)::before{content:"Incident Id";}
+    #complnt_form .style2 td:nth-child(3)::before{content:"Incident Location";}
+    #complnt_form .style2 td:nth-child(4)::before{content:"Patient Name";}
+    #complnt_form .style2 td:nth-child(5)::before{content:"Date";}
+    #complnt_form .style2 td:nth-child(6)::before{content:"Time";}
+    #complnt_form .style2 td:nth-child(7)::before{content:"Action";}
+    
+    #ero_dash #list_table .table td:nth-child(1)::before{content:"Sr.No";}
+    #ero_dash #list_table .table td:nth-child(2)::before{content:"Inc Ref ID";}
+    #ero_dash #list_table .table td:nth-child(3)::before{content:"Caller Name";}
+    #ero_dash #list_table .table td:nth-child(4)::before{content:"Patient Name";}
+    #ero_dash #list_table .table td:nth-child(5)::before{content:"Mobile No";}
+    #ero_dash #list_table .table td:nth-child(6)::before{content:"Incident Address";}
+    #ero_dash #list_table .table td:nth-child(7)::before{content:"EMT";}
+    #ero_dash #list_table .table td:nth-child(8)::before{content:"Driver";}
+    #ero_dash #list_table .table td:nth-child(9)::before{content:"Ambulance";}
+    #ero_dash #list_table .table td:nth-child(10)::before{content:"Call Time";}
+    #ero_dash #list_table .table td:nth-child(11)::before{content:"Date";}
+    #ero_dash #list_table .table td:nth-child(11){margin-bottom:15px;}
+    
+    #ercp_dash #list_table .table td:nth-child(1)::before{content:"Sr.No";}
+    #ercp_dash #list_table .table td:nth-child(2)::before{content:"Incident Ref ID";}
+    #ercp_dash #list_table .table td:nth-child(3)::before{content:"Caller Name";}
+    #ercp_dash #list_table .table td:nth-child(4)::before{content:"Caller Mobile";}
+    #ercp_dash #list_table .table td:nth-child(5)::before{content:"Incident Address";}
+    #ercp_dash #list_table .table td:nth-child(6)::before{content:"Date";}
+    #ercp_dash #list_table .table td:nth-child(7)::before{content:"Action";}
+    #ercp_dash #list_table .table td:nth-child(7)::before{margin-bottom:15px;}
+    #ercp_dash #list_table .table td.no_before:nth-child(1)::before{display:none;background :#fff;margin-bottom:15px;}
+    #ercp_dash #list_table .table td.no_before ul li{line-height:15px;}
+    #ercp_dash #list_table .table td.no_before{background :#fff;padding:0px !important;}
+    
+    #amb_dash #list_table .table td:nth-child(1)::before{content:"Sr.No";}
+    #amb_dash #list_table .table td:nth-child(2)::before{content:"Register Number";}
+    #amb_dash #list_table .table td:nth-child(3)::before{content:"Mobile Number";}
+    #amb_dash #list_table .table td:nth-child(4)::before{content:"Base Location";}
+    #amb_dash #list_table .table td:nth-child(5)::before{content:"Type";}
+    #amb_dash #list_table .table td:nth-child(6)::before{content:"Status";}
+    #amb_dash #list_table .table td:nth-child(7)::before{content:"Action";}
+    #amb_dash #list_table .table td:nth-child(7)::before{margin-bottom:15px;}
+    
+    #inc_map_details .border td:nth-child(1)::before{content:"Base Location";}
+    #inc_map_details .border td:nth-child(2)::before{content:"RTO Reg. No";}
+    #inc_map_details .border td:nth-child(3)::before{content:"Type";}
+    #inc_map_details .border td:nth-child(4)::before{content:"Distance";}
+    #inc_map_details .border td:nth-child(5)::before{content:"Time";}
+    #inc_map_details .border td:nth-child(6)::before{content:"Mobile 1";}
+    #inc_map_details .border td:nth-child(7)::before{content:"Mobile 2";}
+    #inc_map_details .border td:nth-child(8)::before{content:"Status";}
+    
+    #previous_incident_details .border td:nth-child(1)::before{content:"Incident Id";}
+    #previous_incident_details .border td:nth-child(2)::before{content:"Complaint Type";}
+    #previous_incident_details .border td:nth-child(3)::before{content:"Caller Name";}
+    #previous_incident_details .border td:nth-child(4)::before{content:"Caller Mobile";}
+    #previous_incident_details .border td:nth-child(5)::before{content:"Address";}
+    #previous_incident_details .border td:nth-child(6)::before{content:"Incident Type";}
+    #previous_incident_details .border td:nth-child(7)::before{content:"Date";}
+    
+    #ptn_inv_mng .width56 .style5 td:nth-child(1)::before{content:"Name";}
+    #ptn_inv_mng .width56 .style5 td:nth-child(2)::before{content:"Quantity";}
+    #ptn_inv_mng .width56 .style5 td:nth-child(3)::before{content:"Minimum";}
+    #ptn_inv_mng .width56 .style5 td:nth-child(4)::before{content:"Maximum";}
+    #ptn_inv_mng .width56 .style5 td:nth-child(5)::before{content:"Unit";}
+    #ptn_inv_mng .width56 .style5 td:nth-child(6)::before{content:"Action";}
+    
+    #view_indent .style3 td:nth-child(1)::before{content:"Sr no";}
+    #view_indent .style3 td:nth-child(2)::before{content:"#SKU";}
+    #view_indent .style3 td:nth-child(3)::before{content:"Item Name";}
+    #view_indent .style3 td:nth-child(4)::before{content:"Request Qty";}
+    #view_indent .style3 td:nth-child(5)::before{content:"Dispatch Qty";}
+    #view_indent .style3 td:nth-child(6)::before{content:"Received Qty";}
+    
+    #ptn_inv_mng .width40 .style5 td:nth-child(1)::before{content:"Name";}
+    #ptn_inv_mng .width40 .style5 td:nth-child(2)::before{content:"Quantity";}
+    #ptn_inv_mng .width40 .style5 td:nth-child(3)::before{content:"Action";}
+    
+    #followup_call_form .style2 td:nth-child(1)::before{content:"Sr.No";}
+    #followup_call_form .style2 td:nth-child(2)::before{content:"Incident Id";}
+    #followup_call_form .style2 td:nth-child(3)::before{content:"Incident Location";}
+    #followup_call_form .style2 td:nth-child(4)::before{content:"Patient Name";}
+    #followup_call_form .style2 td:nth-child(5)::before{content:"Date";}
+    #followup_call_form .style2 td:nth-child(6)::before{content:"Time";}
+    #followup_call_form .style2 td:nth-child(7)::before{content:"Action";}
+    #followup_call_form .style2 td:nth-child(7){margin-bottom:15px;border-bottom: 1px solid #C0C0C0 !important; }
+    #content table tr { height: auto !important;}
+    
+    #feedback_form .style2 td:nth-child(1)::before{ content:"Sr.No";}
+    #feedback_form .style2 td:nth-child(2)::before{content:"Incident Id";}
+    #feedback_form .style2 td:nth-child(3)::before{content:"Incident Location";}
+    #feedback_form .style2 td:nth-child(4)::before{content:"Patient Name";}
+    #feedback_form .style2 td:nth-child(5)::before{content:"Date";}
+    #feedback_form .style2 td:nth-child(6)::before{content:"Time";}
+    #feedback_form .style2 td:nth-child(7)::before{content:"Action";}
+    #feedback_form .style2 td:nth-child(7){margin-bottom:15px;border-bottom: 1px solid #C0C0C0 !important; }
+    
+    .tabl_btm_note {
+        margin-top: -3px !important;
+    }
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(1)::before{ content:"Sr no";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(2)::before{content:"Inc Ref ID";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(3)::before{content:"Incident Address";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(4)::before{content:"Date";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(5)::before{content:"Patient Count";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(6)::before{content:"Closer";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(7)::before{content:"Pending";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(8)::before{content:"Action";}
+    .pcr_contentpan #amb_list #list_table .table td:nth-child(8){margin-bottom:15px;}
+    
+
+    .pcr_contentpan #inc_list #list_table .table td{text-align: left;}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(1)::before{ content:"Date";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(2)::before{content:"District";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(3)::before{content:"Base Location";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(4)::before{content:"Amb Reg Number";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(5)::before{content:"Referance ID";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(6)::before{content:"SHP Name";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(7)::before{content:"SHP Mobile1";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(8)::before{content:"SHP Mobile2";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(9)::before{content:"Patient Count";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(10)::before{content:"Closer";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(11)::before{content:"Pending";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(12)::before{content:"Action";}
+    .pcr_contentpan #inc_list #list_table .table td:nth-child(12){margin-bottom:15px;}
+    
+    .pcr_contentpan #ind_list #list_table .table td:nth-child(1)::before{ content:"Request From";}
+    .pcr_contentpan #ind_list #list_table .table td:nth-child(2)::before{content:"Base Location";}
+    .pcr_contentpan #ind_list #list_table .table td:nth-child(3)::before{content:"Date";}
+    .pcr_contentpan #ind_list #list_table .table td:nth-child(4)::before{content:"Status";}
+    .pcr_contentpan #ind_list #list_table .table td:nth-child(5)::before{content:"Action";}
+    .pcr_contentpan #ind_list #list_table .table td:nth-child(5){margin-bottom:15px;}
+    
+    .contentpan #student_list #list_table .table td:nth-child(1)::before{ content:"Sr no";}
+    .contentpan #student_list #list_table .table td:nth-child(2)::before{content:"Registration No";}
+    .contentpan #student_list #list_table .table td:nth-child(3)::before{content:"Student Name";}
+    .contentpan #student_list #list_table .table td:nth-child(4)::before{content:"School Name";}
+    .contentpan #student_list #list_table .table td:nth-child(5)::before{content:"Action";}
+    .contentpan #student_list #list_table .table td:nth-child(5){margin-bottom:15px;}
+    
+    .pcr_contentpan #amb_filters .width60{
+        width:100% !important;
+    }
+    .pcr_contentpan #amb_filters .width60 .width30 {
+        width:70% !important;
+    }
+    .pcr_contentpan #amb_filters .width60 .width15  {
+        width:30% !important;
+    }
+    .user_action_box{
+        width:57px !important;
+    }
+    .box3 .style3 {
+         border-bottom: none !important;
+    }     
+    .box3 #view_indent .style3{
+        margin: 5px 0 25px !important;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 55% !important;
+    }
+    .pagination {
+       width:100% !important;
+       padding-bottom:10px !important;
+    }  
+    #driver_pcr .table_wrp .style5 .field_error_show::after {
+        top: -41px !important;
+    }
+    .inc_ambu_list .border,#previous_incident_details .style5{
+        margin: 10px 0 1px !important;
+    }
+    .inc_ambu_list .border td::before {
+        color:#2acfca;
+    }
+    #previous_incident_details .style5 td.no_record{
+        padding-left: 0px !important;
+    }
+    #ero_dash #list_table .table td {
+        font-size: 12px !important;
+    }
+    #amb_dash #list_table td .btn{
+        padding: 4px 14px !important;
+        font-size:11px !important;
+    }
+    #amb_dash #list_table .table td:last-child, #ercp_dash #list_table .table td:last-child{
+        min-height:55px;
+    }
+    .bottom_outer .width33 {
+       width: 55% !important
+    }
+    #add_inc_details #fwdcmp_btn {
+        margin-top: 0px !important;
+    }
+    .bottom_outer{
+        margin-top:8px;
+    }
+}
+@media all and (max-width: 800px) {
+    #fwdcmp_btn .style4 {
+        padding: 7px 48px 7px 21px !important;
+        font-size: 12px !important;
+    }
+    #google_formated_add,.around_km input[type="text"].mi_autocomplete_input{
+        width:96% !important;
+    }
+    .disnon{
+       display:none;
+    }
+    #add_caller_details .width_14 {
+       width: 21% !important;
+    }
+    #add_caller_details .width_14 h3{
+       margin: 0px 0px 40px 10px;
+    } 
+}
+@media all and (max-width:785px){
+    input.style3[type="button"] {
+        padding: 7px 15px !important;
+        font-size:13px !important; 
+    }
+    #content {
+        margin: 0px 19px 0px 23px !important;
+    }
+}
+@media all and (max-width:760px){
+    #fwdcmp_btn input.style4[type="button"]{
+        bottom: auto !important;
+        top: 129px !important;
+    }
+    #fwdcmp_btn{
+        float:left;
+        display-inline:block;
+        width:100%;
+        margin-bottom: 10px;
+    }
+    table.style2 td,table.style3 td,table.style4 td,.style2 td::before,#incact input[type="button"],#fdqa_table table.style4 td select{
+      font-size: 13px !important;
+    }          
+    #fwdcmp_btn input.style4[type="button"]{
+        right: 207px !important;
+        top: 128px !important;
+    }
+    .bottom_outer .width33 {
+        width: 48% !important;
+    }
+    .bottom_outer .width33 {
+        width: 58% !important;
+    }
+}
+@media all and (max-width:727px){ 
+    .outer_clg_photo{
+        position: relative;
+        float: left; 
+    }
+    .outer_clg_photo .clg_photo{
+       float:left;
+       top: 3px !important;
+       right: -2px !important;
+    }
+    #profile_photo{
+        display:block !important;
+    }
+}
+@media all and (max-width: 695px){  
+    input.style3[type="button"] {
+        padding: 7px 10px !important;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 62% !important;
+    }
+    #caller_details #add_caller_details .call_bx,.pcr_contentpan {
+        width:100% !important;
+    }
+    #calls_inc_list{
+        padding-right:0px !important;
+    }
+    #content {
+        margin: 0px 19px 0px 17px !important;
+    }
+    .bottom_outer .width33 {
+        width: 68% !important;
+    }
+    logo_label {
+         width: 75%;
+    }
+}
+@media only screen and (max-width: 672px) {
+    .style3 td,.style4 td,.style2 td::before,table.style2 td,.inc_ambu_list .inc_ambu_list h3{
+        font-size:13px !important;
+    }
+    #content .breadcrumb ul li span,#content .breadcrumb ul li a {
+        font-size: 16px !important;
+    }
+}
+@media only screen and (max-width: 665px) {
+    #incact input[type="button"]{
+        font-size:13px !important;
+    }
+    .bottom_outer{
+        padding-top: 16px !important;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 71% !important;
+    }     
+    #fwdcmp_btn input.style4[type="button"] {
+        right: 113px !important;
+    }
+}
+@media all and (max-width: 640px) {
+     .logo_label {
+    padding: 10px 20px 0px 0px !important;
+    width: 75%;
+}
+    #test_call_form .test_que,#test_call_form .text_area,#add_res_view .res_ch, .bottom_outer .width38 .record_per_pg span{
+        font-size:13px !important;
+    }
+    .next_pre_outer .prev_btn,.next_pre_outer .next_btn{
+        padding: 9px 37px !important;
+    }
+    .bottom_outer .width38,.bottom_outer .width38 .record_per_pg .per_page_box_wrapper, .bottom_outer{
+        width: 100% !important;
+    }    
+    .bottom_outer{
+        position:relative;
+    }
+    .bottom_outer .width38 .record_per_pg .per_page_box_wrapper,.bottom_outer{
+        float:right;
+    }
+    .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+       width: 20% !important;
+    }
+    .emt_landing_page .tdd_dash_buttons{
+        width: 100%;
+    }
+}
+@media all and (max-width: 620px) {
+    .style4{
+        padding: 9px 56px 8px 20px !important;
+    }
+    .table_wrp .style5 td::before,.bottom_outer .dropdown_pg_txt,.bottom_outer span{
+       font-size:13px !important;
+    }
+    .table_wrp .style5 td{
+       font-size:12px !important;
+    }
+    #add_caller_details .input_call_outer .width_14 {
+       width: 30% !important;
+    }
+}
+@media all and (max-width: 600px) {
+    .prev_btn ,next_btn{
+       padding: 9px 26px !important;
+    }
+
+   .accept_outer {
+        margin-top: 10px !important;
+    }
+    .pcr_main .next_pre_outer {
+        padding-right: 38px !important;
+    }
+    .accept_btn {
+        padding: 8px 22px !important;
+        font-size: 13px !important;
+    }     
+    #add_caller_details .width_14 {
+        width: 25% !important;
+    }
+    #add_caller_details .input_call_outer {
+      width: 75% !important;
+    }     
+    #content {
+        margin: 0px 19px 0px 12px !important;
+   }
+   .pagination{
+       margin-bottom:10px;
+   }
+}
+@media all and (max-width: 565px) {
+    #list_table .table td::before{
+        font-size: 13px !important;
+    }
+    #list_table .table td {
+        padding: 5px 0px 5px 183px !important;
+        line-height: 24px !important;      
+    }
+    input.style5[type="button"] {
+        padding: 8px 26px !important;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 63% !important;
+    }
+    .next_pre_outer .prev_btn, .next_pre_outer .next_btn {
+        padding: 8px 25px !important;
+    }
+    .inc_ambu_list .border td,#previous_incident_details .style5 td{
+        padding-left: 135px !important;
+    }
+    #list_table .table td,.inc_ambu_list .border td,#previous_incident_details .style5 td{       
+      font-size: 11px !important;
+    }
+   .inc_ambu_list table td::before,#previous_incident_details .style5 td::before{
+       width: 100px !important;
+       font-size: 12px !important;
+   }
+}
+@media all and (max-width: 540px) {
+      .logo_label {
+    padding: 10px 20px 0px 0px !important;
+    width: 75%;
+}
+    #fwdcmp_btn input.style4[type="button"] {
+        float:none !important;
+    }
+    .login_wrapper .trans_box .button_box {
+        padding-top: 42px !important;
+    }
+    .login_wrapper .trans_box {
+        padding: 8px 20px 40px 20px !important;
+    }
+    #add_caller_details .outer_caller_dl {
+        width: 20% !important;
+    }
+    #add_caller_details .input_call_outer .width_14 {
+        width: 32% !important;
+    }
+    .login_wrapper .trans_box .ems_logo {
+        background-size: 153px 59px !important;
+        width: 177px !important;
+        height: 70px !important;   
+    }
+    .login_form .button_box {
+        margin: -20px 0px !important;
+    }
+    .accept_outer{
+        margin-top: 10px !important;
+    }
+    #rightsidecontent #content {
+        padding: 15px 12px 12px 12px !important; 
+    }
+    table.style2 td{
+        padding-left: 183px !important;
+    }
+    .style2 td::before, table.style2 td{
+        font-size: 13px !important;
+    }
+    .accept_btn,.prev_btn ,.next_btn{
+        font-size: 12px !important;
+    }
+    table.style2 td {
+        padding-left: 164px !important;
+    }
+    input.style3[type="button"] {
+        padding: 7px 12px !important;
+    } 
+    #add_caller_details .outer_caller_dl {
+        font-size: 9px !important;
+    }
+    #add_caller_details .input_call_outer {
+        width: 80% !important;
+    }
+    #ercp_dash .bottom_outer .width33 {
+        width: 50% !important;
+    }
+    .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 25% !important;
+    }
+    .record_per_pg .per_page_box_wrapper{
+        float:right;
+    }
+    #ercp_dash .bottom_outer .width33 {
+        width: 50% !important;
+    }
+    #content {
+        margin: 0px 6px 0px 14px !important;
+    }
+    .bottom_outer .width33,.pcr_contentpan .bottom_outer .width30 {
+        width: 46% !important;
+    }
+}
+@media all and (max-width:498px){
+    .style4 {
+      padding: 9px 53px 8px 15px !important;
+    }
+    .label{
+        font-size:12px !important;
+    }
+    #fdqa_table .style4 td,#truma_info .width30{
+        width:50% !important;
+        padding-left: 0px !important;
+    }
+    #fdqa_table .style4 th{
+        padding-left: 0px !important;
+    }
+     #incact input[type="button"], .style4, .style5 {
+        font-size:11px !important;
+    }
+    .bottom_outer .width30 {
+        width: 80% !important;
+    }
+    #add_caller_details .width_14 h3 {
+        margin:0px !important;
+    }
+}
+@media all and (max-width: 480px) {  
+    .table_wrp .style5 td {
+        padding-left: 177px !important;
+    }
+    .inc_ambu_list .border td,#previous_incident_details .style5 td{
+        padding-left: 115px !important;
+        font-size: 10px !important;
+    }
+    .inc_ambu_list table td::before,#previous_incident_details .style5 td::before{
+        width: 87px !important;
+        font-size: 11px !important;
+    }
+    #add_caller_details .width_14 {
+        width: 20% !important;
+    }
+    #add_caller_details .outer_caller_dl{
+        width: 100% !important;
+        margin-bottom:0px !important
+    }
+    #add_caller_details .width_14 select {
+        margin-bottom: 2px;        
+    }
+    #add_caller_details .input_call_outer .width_14 {
+        width: 50% !important;
+    }
+    #add_caller_details .input_call_outer{
+        padding-top: 5px !important;
+        width: 100% !important;
+        padding-left: 10px !important;
+    }
+    #add_caller_details .width_14 h3{
+        margin:10px 0px 0px 0px !important;
+    }    
+    .mt_atnd_calls .caller_details .call_bx {
+        min-height: 147px !important;
+        padding: 5px 0px 0px !important;
+    }
+    .mt_atnd_calls #call_purpose_form .call_purpose_form_outer {
+        margin: -1px 0px 11px 0px !important;
+    }
+    #add_caller_details .outer_caller_dl {
+        font-size: 11px !important;
+    }
+}
+@media all and (max-width:465px){
+    .accept_outer {
+        float: right !important;
+    }   
+    #fwdcmp_btn input.style4[type="button"] {
+        right: 42px !important;
+    }
+    .box3 .style3 td::before {
+        width: 115px !important;
+        font-size: 13px !important;
+    }
+    .box3 .style3 td {
+        padding-left: 150px !important;
+        font-size: 12px !important;
+        line-height: 20px !important;
+        min-height: 40px;
+        padding-top: 10px;
+    }
+    .pcr_main .next_pre_outer,.accept_outer{
+        width: 50% !important;
+    } 
+    table.style2,.pcr_main .next_pre_outer{
+        margin-top: 10px !important;
+    }
+    input.style3[type="button"] {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }    
+    input.style5[type="button"] {
+        padding: 8px 26px !important;
+        margin-bottom:10px !important;
+    }
+    .style4 {
+        padding: 9px 62px 8px 30px !important;   
+    }
+    input.style5[type="button"] {
+        padding: 8px 40px !important;
+    }
+    #call_purpose_form h3{
+        font-size:15px !important;
+    }
+    #call_purpose_form input.style4[type="button"]{
+        float:none !important;
+    }
+    .accept_outer,.pcr_main .next_pre_outer{
+        width: 100% !important;
+    }   
+}
+@media all and (max-width:455px){
+    .table_wrp .style5 td::before{
+        width: 120px !important;
+    }
+    .login_wrapper .trans_box {
+       width: 366px !important;
+    }
+    .style5 td {
+        padding-left: 151px !important;
+    }
+    .bottom_outer .width30 {
+        width: 92% !important;
+    }
+    .dropdown-content {
+        padding: 0px 3px !important;
+        font-size: 10px !important;
+        min-width: 109px !important;
+    }
+    .dropdown-content::before {
+        right: 47px !important;
+        top: -8px !important;
+    }
+    .ind_drp .dropdown-content{
+        min-width: 99px !important;
+    }
+}
+@media all and (max-width: 432px) {
+      .logo_label {
+    padding: 10px 20px 0px 0px !important;
+    width: 65%;
+}
+    .label,.inc_pt_info .font_weight600,.style4 th{
+        font-size:13px !important;
+    }
+    .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+       width: 24% !important;
+    }
+    #fwdcmp_btn{
+        margin-bottom: 20px !important;
+    }
+    .pcr_contentpan #rightsidecontent #content {
+        padding: 15px 0px 0px 0px !important;
+    }    
+    #rightsidecontent #content {
+        padding: 15px 10px 0px 10px !important;
+    }
+    .mt_atnd_calls #call_purpose_form .call_purpose_form_outer {
+       margin: -2px 0px 10px 0px !important;
+       padding: 4px 3% 25px 3% !important;
+       width: 100% !important;
+    }    
+}
+@media all and (max-width:420px){
+    .head_logout_lnk {
+        padding: 6px 5px 3px 7px !important;       
+    }
+    .profile_user_name {
+       font-size: 13px !important;
+    }
+    .dash_lnk,.prof_lnk,.ind_lnk{
+       margin-left:0px !important;
+    }
+   a.lnk_icon_btns,.head_logout_lnk,.table_wrp .style5 td::before, #patient_form #get_answer .chkbox_check, #patient_form .past_med_his .chkbox_check, #patient_form .type_case .chkbox_check{
+       font-size: 11px !important;
+    }
+   .head_logout_lnk {
+       padding: 4px 4px 2px 7px !important;
+    }
+   .logo_label span {
+     font-size: 17px !important;
+   }
+   .table_wrp .style5 td {
+        font-size: 10px !important;
+        padding-left: 151px !important;
+   }
+    #list_table .table td::before{
+        width: 135px !important;
+    }   
+    #list_table .table td {
+        padding: 5px 0px 5px 166px !important;
+    }
+    #add_inc_details .dub_inc{
+        margin-bottom:5px;
+    }
+    .common_header .header_right_block {
+        max-height: 62px !important;
+    }
+    .dropdown-content {
+        top: 33px;
+    }
+}
+@media all and (max-width: 400px) {
+    .inc_ambu_list .border td,#previous_incident_details .style5 td{
+       line-height: 30px;
+    }
+   .table_wrp .style5 td {
+        padding-left: 150px !important;
+    }
+    .login_wrapper .trans_box .ems_logo {
+        background-size: 130px 51px !important;
+        width: 130px !important;
+        height: 70px !important;
+    }
+    .login_wrapper .trans_box {
+        width: 323px !important;
+    }
+    .style4 th{
+        font-size:13px !important;
+    }
+   #list_table .table td::before,.confirm_save li{
+       font-size: 12px !important;
+   }
+    table.style2 td,.style2 td::before,.inc_pt_info .style3 td,.style4 td,.bottom_outer .width30,#list_table .table td::before,#ero_dash #list_table .table td{
+      font-size: 11px !important;
+    }   
+    #fwdcmp_btn .style4,#fwdcmp_btn .submit_btnt,#list_table .table td,.confirm_save .accept_btn,.confirm_save input.style3[type="button"],#complnt_form textarea,.inc_pt_info .font_weight600,.save_btn_wrapper .style4,#ptn_inv_mng .style6{
+        font-size: 10px !important;
+    }    
+    .bottom_outer .width30 {
+        width: 100% !important;
+    }   
+    #list_table .table td::before {
+        width: 120px !important;
+    }
+    #list_table .table td {
+        padding: 5px 0px 5px 143px !important;
+    }   
+    #content .breadcrumb ul li {
+       padding-left:5px !important;
+    }
+    #complnt_form #fwdcmp_btn {
+        margin-bottom: 57px !important;
+    }
+    .pcr_contentpan .bottom_outer .width30 {
+        width: 52% !important;
+    }
+   .field_error_show::after,.field_error_show::before {
+        left: 0;
+        right: auto !important;
+    }
+    .lefterror.field_error_show::after, .lefterror.field_error_show::before{
+        left:auto !important;
+        right: 0 !important;
+    }
+}
+@media only screen and (max-width: 387px) {
+    #rightsidecontent {
+        padding-right: 16px !important;
+        padding-left: 16px !important;
+    }  
+}
+@media only screen and (max-width: 380px) {
+    .inc_ambu_list .border td,#previous_incident_details .style5 td{
+        padding-left: 99px !important;
+    }
+    .inc_ambu_list table td::before,#previous_incident_details .style5 td::before{
+        width: 77px !important;
+    }
+    .logo_content {
+        padding-left: 19px !important;
+        width: 130px !important;
+    }
+     .inc_ambu_list table td::before,#previous_incident_details .style5 td::before,.inc_ambu_list .border td,#previous_incident_details .style5 td{
+        font-size: 9px !important;
+    }
+    #list_table .table td::before {
+        width: 127px !important;
+    }
+     #list_table .table td {
+        padding: 5px 0px 5px 155px !important;
+    }
+    .table_wrp .style5 td {
+        padding-left: 130px !important;
+    }
+    .table_wrp .style5 td::before {
+        width: 106px !important;
+    }    
+    #content .breadcrumb ul li span, #content .breadcrumb ul li a {
+       font-size: 14px !important;
+    }
+   .bottom_outer .width33 {
+        width: 88% !important;
+    }
+    #ero_dash .bottom_outer .width33, #amb_dash .bottom_outer .width33 {
+        width: 60% !important;
+    }
+    #content {
+        margin: 0px 8px 0px 16px !important;
+        width: 90% !important;
+    }        
+    .pagination a,.pagination strong{
+        margin-left:2px !important;
+    }
+   .pagination a:first-child {
+        width: 39px;
+   }
+}
+@media all and (max-width: 360px) {
+    .field_error_show::before {
+        right: 8px !important;
+    } 
+    .login_wrapper .trans_box {
+        width: 295px !important;
+    }
+    .logo_label span {
+       font-size: 14px !important;
+    }
+    #call_purpose_form h3 {
+      font-size: 13px !important;
+    }
+    .box3 .style3 td::before,.profile_user_name, #call_purpose_form .label,input.style3[type="button"],#stock_req_form .label,.login_form select,.confirm_save span{
+        font-size: 12px !important;
+    }
+    .box3 .style3 td,#list_table .table td::before, .login_wrapper .trans_box,.bottom_outer .dropdown_pg_txt,.bottom_outer span{
+        font-size: 11px !important;
+    }
+    a.lnk_icon_btns, .head_logout_lnk {
+       font-size: 9px !important;
+    }
+    .list_icon .menu_titile {
+        top: 128px !important;
+    }    
+    .ind_drp .dropdown-content::before {
+        right: 33px !important;
+        top: -9px !important;
+    }
+    .ind_drp .dropdown-content{
+        left: -28px !important;
+    }    
+    .head_logo {
+        height: 34px !important;
+        width: 87px !important;
+    }
+    .head_prof_info {
+        margin-bottom: 8px !important;
+    }   
+    #call_purpose_form .style4 {
+        padding: 9px 53px 8px 15px !important;
+    }    
+    #call_purpose_form .call_purpose_form_outer {
+        padding: 4px 15px 25px 15px !important;
+    }
+    #list_table .table td::before {
+        width: 117px !important;
+    }
+    #list_table .table td{
+        font-size:10px !important;
+        padding: 5px 0px 5px 141px !important;
+    }
+    .table_wrp .style5 td {
+        padding-left: 112px !important;
+    }  
+    .table_wrp .style5 td::before {
+        width: 92px !important;   
+    }
+    .head_outer h3{
+        font-size:15px !important;
+    }
+    .dropdown-content {
+        top: 30px !important;
+    }
+    .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 27% !important;
+    }
+    #fwdcmp_btn input[name="search_btn"] {
+        padding: 7px 53px 7px 20px !important;
+    }
+    #add_res_view .map_inc_button {
+        font-size: 10px !important;
+        height: 35px !important;
+        width: 173px !important;
+    }   
+    #add_res_view .map_block_outer .map_inc_button .bullet {
+        padding-left: 27px !important;
+        line-height: 36px !important;
+    }
+    #add_caller_details .call_bx{
+       min-height: 167px !important;
+    }
+    .bottom_outer .width33{
+        width:100% !important;
+    }
+    #ero_dash .bottom_outer .width33, #amb_dash .bottom_outer .width33 {
+        width: 75% !important;
+    }
+    #fwdcmp_btn .btn{
+        margin-bottom:5px !important;
+    }
+    .common_header .header_right_block {
+        max-height: 53px !important;
+    }
+}
+@media all and (max-width:340px){
+    .lefterror.field_error_show::after, .lefterror.field_error_show::before{
+        left:0 !important;
+        right: auto !important;
+    }
+    a.lnk_icon_btns {
+       padding: 5px 7px 5px 25px !important;
+    }
+    #call_dls_info{
+        width: 95%;
+    }
+    .lnk_icon_btns{
+        background-size: 16% !important;
+    }
+    #fwdcmp_btn .style4 {
+       padding: 7px 44px 7px 11px !important;
+    }
+    #fwdcmp_btn .style4 ,#fwdcmp_btn .submit_btnt{
+       font-size: 9px !important;
+    }
+    .bottom_outer .width38 .record_per_pg .per_page_box_wrapper .dropdown_per_page {
+        width: 34% !important;
+    } 
+    #list_table .table td::before {
+       width: 100px !important;
+    }
+    #list_table .table td {
+      padding: 5px 0px 5px 128px !important;
+    }
+    .head .profile_content .profile_box .head_links a{
+       margin-left: 0px !important;
+    }
+    .logo_content {
+        padding-left: 15px !important;
+        width: 115px !important;
+    }
+    a.lnk_icon_btns, .head_logout_lnk {
+        font-size: 8px !important;
+    }
+    #fwdcmp_btn input.style4[type="button"] {
+       right: 31px !important;
+    }
+   .mt_atnd_calls .caller_details .call_bx, #add_caller_details .call_bx {
+        min-height: 257px !important;
+    }
+    #add_caller_details .input_call_outer .width_14 {
+        width: 100% !important;
+    }
+    #add_caller_details .width_14 select {
+        margin-bottom: 6px;
+    }
+    .mt_atnd_calls #call_purpose_form .call_purpose_form_outer {
+          margin: -1px 0px 10px 0px !important;
+    }
+    .head_links {
+        padding: 7px 0px 8px 0px !important;
+    }
+    .common_header .header_right_block {
+        max-height: 52px !important;
+    }
+    .dropdown-content::before {
+        top: -10px !important;
+    }
+}
+@media all and (max-width: 320px) {
+    .table_wrp .style5 td {
+         padding-left: 102px !important;
+    }   
+   .profile_user_name {
+       font-size: 11px !important;
+    }
+    .table_wrp .style5 td::before {
+        width: 83px !important;
+    }
+    #fwdcmp_btn .style4 {
+        padding: 7px 40px 7px 7px !important;
+    }
+    .tabl_btm_note , .field_error_show::after {
+        font-size: 9px !important;
+    }
+    #content {
+        margin: 0px 8px 0px 12px !important;
+    }
+    #list_table .table td::before {
+        width: 94px !important;
+    }
+    #list_table .table td {
+        padding: 5px 0px 5px 120px !important;
+    }  
+}
+
+
+

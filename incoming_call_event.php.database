@@ -1,0 +1,135 @@
+<?php
+header("Content-Type: text/event-stream");
+header('Cache-Control: no-cache');
+error_reporting(0);
+date_default_timezone_set('Asia/Kolkata');
+if(!session_id()){ session_start(); }
+
+$call_clg_group = array('UG-ERO', 'UG-ERO-102');
+$agent_id   = $_GET['avaya_agentid'];
+$clg_group  = $_GET['clg_group'];
+
+if( empty($agent_id) || !in_array($clg_group, $call_clg_group) ) {
+    exit();
+}
+
+$_SESSION['incoming_calls_event'] = 1;
+
+while (1) {
+
+	echo "id:".time() . PHP_EOL;
+    echo "event:ping".PHP_EOL;
+    echo 'data:{"time": "' . time() . '"}'.PHP_EOL;
+    echo PHP_EOL;
+    
+    $resp_data = array();
+    $current_time = strtotime(date('Y-m-d H:i:s'));
+    
+    $incoming_calls_event = $_SESSION['incoming_calls_event'];
+    if ( connection_aborted() || connection_status() != CONNECTION_NORMAL || $incoming_calls_event == 0 ){   
+        exit();
+    }
+
+	$start = date('Y-m-d H:i:s');
+    $previous_time =  date('Y-m-d H:i:s',strtotime('-20 seconds',strtotime($start)));
+    $args_call = array('agent_no' => $agent_id,'status'=>'R','call_rinning_datetime'=>$previous_time);
+    $avaya_call = get_avaya_call_by_ext($args_call);
+
+    $current_call = $_SESSION['current_call'];
+
+    if ( !empty($avaya_call) && $avaya_call->CallUniqueID != $current_call ) {
+		//$avaya_call->calling_phone_no = '0'.trim($avaya_call->calling_phone_no ,"0");
+
+        $_SESSION['current_call'] = $avaya_call->CallUniqueID;
+
+        $resp_data['m_no'] = $avaya_call->calling_phone_no;
+        $resp_data['ext_no'] = $avaya_call->agent_no;
+        $resp_data['CallUniqueID'] = $avaya_call->CallUniqueID;
+        $resp_data["mobile_no"] = $avaya_call->calling_phone_no;
+        $resp_data["action"] = 'open_dialer';
+        $resp_data["data_qr"] = "output_position=content&tool_code=mt_atnd_calls&m_no={$avaya_call->calling_phone_no}&ext_no={$avaya_call->agent_no}&CallUniqueID={$avaya_call->CallUniqueID}";
+
+        $resp_data = json_encode($resp_data);
+
+        echo "id:".time() . PHP_EOL;
+        echo "data:$resp_data" . PHP_EOL;
+        echo PHP_EOL;
+
+    }
+	// else if( empty($avaya_call) && $current_call != "" ){
+		
+		// $args_dis_call = array('agent_no' => $agent_id,'CallUniqueID' => $current_call,'status'=>'D');
+		// $avaya_call_dis = get_avaya_call_by_ext($args_dis_call);
+		
+		// if(!empty(avaya_call_dis)){
+			 // $_SESSION['current_call'] = '';
+			// $resp_data = json_encode(array('action'=>'hide_dialer'));
+
+			// echo "id:".time() . PHP_EOL;
+			// echo "data:$resp_data" . PHP_EOL;
+			// echo PHP_EOL;
+		// }
+
+    // }
+
+    //while (ob_get_level() > 0) {
+    //    ob_end_flush();
+    //}
+    
+    ob_flush();
+    flush();
+
+    usleep(0500000);
+	//break;
+
+}
+
+function get_avaya_call_by_ext( $args ){
+    
+    $db_con = mysqli_connect("localhost:3308", "root", "", "speroems_MHems");
+    
+    if (mysqli_connect_errno()){
+        echo "Failed to connect to MySQL: " . mysqli_connect_error();
+    }
+    
+     
+        $condition = "";
+        $condition .= "AND agent_no = '" . $args['agent_no'] . "' ";
+        //$condition .= "AND status = '" . $args['status'] . "' ";
+		$condition .= "AND status IN ('R','B') ";
+		
+
+		
+		if($args['CallUniqueID'] != ''){
+			$condition .= "AND CallUniqueID = '" . $args['CallUniqueID'] . "' ";
+		}
+		if($args['call_rinning_datetime'] != ''){
+			//$condition .= "AND call_rinning_datetime > '" . $args['call_rinning_datetime'] . "'  ";
+            $from = $args['call_rinning_datetime'];
+            $to = date('Y-m-d H:i:s');
+            $condition .= "AND call_rinning_datetime BETWEEN '$from' AND '$to'";
+		}
+       
+       
+       
+         $sql_query = "SELECT *"
+            . " FROM ems_avaya_incoming_call"
+            . " WHERE is_deleted = '0' $condition ORDER BY call_datetime DESC limit 0, 1"; 
+        
+    $result_data = array();
+    if ($result = mysqli_query($db_con, $sql_query) ) {
+        while( $obj = mysqli_fetch_object($result) ){
+            $result_data[] = $obj;
+        }
+        mysqli_free_result($result);
+    }
+
+    mysqli_close($db_con);
+    if($result_data){
+        return $result_data[0];
+    } else {
+        return false;
+    }
+    
+}
+

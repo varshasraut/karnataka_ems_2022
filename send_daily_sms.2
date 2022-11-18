@@ -1,0 +1,333 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="utf-8" http-equiv="encoding">
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Emergency Medical Services</title>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,700,800' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="http://localhost/tdd/themes/backend/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="http://localhost/tdd/themes/backend/css/jquery-ui-timepicker-addon.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/tdd/themes/backend/css/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/tdd/themes/backend/css/jquery-ui.structure.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/tdd/themes/backend/css/jquery-ui.theme.css">
+<link rel="stylesheet" type="text/css" href="http://localhost/tdd/themes/backend/css/colorbox.css">
+<link href="http://localhost/tdd/themes/backend/css/style.css" rel="stylesheet" type="text/css" />
+<link href="http://localhost/tdd/themes/backend/css/style_pages.css" rel="stylesheet" type="text/css" />
+<link href="http://localhost/tdd/themes/backend/css/style_responsive_common.css" rel="stylesheet" type="text/css" />
+<link href="http://localhost/tdd/themes/backend/css/style_responsive.css" rel="stylesheet" type="text/css" />
+<!--<link href="http://localhost/tdd/themes/backend/css/cms_widget.css" rel="stylesheet" type="text/css" />-->
+
+<script type="text/javascript" > var base_url = 'http://localhost/tdd/'; </script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/jquery-1.12.1.js"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/jquery-ui.js"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/jquery-ui-timepicker-addon.js"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/jquery.enhanced.cookie.js" ></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/jquery.colorbox.js"></script>
+<!--<script type="text/javascript" src="http://localhost/tdd//jquery-te/jquery-te-1.4.0.min.js" charset="utf-8"></script>-->
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/ch_js.js"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/comman.js?t=1544790342"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/custom.js"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/ms_map.js"></script>
+<script type="text/javascript" src="http://localhost/tdd/themes/backend/js/inc_map.js"></script>
+</head>
+
+<body id="container" class="" data-ng-controller="NotificationCenter">
+ <div id="popupconitainer" style="width:0px; height:0px; overflow:hidden;" ></div>   
+<div id="mi_loader" class="mi_loader"></div> 
+<div id="processbar">
+  <div id="message" style="display:block;">
+    <div id="request" ></div>
+    <div id="usrresponse" ></div>
+  </div>
+</div>
+<div class="header">
+  <div id="header_main" class="brg_clr6">
+<div id="popup_div"></div>   
+
+<div id="custom_script"></div>
+
+<div class="header_wrapper content_pan width100 float_left common_header">
+
+    <div class="head float_left width100">
+
+        <div class="content_wrapper margin_auto">
+
+            <div class="outer_spero">
+                <div class="header_left_block">
+
+                    <div class="logo_content  float_left">
+
+                        <div class="head_logo_img_wrapper width50 float_left">
+
+                            <a href="http://localhost/tdd/"><div class="head_logo"></div></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            
+
+            <div id="section_title" class="logo_label float_left">
+
+                <span>
+
+                    
+                        Operations Manager(SA)
+                </span>
+
+            </div>
+
+           </div>
+
+            <div class="header_right_block">
+
+                <div class="profile_content float_left">
+
+                    <div class="profile_box">
+
+                        <div class="head_prof_info float_right">
+
+                            <span class="profile_user_name text_pan">Welcome </span>
+
+                            <a id="open_74181851" class="logout_open head_logout_lnk" href="http://localhost/tdd/Clg/logout" data-popup-ordinal="0"> <i class="fa fa-sign-out"></i> LOGOUT</a>
+
+                            <!--                                                <a href="#" class="head_logout_lnk">LOGOUT</a>
+
+                            -->
+                            <div class="float_right">
+                                <div class="bvg_logo"></div>
+                            </div>
+
+                        </div>
+
+                        <div class="head_links float_right">
+
+                            <!--                         <a href="http://localhost/tdd/dash" class="lnk_icon_btns dash_lnk">Dashboard</a>-->
+
+                                                                                        <a href="http://localhost/tdd/dash" class="lnk_icon_btns dash_lnk">Dashboard</a>
+                                                        <ul class="float_left">
+                            <li class="dropdown">
+                                <a  class="lnk_icon_btns prof_lnk click-xhttp-request" data-qr="output_position=content&amp;ref_id=&amp;action=edit_data&amp;prof=true">Profile</a>
+                                <ul class="dropdown-content">
+                                    
+                                </ul>
+
+                            </li>
+                            </ul>
+                            <a id="refresh_button" class="lnk_icon_btns refresh_lnk" onClick="window.location.reload()">Refresh</a>
+                                                    </div>
+
+                    </div>
+
+                </div>
+
+                <div class="" id="profile_view_popup_div">
+
+                </div>
+
+                <!--  <ul class="top_left_menu">
+
+                    <li class="user_menu_box"> <a href="#" class="user_menu"><span class="black_down_arrow"></span></a>
+
+                      <div class="first_box_dropdown top_navigation_dropdown_user">
+
+                      <ul class="user_list" id="user_block_scroll">
+
+                          <li><a class="onpage_popup" data-href="http://localhost/tdd/Clg/profile" data-qr="output_position=profile_view_popup_div&amp;module_name=clg&amp;tlcode=MT-CLG-UPDATE&amp;ref_id=&amp;action=view_profile"  data-popupwidth="900" data-popupheight="850" > <i class="fa fa-user"></i> My Profile </a> </li>
+
+                          <li class="divider">&nbsp;</li>
+
+                          <li><a href="#"> <i class="fa fa-gear"></i> Settings </a> </li>
+
+                          <li><a href="#" id="lock_screen_btn" class="click-xhttp-request"><i class="fa fa-sign-out"></i>Lock Screen</a></li>
+
+                          <li> <a id="open_74181851" class="logout_open" href="http://localhost/tdd/Clg/logout" data-popup-ordinal="0"> <i class="fa fa-sign-out"></i> Logout</a> </li>
+
+                        </ul>
+
+                      </div>
+
+                    </li>
+
+                  </ul>-->
+
+            </div>
+
+            
+        </div>
+
+    </div>
+
+</div>
+
+</div>
+</div>
+<div class="contentpan">
+        <div class="leftsidebar">
+          <div id="profile" class="brg_clr5"> <!--<div class="sidebar_profile_view_container">
+    
+    <div class="sidebar_profile_view_block">
+        
+        <div class="profile_pic_div">
+                        
+            <div class="user_profile_pic" style="background: white url('http://localhost/tdd/themes/backend/images/blank_profile_pic.png') no-repeat center center / cover;">
+               
+            </div>
+            
+        </div>
+        
+        <div class="user_profile_name float_left" style="color: white;">
+            
+            <div> </div>
+            
+        </div>
+        
+        <div class="user_profile_group_name float_left">
+            
+            <div></div>
+            
+        </div>
+        
+        <div class="hr_line_div float_left">
+            <div class='line'></div>
+        </div>
+        
+    </div>
+    
+</div>-->
+
+ </div>
+          <div id="" class="brg_clr5 left_side_menu_scroll"> <div class="navigation" >
+
+  <ul>
+
+    
+  </ul>
+
+</div>
+
+ </div>
+          
+        </div>
+
+    <div class="hide_button show_button"></div>
+        <div id="rightsidecontent">
+          <div class="content" align="left" >
+              <div id="filter_data">  </div>
+            <div class="content_pan" style="vertical-align: top">
+                <div id="content">
+                
+                </div>
+            </div>
+            <div id="profiler" style="vertical-align: top; width:1100px;"></div>
+          </div>
+        </div>
+</div>
+    
+    <div id="lockscreen"> 
+<div class="lock_screen_page_container ">
+    
+      
+
+    <div class="lock_screen_outer_block">
+        
+        <div class="width1 screen_lock_login_box">
+            
+            <div class="box3 box3_wrapper_div" style="display: block; visibility: visible; top: 196px; left: 50%; position: absolute; height: 368px; width: 586px; transform:translate(-50%,-50%)">
+                
+                <form method="post" name="screen_lock_form" id="screen_lock_form_id">
+
+                    <div class="right_corner_icon">
+
+                        <input type="button" name="rt_corner_btn" value="" class="form-xhttp-request" data-href="http://localhost/tdd/clg/changeUser" data-qr="output_position=success_check_div&amp;module_name=clg">
+
+                    </div>
+                    <div class="sl_main_content_box">
+
+                        <div class="user_image_box">
+
+                            <div class="user_image" style="background: url('http://localhost/tdd/themes/backend/images/blank_profile_pic.png') no-repeat center center / cover;">
+
+                            </div>
+
+                        </div>
+
+                        <div class="user_name_email_text_box">
+
+                            <h2> </h2>
+                            <h4><span></span></h4>
+                            <div class="break_timer">
+                                <input type='text' id="break_timer_clock" value="" readonly="readonly" name="break_timer_clock"/>
+                                <input type='hidden' id="session_break_time" value="" readonly="readonly" name="session_break_time"/>
+                            </div>
+                            <h4><span>LOCKED</span></h4>
+
+                        </div>
+                        
+                        <div id="success_check_div">
+                            <input type="hidden" name="success_check_field" value="">
+                        </div>
+
+                        <div class="pwd_fields_box">
+
+                            <div class="pwd_fields">
+
+                               
+
+                                <input type="password" name="password" value="" class="sl_pwd_field_input"  autocomplete="off" >
+
+                                <div class="vert_line_div"></div>
+
+                                <input type="button" name="submit_sl_pwd" value="Login" id="submit_lc_pwd_btn" class="form-xhttp-request" data-href="http://localhost/tdd/clg/authenticate_lc_pwd" data-qr="output_position=success_check_div&amp;module_name=clg&amp;ref_id=&amp;user_group=">
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+
+                </form>
+                
+            </div>
+            
+        </div>
+                
+    </div>
+    
+</div>
+
+
+<script>
+//    if( LOCK_SCREEN_FLAG == 0 ){
+//        console.log(LOCK_SCREEN_FLAG);
+//        clock_timer('break_timer_clock','',1544790342);
+//   }else{
+//       StopTimerFunction();
+//   }
+</script> </div>
+                    <div class="footer width100">
+                
+                                <span class="text_pan"> &COPY;Spero ERO System 2018-2019</span>
+                
+                
+            </div>
+</body>
+</html>
+
+

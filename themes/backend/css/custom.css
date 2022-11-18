@@ -1,0 +1,105 @@
+/*//////////////////  MI42  ///////////////////*/
+
+
+/*.width2{
+    width: 49.5% !important;
+}
+
+.tblfooter{
+    padding-bottom:20px;
+}
+#usr_ad_form .field_row #amb_status,#usr_ad_form .field_row #district,#usr_ad_form .field_row #amb_status,#usr_ad_form .field_row #tahshil,#usr_ad_form .field_row #working_area{
+    width: 100% !important;
+}*/
+
+
+
+.Active{
+    color:#2f8000;
+}
+.Inactive{
+    color:#FAAE31;
+}
+th.dif{
+    width:40%!important;
+}
+
+/*//////////////////  MI44  ///////////////////*/
+/*
+
+#amb_list #list_table table td:nth-child(6) {
+    max-width: 150px !important;
+    word-wrap: break-word;
+    line-height: 26px !important;
+    padding-bottom: 8px !important;
+    padding-top: 10px;
+}
+
+
+
+
+#amb_list input[type="text"].mob_no,#hp_list input.mob_no[type="text"] {
+    width: 18% !important;
+    margin-right: 23px;
+    margin-left: 23%;
+}
+#amb_list .search,#hp_list .search {
+    width:100% !important;
+}
+#amb_list .reg_no,#hp_list .reg_no{
+    width: 18% !important;
+}
+
+#amb_list .search_text,#amb_list .search_catalog{
+    width: 25% !important;
+}
+
+
+#amb_list .search_catalog{
+    width: 73% !important;
+}
+
+#amb_list .box_wrapper_record{
+    padding-top:0px !important;
+}
+
+*/.clg_photo {
+    border: 2px solid #00ccff;
+    border-radius: 50%;
+    bottom: 30px;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 80px;
+   top: -29px;
+   right: 87px;
+}/*
+#hosp_filters .search_catalog{
+    width: 69% !important;
+}
+#hosp_filters .search_text{
+    width: 26% !important;
+}
+.filters_groups{
+    width: 100%;
+    float: left;
+    margin: 30px 0 18px 0;
+}
+
+*/
+
+.clg_filt .grp_actions_width{
+    width: 81% !important;
+}
+
+.clg_filt .group_action_field{
+    width: 21% !important;
+}
+
+.clg_filt #search_clg{
+   width: 63% !important;
+}
+.clg_filt .srch_box{
+   width: 35% !important;
+}

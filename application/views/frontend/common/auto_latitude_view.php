@@ -1,0 +1,1 @@
+<input name="lttd" value="<?php echo $latitude; ?>" class="auto_pcode" data-base="" type="text" placeholder="latitude" tabindex="<?php echo $tab; ?>">

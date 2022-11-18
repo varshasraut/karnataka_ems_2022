@@ -1,0 +1,4 @@
+<?php $previous_odometer = $start_odometer_pcr;?>
+<div class="width100 float_left" id="end_odometer_textbox">
+                                <input autofocus name="end_odmeter" onkeyup="this.value=this.value.replace(/[^\d]/,'')" tabindex="21"  maxlength="7" id="end_odometer_input" class="has_error form_input  filter_maxlength[8] filter_rangelength[<?php echo $previous_odometer; ?>-<?php echo $previous_odometer+500;?>]" placeholder="Enter END Odometer" type="text" data-base="search_btn" value="<?php echo $get_odometer[0]->end_odmeter; ?>"  data-errors="{filter_valuegreaterthan:'End Odometer should greater than hospital Odometer',filter_valuegreaterthan:'End Odometer should greater than Start Odometer',filter_maxlength:'END Odometer at max 7 digit long.',filter_rangelength:'Cannot enter odometer difference more than 500 contact to administrator'}" <?php echo $odo_end_disabled; ?>>
+                            </div>

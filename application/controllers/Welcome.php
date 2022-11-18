@@ -1,0 +1,1 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');class Welcome extends EMS_Controller {		public function index()	{		    $data = array();                                            $this->output->add_to_position($this->load->view('frontend/result2_view',$data,TRUE));       $this->output->template = "cell";	}        }

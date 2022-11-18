@@ -1,0 +1,1 @@
+<input name="lgtd" value="<?php echo $longitude ?>" class="auto_pcode" data-base="" type="text" placeholder="longitude" tabindex="<?php echo $tab; ?>">

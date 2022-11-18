@@ -1,0 +1,4265 @@
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://mulikas4/4-wheeler/amb/loc/201810160001
+MEMS
+Date:Tuesday 16th of October 2018 04:47:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://mulikas4/4-wheeler/amb/loc/201810160002
+MEMS
+Date:Tuesday 16th of October 2018 04:49:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://mulikas4/4-wheeler/amb/loc/201810160003
+MEMS
+Date:Tuesday 16th of October 2018 04:51:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://mulikas4/4-wheeler/amb/loc/201810160004
+MEMS
+Date:Tuesday 16th of October 2018 04:53:56 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 8551995260, Incident id:201810160004, Navigate- http://mulikas4/4-wheeler/amb/loc/201810160004 MEMS
+Date:Tuesday 16th of October 2018 04:53:56 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201810240001
+MEMS
+Date:Wednesday 24th of October 2018 12:31:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- Mumbai Central, Mumbai, Maharashtra, India, Caller No - 9730015484, Incident id:201810240001, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201810240001 MEMS
+Date:Wednesday 24th of October 2018 12:31:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6413
+ Ambulance Contact - 8669987571
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201810270003
+MEMS
+Date:Saturday 27th of October 2018 10:46:50 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: test test test, Address- , Caller No - 9730015484, Incident id:201810270003, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201810270003 MEMS
+Date:Saturday 27th of October 2018 10:46:50 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:918888888
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6411
+ Ambulance Contact - 8669987560
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201810270009
+MEMS
+Date:Saturday 27th of October 2018 12:12:42 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name:   , Address- Bus stop, Ahmednagar, Maharastra, Caller No - 9730015484, Incident id:201810270009, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201810270009 MEMS
+Date:Saturday 27th of October 2018 12:12:43 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957104
+Msg:BVG,
+ Incident ID: 201810130006 Patient:Unknown   Chief Complaint:2 Base Lacation Name :Khadki Cantonment Hospital Mobile no : 8378957104,current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201810130006, ETA: 6319 MEMS
+Date:Monday 29th of October 2018 04:31:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Dear , the following ambulance is dispatched to your location.
+ Ambulance: MH 12 QL 6411
+ Ambulance Contact -8669987560 
+ Incident id: 201810290001
+ Track Ambulance- http://mulikas4/tdd-four-wheeler/amb/loc/201810290001 MEMS
+Date:Saturday 3rd of November 2018 07:07:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: , Address- Bus stop, Solapur,Akkalkot, Akkalkot (M Cl), Maharastra, Caller No - 9730015484, Incident id:201810290001, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201810290001 MEMS
+Date:Saturday 3rd of November 2018 07:07:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Dear Unknown, the following ambulance is dispatched to your location.
+ Ambulance: MH 12 QL 6414
+ Ambulance Contact -8669987567 
+ Incident id: 201811120024
+ Track Ambulance- http://mulikas4/tdd-four-wheeler/amb/loc/201811120024 MEMS
+Date:Monday 12th of November 2018 05:01:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: , Address- Bus stop, Mumbai,Kurla, Govandi West, Maharastra, Caller No - 9730015484, Incident id:201811120024, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811120024 MEMS
+Date:Monday 12th of November 2018 05:01:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811150001
+MEMS
+Date:Thursday 15th of November 2018 09:42:10 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811150001, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811150001 MEMS
+Date:Thursday 15th of November 2018 09:42:11 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 PK 8512
+ Ambulance Contact - 7410046512
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811160001
+MEMS
+Date:Friday 16th of November 2018 11:55:25 AM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811160001, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160001 MEMS
+Date:Friday 16th of November 2018 11:55:25 AM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811160002
+MEMS
+Date:Friday 16th of November 2018 12:16:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811160003
+MEMS
+Date:Friday 16th of November 2018 12:18:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811160007
+MEMS
+Date:Friday 16th of November 2018 12:40:30 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811160007, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160007 MEMS
+Date:Friday 16th of November 2018 12:40:30 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811160008
+MEMS
+Date:Friday 16th of November 2018 12:43:15 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811160008, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160008 MEMS
+Date:Friday 16th of November 2018 12:43:15 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://mulikas4/tdd-four-wheeler/amb/loc/201811160009
+MEMS
+Date:Friday 16th of November 2018 12:43:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- government school of nashik, Caller No - 9730015484, Incident id:201811160009, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160009 MEMS
+Date:Friday 16th of November 2018 12:43:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Dear Unknown, the following ambulance is dispatched to your location.
+ Ambulance: MH 12 QL 6414
+ Ambulance Contact -8669987567 
+ Incident id: 201811160004
+ Track Ambulance- http://mulikas4/tdd-four-wheeler/amb/loc/201811160004 MEMS
+Date:Friday 16th of November 2018 12:44:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811160004, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160004 MEMS
+Date:Friday 16th of November 2018 12:44:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Dear Unknown, the following ambulance is dispatched to your location.
+ Ambulance: MH 12 QL 6414
+ Ambulance Contact -8669987567 
+ Incident id: 201811160010
+ Track Ambulance- http://mulikas4/tdd-four-wheeler/amb/loc/201811160010 MEMS
+Date:Friday 16th of November 2018 12:46:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: , Address- Pune Airport, Pune International Airport Area, Lohgaon, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811160010, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160010 MEMS
+Date:Friday 16th of November 2018 12:46:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Dear Unknown, the following ambulance is dispatched to your location.
+ Ambulance: MH 12 QL 6414
+ Ambulance Contact -8669987567 
+ Incident id: 201811160006
+ Track Ambulance- http://mulikas4/tdd-four-wheeler/amb/loc/201811160006 MEMS
+Date:Friday 16th of November 2018 12:47:16 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201811160006, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160006 MEMS
+Date:Friday 16th of November 2018 12:47:16 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Dear Unknown, the following ambulance is dispatched to your location.
+ Ambulance: MH 12 QL 6414
+ Ambulance Contact -8669987567 
+ Incident id: 201811160011
+ Track Ambulance- http://mulikas4/tdd-four-wheeler/amb/loc/201811160011 MEMS
+Date:Friday 16th of November 2018 12:49:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: , Address- Pune Railway Station, Agarkar Nagar, Pune, Maharashtra, Caller No - 9730015484, Incident id:201811160011, Navigate- http://mulikas4/tdd-four-wheeler/amb/loc/201811160011 MEMS
+Date:Friday 16th of November 2018 12:49:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6414
+ Ambulance Contact - 8669987567
+ Track Link- http://210.212.165.123/tdd/amb/loc/201811210001
+MEMS
+Date:Wednesday 21st of November 2018 05:31:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+Patient name: Unknown  , Address- Keli Rumanwadi, Maharashtra, India, Caller No - 9730015484, Incident id:201811210001, Navigate- http://210.212.165.123/tdd/amb/loc/201811210001 MEMS
+Date:Wednesday 21st of November 2018 05:31:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91434343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812050001
+MEMS
+Date:Wednesday 5th of December 2018 01:04:48 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201812050001, Navigate- http://210.212.165.123/tdd/amb/loc/201812050001 MEMS
+Date:Wednesday 5th of December 2018 01:04:48 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9188888888
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6427
+ Ambulance Contact - 8669987565
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812050002
+MEMS
+Date:Wednesday 5th of December 2018 05:12:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987565
+Msg:BVG,
+Patient name: Unknown  , Address- Nashik Road, Nashik, Maharashtra, India, Caller No - 9730015484, Incident id:201812050002, Navigate- http://210.212.165.123/tdd/amb/loc/201812050002 MEMS
+Date:Wednesday 5th of December 2018 05:12:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812050003
+MEMS
+Date:Wednesday 5th of December 2018 05:25:49 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: kavita  , Address- Pune Railway Station, Agarkar Nagar, Pune, Maharashtra, Caller No - 9730015484, Incident id:201812050003, Navigate- http://210.212.165.123/tdd/amb/loc/201812050003 MEMS
+Date:Wednesday 5th of December 2018 05:25:49 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 PK 8516
+ Ambulance Contact - 7410046511
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812050004
+MEMS
+Date:Wednesday 5th of December 2018 05:26:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7410046511
+Msg:BVG,
+Patient name: Unknown  , Address- Dhule Bus Depot, Navnath Nager, Dhule, Maharashtra, India, Caller No - 9730015484, Incident id:201812050004, Navigate- http://210.212.165.123/tdd/amb/loc/201812050004 MEMS
+Date:Wednesday 5th of December 2018 05:26:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;Till Date
+                        Students Treated in Sick Room: 2 ; 3
+                        No. Of Emergency Transport: 0;6
+                        No. Of Patients Hospitalized: 1;1
+                        No. Of Student Screened (Acheived/Target): 5;6
+                        MEMS
+Date:Thursday 13th of December 2018 05:39:28 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;MTD;Till Date
+                        Students Treated in Sick Room: 2 ; 3 ; 3
+                        No. Of Emergency Transport: 0 ; 5 ; 6
+                        No. Of Patients Hospitalized: 1 ; 1 ; 1
+                        No. Of Student Screened (Acheived/Target): 5 ; 6 ; 6
+                        MEMS
+Date:Thursday 13th of December 2018 05:40:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;Till Date
+                        Students Treated in Sick Room: 2 ; 3
+                        No. Of Emergency Transport: 0;6
+                        No. Of Patients Hospitalized: 1;1
+                        No. Of Student Screened (Acheived/Target): 5;6
+                        MEMS
+Date:Thursday 13th of December 2018 05:40:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;MTD;Till Date
+                        Students Treated in Sick Room: 2 ; 3 ; 3
+                        No. Of Emergency Transport: 0 ; 5 ; 6
+                        No. Of Patients Hospitalized: 1 ; 1 ; 1
+                        No. Of Student Screened (Acheived/Target): 5 ; 6 ; 6
+                        MEMS
+Date:Thursday 13th of December 2018 05:40:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;Till Date
+                        Students Treated in Sick Room: 2 ; 3
+                        No. Of Emergency Transport: 0;6
+                        No. Of Patients Hospitalized: 1;1
+                        No. Of Student Screened (Acheived/Target): 5;6
+                        MEMS
+Date:Thursday 13th of December 2018 05:40:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;MTD;Till Date
+                        Students Treated in Sick Room: 2 ; 3 ; 3
+                        No. Of Emergency Transport: 0 ; 5 ; 6
+                        No. Of Patients Hospitalized: 1 ; 1 ; 1
+                        No. Of Student Screened (Acheived/Target): 5 ; 6 ; 6
+                        MEMS
+Date:Thursday 13th of December 2018 05:40:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;Till Date
+                        Students Treated in Sick Room: 2 ; 3
+                        No. Of Emergency Transport: 0;6
+                        No. Of Patients Hospitalized: 1;1
+                        No. Of Student Screened (Acheived/Target): 5;6
+                        MEMS
+Date:Thursday 13th of December 2018 06:31:13 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;Till Date
+                        Students Treated in Sick Room: 2 ; 3
+                        No. Of Emergency Transport: 0;6
+                        No. Of Patients Hospitalized: 1;1
+                        No. Of Student Screened (Acheived/Target): 5;6
+                        MEMS
+Date:Thursday 13th of December 2018 06:32:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+                        Atal Arogya Vahini
+                        Report for 13-12-2018 Today;MTD;Till Date
+                        Students Treated in Sick Room: 2 ; 3 ; 3
+                        No. Of Emergency Transport: 0 ; 5 ; 6
+                        No. Of Patients Hospitalized: 1 ; 1 ; 1
+                        No. Of Student Screened (Acheived/Target): 5 ; 6 ; 6
+                        MEMS
+Date:Thursday 13th of December 2018 06:32:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200001
+MEMS
+Date:Thursday 20th of December 2018 05:32:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +9134343434, Incident id:201812200001, Navigate- http://210.212.165.123/tdd/amb/loc/201812200001 MEMS
+Date:Thursday 20th of December 2018 05:32:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200002
+MEMS
+Date:Thursday 20th of December 2018 05:32:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +9134343434, Incident id:201812200002, Navigate- http://210.212.165.123/tdd/amb/loc/201812200002 MEMS
+Date:Thursday 20th of December 2018 05:32:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200003
+MEMS
+Date:Thursday 20th of December 2018 05:32:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +9134343434, Incident id:201812200003, Navigate- http://210.212.165.123/tdd/amb/loc/201812200003 MEMS
+Date:Thursday 20th of December 2018 05:32:48 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200004
+MEMS
+Date:Thursday 20th of December 2018 05:32:48 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +9134343434, Incident id:201812200004, Navigate- http://210.212.165.123/tdd/amb/loc/201812200004 MEMS
+Date:Thursday 20th of December 2018 05:32:49 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200005
+MEMS
+Date:Thursday 20th of December 2018 05:32:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +9134343434, Incident id:201812200005, Navigate- http://210.212.165.123/tdd/amb/loc/201812200005 MEMS
+Date:Thursday 20th of December 2018 05:32:51 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91344443434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6426
+ Ambulance Contact - 9607956675
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200006
+MEMS
+Date:Thursday 20th of December 2018 06:00:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956675
+Msg:BVG,
+Patient name: Unknown  , Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +91344443434, Incident id:201812200006, Navigate- http://210.212.165.123/tdd/amb/loc/201812200006 MEMS
+Date:Thursday 20th of December 2018 06:00:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9134343434
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201812200007
+MEMS
+Date:Thursday 20th of December 2018 06:15:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- Pune Railway Station, Agarkar Nagar, Pune, Maharashtra, Caller No - +9134343434, Incident id:201812200007, Navigate- http://210.212.165.123/tdd/amb/loc/201812200007 MEMS
+Date:Thursday 20th of December 2018 06:15:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:
+Msg:BVG,
+Atal Arogya Vahini
+Report for 2018-12-25 Today;Till Date
+Students Treated in Sick Room: 0; 0
+No. Of Emergency Transport: 0;16
+No. Of Patients Hospitalized: 0;0
+BVG ,TDD 
+Date:Wednesday 26th of December 2018 12:55:45 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+Atal Arogya Vahini
+Report for 2018-12-25 Today;Till Date
+Students Treated in Sick Room: 0; 0
+No. Of Emergency Transport: 0;16
+No. Of Patients Hospitalized: 0;0
+BVG ,TDD
+Date:Wednesday 26th of December 2018 12:58:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+Atal Arogya Vahini
+Report for 2018-12-25 Today;MTD;Till Date
+Students Treated in Sick Room: 0; 0; 0
+No. Of Emergency Transport: 0; 8; 16
+No. Of Patients Hospitalized: 0; 0; 0
+BVG ,TDD 
+Date:Wednesday 26th of December 2018 12:58:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9188888888
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6411
+ Ambulance Contact - 8669987560
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901010001
+MEMS
+Date:Tuesday 1st of January 2019 12:19:25 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987560
+Msg:BVG,
+Patient name: abc abc abc, Address- Bus stop, Ahmadnagar, Maharastra, Caller No - +9188888888, Incident id:201901010001, Navigate- http://210.212.165.123/tdd/amb/loc/201901010001 MEMS
+Date:Tuesday 1st of January 2019 12:19:25 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901030001
+MEMS
+Date:Thursday 3rd of January 2019 04:22:57 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: chaitali s f, Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - , Incident id:201901030001, Navigate- http://210.212.165.123/tdd/amb/loc/201901030001 MEMS
+Date:Thursday 3rd of January 2019 04:22:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:0
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901030002
+MEMS
+Date:Thursday 3rd of January 2019 06:05:11 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 0, Incident id:201901030002, Navigate- http://210.212.165.123/tdd/amb/loc/201901030002 MEMS
+Date:Thursday 3rd of January 2019 06:05:11 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:918888892183
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901040001
+MEMS
+Date:Friday 4th of January 2019 05:35:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +918888892183, Incident id:201901040001, Navigate- http://210.212.165.123/tdd/amb/loc/201901040001 MEMS
+Date:Friday 4th of January 2019 05:35:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9188956521
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901050001
+MEMS
+Date:Saturday 5th of January 2019 11:51:36 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: chaitali s fartade, Address- PuneSatar Rd, KK Market Road, KK Market, Mangawadi, Pune, Maharashtra, India, Caller No - +9188956521, Incident id:201901050001, Navigate- http://210.212.165.123/tdd/amb/loc/201901050001 MEMS
+Date:Saturday 5th of January 2019 11:51:37 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189876767
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6424
+ Ambulance Contact - 8669987563
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901070001
+MEMS
+Date:Monday 7th of January 2019 07:22:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987563
+Msg:BVG,
+Patient name: Unknown  , Address- Survey no. 598/1,Raghuwanshi NAGAR, NEAR KHODAI MATA MANDIR, Nandurbar, Maharashtra 425412, India, Caller No - +9189876767, Incident id:201901070001, Navigate- http://210.212.165.123/tdd/amb/loc/201901070001 MEMS
+Date:Monday 7th of January 2019 07:22:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9167676767
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6581
+ Ambulance Contact - 8669987562
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901070004
+MEMS
+Date:Monday 7th of January 2019 07:29:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987562
+Msg:BVG,
+Patient name: Unknown  , Address- Survey no. 598/1,Raghuwanshi NAGAR, NEAR KHODAI MATA MANDIR, Nandurbar, Maharashtra 425412, India, Caller No - +9167676767, Incident id:201901070004, Navigate- http://210.212.165.123/tdd/amb/loc/201901070004 MEMS
+Date:Monday 7th of January 2019 07:29:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91888888888
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6412
+ Ambulance Contact - 9607956671
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901140001
+MEMS
+Date:Monday 14th of January 2019 12:32:06 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607956671
+Msg:BVG,
+Patient name: Unknown  , Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +91888888888, Incident id:201901140001, Patient id:114, Navigate- http://210.212.165.123/tdd/amb/loc/201901140001 MEMS
+Date:Monday 14th of January 2019 12:32:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: D451201901080041 
+Patient:sd cvb sd 
+Chief Complaint:Animal Bites 
+Base Lacation Name :Harisal Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/D451201901080041, 
+ETA:  
+MEMS, TDD
+Date:Friday 18th of January 2019 11:42:50 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: D451201901080041 
+Patient:sd cvb sd 
+Chief Complaint:Animal Bites 
+Base Lacation Name :Harisal Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/D451201901080041, 
+ETA:  
+MEMS, TDD
+Date:Friday 18th of January 2019 11:43:15 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: D451201901080041 
+Patient:sd cvb sd 
+Chief Complaint:Animal Bites 
+Base Lacation Name :Harisal Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/D451201901080041, 
+ETA:  
+MEMS, TDD
+Date:Friday 18th of January 2019 12:19:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: D451201901080041 
+Patient:sd cvb sd 
+Chief Complaint:Animal Bites 
+Base Lacation Name :Harisal Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/D451201901080041, 
+ETA:  
+MEMS, TDD
+Date:Friday 18th of January 2019 12:19:35 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91888888888
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6417
+ Ambulance Contact - 8669987561
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901180001
+MEMS
+Date:Friday 18th of January 2019 12:33:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987561
+Msg:BVG,
+Patient name: Unknown  , Address- Nandurbar, Maharashtra, India, Caller No - +91888888888, Incident id:201901180001, Patient id:162, Navigate- http://210.212.165.123/tdd/amb/loc/201901180001 MEMS
+Date:Friday 18th of January 2019 12:33:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:36:14 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:36:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:38:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:40:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:42:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:42:35 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 36971 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:43:23 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901180001 
+Patient:   
+Chief Complaint:Abdominal Pain 
+Base Lacation Name :Hatru Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/tdd-four-wheeler/amb/loc/201901180001, 
+ETA: 10 hours 16 mins 
+MEMS, TDD
+Date:Friday 18th of January 2019 12:43:42 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230011
+MEMS
+Date:Wednesday 23rd of January 2019 11:33:37 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name:   , Address- NH361, Hivari, Maharashtra 445002, India, Caller No - +9189898989, Incident id:201901230011, Patient id:165, Navigate- http://210.212.165.123/tdd/amb/loc/201901230011 MEMS
+Date:Wednesday 23rd of January 2019 11:33:37 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230012
+MEMS
+Date:Wednesday 23rd of January 2019 11:34:57 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name:   , Address- NH361, Hivari, Maharashtra 445002, India, Caller No - +9189898989, Incident id:201901230012, Patient id:166, Navigate- http://210.212.165.123/tdd/amb/loc/201901230012 MEMS
+Date:Wednesday 23rd of January 2019 11:34:57 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230013
+MEMS
+Date:Wednesday 23rd of January 2019 11:39:10 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name:   , Address- NH361, Hivari, Maharashtra 445002, India, Caller No - +9189898989, Incident id:201901230013, Patient id:167, Navigate- http://210.212.165.123/tdd/amb/loc/201901230013 MEMS
+Date:Wednesday 23rd of January 2019 11:39:10 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230014
+MEMS
+Date:Wednesday 23rd of January 2019 11:40:30 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name:   , Address- NH361, Hivari, Maharashtra 445002, India, Caller No - +9189898989, Incident id:201901230014, Patient id:168, Navigate- http://210.212.165.123/tdd/amb/loc/201901230014 MEMS
+Date:Wednesday 23rd of January 2019 11:40:31 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230025
+MEMS
+Date:Wednesday 23rd of January 2019 12:12:43 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name:   , Address- NH361, Hivari, Maharashtra 445002, India, Caller No - +9189898989, Incident id:201901230025, Patient id:169, Navigate- http://210.212.165.123/tdd/amb/loc/201901230025 MEMS
+Date:Wednesday 23rd of January 2019 12:12:43 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230026
+MEMS
+Date:Wednesday 23rd of January 2019 12:13:23 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name:   , Address- NH361, Hivari, Maharashtra 445002, India, Caller No - +9189898989, Incident id:201901230026, Patient id:170, Navigate- http://210.212.165.123/tdd/amb/loc/201901230026 MEMS
+Date:Wednesday 23rd of January 2019 12:13:23 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9189898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://210.212.165.123/tdd/amb/loc/201901230031
+MEMS
+Date:Wednesday 23rd of January 2019 01:11:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name:   , Address- NH161, Kalamnuri, Maharashtra 431702, India, Caller No - +9189898989, Incident id:201901230031, Patient id:171, Navigate- http://210.212.165.123/tdd/amb/loc/201901230031 MEMS
+Date:Wednesday 23rd of January 2019 01:11:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+Atal Arogya Vahini
+Report for 2019-01-27 Today;Till Date
+Students Treated in Sick Room: 0; 3
+No. Of Emergency Transport: 0;12
+No. Of Patients Hospitalized: 0;3
+BVG ,TDD
+Date:Monday 28th of January 2019 12:34:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+Atal Arogya Vahini 
+Report for 27/01/2019 
+Total ambulances dispatched:0  
+BVG TDD
+Date:Monday 28th of January 2019 12:36:33 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+Atal Arogya Vahini 
+Report for 27/01/2019 
+Total ambulances dispatched:0  
+BVG TDD
+Date:Monday 28th of January 2019 12:36:33 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+Atal Arogya Vahini 
+Report for 27/01/2019 
+Total ambulances dispatched:0  
+BVG TDD
+Date:Monday 28th of January 2019 12:36:34 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+Atal Arogya Vahini 
+Report for 27/01/2019 
+Total ambulances dispatched:0  
+BVG TDD
+Date:Monday 28th of January 2019 12:36:34 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+Atal Arogya Vahini 
+Report for 07/02/2019 
+Total ambulances dispatched:0  
+BVG TDD
+Date:Friday 8th of February 2019 12:06:23 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+Atal Arogya Vahini 
+Report for 07/02/2019 
+Total ambulances dispatched:0  
+BVG TDD
+Date:Friday 8th of February 2019 12:06:23 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+Atal Arogya Vahini
+Report for 2019-02-07 Today;Till Date
+Students Treated in Sick Room: 0; 3
+No. Of Emergency Transport: 1;12
+No. Of Patients Hospitalized: 0;3
+BVG ,TDD
+Date:Friday 8th of February 2019 12:10:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9881092255
+Msg:BVG,
+Atal Arogya Vahini
+Report for 2019-02-07 Today;MTD;Till Date
+Students Treated in Sick Room: 0; 0; 3
+No. Of Emergency Transport: 1; 12; 12
+No. Of Patients Hospitalized: 0; 0; 3
+BVG ,TDD 
+Date:Friday 8th of February 2019 12:10:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8698989880
+Msg:BVG,
+Incident ID: 201901310021 
+Patient:pushapa  bangare 
+Chief Complaint:Other 
+Base Lacation Name :Harisal Primary Health Center 
+Mobile no : 8698989880,
+current location link : http://mulikas4/spero_ems_2019/amb/loc/201901310021, 
+ETA: 12 hours 4 mins 
+MEMS, TDD
+Date:Tuesday 26th of February 2019 02:54:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:917656565656
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1260
+ Ambulance Contact - 8378957202
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903010001
+MEMS
+Date:Friday 1st of March 2019 01:09:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957202
+Msg:BVG,
+Patient name: Unknown yrdy yrdy, Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +917656565656, Incident id:201903010001, Patient id:16099, Navigate- http://210.212.165.123/tdd/amb/loc/201903010001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 1st of March 2019 01:09:28 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9199889989898
+Msg:BVG,
+Dear , the following ambulance is dispatched to your location.
+ Ambulance: MH 14 CL 1050
+ Ambulance Contact -8378957246 
+ Incident id: 201903010001
+ Track Ambulance- http://210.212.165.123/tdd/amb/loc/201903010001 MEMS
+Date:Friday 1st of March 2019 02:42:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957246
+Msg:BVG,
+Patient name: , Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +9199889989898, Incident id:201903010001, Patient id:, Navigate- http://210.212.165.123/tdd/amb/loc/201903010001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 1st of March 2019 02:42:48 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9112121122
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903010001
+MEMS
+Date:Friday 1st of March 2019 02:51:04 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +9112121122, Incident id:201903010001, Patient id:16099, Navigate- http://210.212.165.123/tdd/amb/loc/201903010001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 1st of March 2019 02:51:06 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903010001
+MEMS
+Date:Friday 1st of March 2019 04:32:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +919730015484, Incident id:201903010001, Patient id:16099, Navigate- http://210.212.165.123/tdd/amb/loc/201903010001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 1st of March 2019 04:32:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0829
+ Ambulance Contact - 7722010423
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020001
+MEMS
+Date:Saturday 2nd of March 2019 12:24:53 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7722010423
+Msg:BVG,
+Patient name: Unknown  , Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +919730015484, Incident id:201903020001, Patient id:9, Navigate- http://210.212.165.123/tdd/amb/loc/201903020001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 12:24:53 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0829
+ Ambulance Contact - 7722010423
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020006
+MEMS
+Date:Saturday 2nd of March 2019 04:38:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7722010423
+Msg:BVG,
+Patient name:   , Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +919898989898, Incident id:201903020006, Patient id:12, Navigate- http://210.212.165.123/tdd/amb/loc/201903020006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 04:38:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1316
+ Ambulance Contact - 7774086009
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020007
+MEMS
+Date:Saturday 2nd of March 2019 04:44:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086009
+Msg:BVG,
+Patient name: Unknown  , Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +919730015484, Incident id:201903020007, Patient id:1, Navigate- http://210.212.165.123/tdd/amb/loc/201903020007
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 04:44:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0803
+ Ambulance Contact - 8378957229
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020008
+MEMS
+Date:Saturday 2nd of March 2019 04:46:26 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957229
+Msg:BVG,
+Patient name: c s f, Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +919730015484, Incident id:201903020008, Patient id:14, Navigate- http://210.212.165.123/tdd/amb/loc/201903020008
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 04:46:26 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020012
+MEMS
+Date:Saturday 2nd of March 2019 05:43:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: c s f, Address- Pune, Maharashtra, India, Caller No - +919730015484, Incident id:201903020012, Patient id:15, Navigate- http://210.212.165.123/tdd/amb/loc/201903020012
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 05:43:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0787
+ Ambulance Contact - 7774084511
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020013
+MEMS
+Date:Saturday 2nd of March 2019 06:10:24 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084511
+Msg:BVG,
+Patient name: c s f, Address- Pune, Maharashtra, India, Caller No - +919730015484, Incident id:201903020013, Patient id:16, Navigate- http://210.212.165.123/tdd/amb/loc/201903020013
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 06:10:25 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0426
+ Ambulance Contact - 7774081810
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020015
+MEMS
+Date:Saturday 2nd of March 2019 07:15:43 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081810
+Msg:BVG,
+Patient name: Unknown  , Address- Chikhaldara, Maharashtra 444807, India, Caller No - +919898989898, Incident id:201903020015, Patient id:17, Navigate- http://210.212.165.123/tdd/amb/loc/201903020015
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 07:15:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919730015484
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0408
+ Ambulance Contact - 7774081826
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903020017
+MEMS
+Date:Saturday 2nd of March 2019 07:19:03 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081826
+Msg:BVG,
+Patient name: Unknown  , Address- Dharni, Maharashtra 444702, India, Caller No - +919730015484, Incident id:201903020017, Patient id:18, Navigate- http://210.212.165.123/tdd/amb/loc/201903020017
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 2nd of March 2019 07:19:03 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH-14-CW-2823-B
+ Ambulance Contact - 8378957037
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050003
+MEMS
+Date:Tuesday 5th of March 2019 10:53:33 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957037
+Msg:BVG,
+Patient name: Unknown  , Address- Dharni, Maharashtra 444702, India, Caller No - +919898989898, Incident id:201903050003, Patient id:19, Navigate- http://210.212.165.123/tdd/amb/loc/201903050003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 10:53:33 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CW 2834
+ Ambulance Contact - 7028062807
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050004
+MEMS
+Date:Tuesday 5th of March 2019 11:08:49 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7028062807
+Msg:BVG,
+Patient name: Unknown s f, Address- Dharni, Maharashtra 444702, India, Caller No - +919898989898, Incident id:201903050004, Patient id:20, Navigate- http://210.212.165.123/tdd/amb/loc/201903050004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 11:08:49 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CW 2834
+ Ambulance Contact - 7028062807
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050004
+MEMS
+Date:Tuesday 5th of March 2019 11:09:54 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7028062807
+Msg:BVG,
+Patient name: Unknown s f, Address- Dharni, Maharashtra 444702, India, Caller No - +919898989898, Incident id:201903050004, Patient id:21, Navigate- http://210.212.165.123/tdd/amb/loc/201903050004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 11:09:55 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1235
+ Ambulance Contact - 8378957049
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050005
+MEMS
+Date:Tuesday 5th of March 2019 11:13:44 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957049
+Msg:BVG,
+Patient name: Unknown  , Address- Dharni, Maharashtra 444702, India, Caller No - +919898989898, Incident id:201903050005, Patient id:22, Navigate- http://210.212.165.123/tdd/amb/loc/201903050005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 11:13:44 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1143
+ Ambulance Contact - 7774086028
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050006
+MEMS
+Date:Tuesday 5th of March 2019 12:08:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086028
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +919898989898, Incident id:201903050006, Patient id:23, Navigate- http://210.212.165.123/tdd/amb/loc/201903050006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 12:08:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1106
+ Ambulance Contact - 8378957143
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050007
+MEMS
+Date:Tuesday 5th of March 2019 01:11:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957143
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +91989898989, Incident id:201903050007, Patient id:24, Navigate- http://210.212.165.123/tdd/amb/loc/201903050007
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 01:11:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0805
+ Ambulance Contact - 7774085966
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903050008
+MEMS
+Date:Tuesday 5th of March 2019 01:12:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085966
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +919898989898, Incident id:201903050008, Patient id:25, Navigate- http://210.212.165.123/tdd/amb/loc/201903050008
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 5th of March 2019 01:12:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:912323232323
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://210.212.165.123/tdd/amb/loc/201903060026
+MEMS
+Date:Wednesday 6th of March 2019 11:13:39 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name: Unknown  , Address- Bolhegaon Phata, MIDC, Ahmednagar, Maharashtra 414111, India, Caller No - +912323232323, Incident id:201903060026, Patient id:26, Navigate- http://210.212.165.123/tdd/amb/loc/201903060026
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:13:39 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1407
+ Ambulance Contact - 7774084510
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903060027
+MEMS
+Date:Wednesday 6th of March 2019 11:26:59 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084510
+Msg:BVG,
+Patient name: c s s, Address- Pune, Maharashtra, India, Caller No - +919898989898, Incident id:201903060027, Patient id:27, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903060027
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:26:59 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1407
+ Ambulance Contact - 7774084510
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903060027
+MEMS
+Date:Wednesday 6th of March 2019 11:27:09 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084510
+Msg:BVG,
+Patient name: c s s, Address- Pune, Maharashtra, India, Caller No - +919898989898, Incident id:201903060027, Patient id:28, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903060027
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:27:10 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+MEMS
+Date:Wednesday 6th of March 2019 11:28:01 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name:   , Address- Pune, Maharashtra, India, Caller No - +91989898989, Incident id:201903060032, Patient id:29, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:28:02 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+MEMS
+Date:Wednesday 6th of March 2019 11:28:22 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name:   , Address- Pune, Maharashtra, India, Caller No - +91989898989, Incident id:201903060032, Patient id:30, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:28:22 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+MEMS
+Date:Wednesday 6th of March 2019 11:30:19 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name:   , Address- Pune, Maharashtra, India, Caller No - +91989898989, Incident id:201903060032, Patient id:31, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:30:20 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+MEMS
+Date:Wednesday 6th of March 2019 11:31:42 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name:   , Address- Pune, Maharashtra, India, Caller No - +91989898989, Incident id:201903060032, Patient id:32, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903060032
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 6th of March 2019 11:31:42 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91656565656
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1372
+ Ambulance Contact - 7588168226
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903090001
+MEMS
+Date:Saturday 9th of March 2019 03:21:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7588168226
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +91656565656, Incident id:201903090001, Patient id:33, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903090001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 9th of March 2019 03:21:56 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9198989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1125
+ Ambulance Contact - 8378957053
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903090001
+MEMS
+Date:Saturday 9th of March 2019 03:23:18 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957053
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +9198989898, Incident id:201903090001, Patient id:34, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903090001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 9th of March 2019 03:23:18 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:913434343434
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1372
+ Ambulance Contact - 7588168226
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903130001
+MEMS
+Date:Wednesday 13th of March 2019 06:47:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7588168226
+Msg:BVG,
+Patient name: Unknown  , Address- Agarkar Nagar, Pune, Maharashtra 411001, India, Caller No - +913434343434, Incident id:201903130001, Patient id:101, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903130001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 13th of March 2019 06:47:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919898989898
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201903130002
+MEMS
+Date:Wednesday 13th of March 2019 07:11:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +919898989898, Incident id:201903130002, Patient id:102, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201903130002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 13th of March 2019 07:11:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:911111111111
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904030004
+MEMS
+Date:Wednesday 3rd of April 2019 12:40:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Dharni, Maharashtra 444702, India, Caller No - +911111111111, Incident id:201904030004, Patient id:103, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904030004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 3rd of April 2019 12:40:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9178777777777
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0450
+ Ambulance Contact - 8378957122
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904030005
+MEMS
+Date:Wednesday 3rd of April 2019 02:20:00 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957122
+Msg:BVG,
+Patient name: Unknown  , Address- Chikhaldara, Maharashtra 444807, India, Caller No - +9178777777777, Incident id:201904030005, Patient id:104, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904030005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 3rd of April 2019 02:20:01 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91111111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0757
+ Ambulance Contact - 7722010420
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904030017
+MEMS
+Date:Wednesday 3rd of April 2019 04:17:54 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7722010420
+Msg:BVG,
+Patient name:   , Address- Akola Bus Stand, New Radhakisan Plots, Akola, Maharashtra 444001, India, Caller No - +91111111111111, Incident id:201904030017, Patient id:105, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904030017
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 3rd of April 2019 04:17:54 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91111111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0454
+ Ambulance Contact - 7774085910
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904040006
+MEMS
+Date:Thursday 4th of April 2019 02:41:16 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085910
+Msg:BVG,
+Patient name: Unknown  , Address- Chikhaldara, Maharashtra 444807, India, Caller No - +91111111111111, Incident id:201904040006, Patient id:106, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904040006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 4th of April 2019 02:41:16 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:911111111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1106
+ Ambulance Contact - 8378957143
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904080003
+MEMS
+Date:Monday 8th of April 2019 04:51:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957143
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Swargate, Satara Rd, Swargate, Pune, Maharashtra 411042, India, Caller No - +911111111111111, Incident id:201904080003, Patient id:112, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904080003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 8th of April 2019 04:51:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9133333333333333333
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904090003
+MEMS
+Date:Tuesday 9th of April 2019 10:17:22 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9133333333333333333, Incident id:201904090003, Patient id:113, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904090003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of April 2019 10:17:22 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91111111111111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904090005
+MEMS
+Date:Tuesday 9th of April 2019 02:29:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: priyanka v belote, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +91111111111111111111, Incident id:201904090005, Patient id:114, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904090005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of April 2019 02:29:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9111111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0402
+ Ambulance Contact - 7774081863
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904100001
+MEMS
+Date:Wednesday 10th of April 2019 10:17:07 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081863
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9111111111111, Incident id:201904100001, Patient id:115, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904100001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 10th of April 2019 10:17:07 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91111111111
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904100002
+MEMS
+Date:Wednesday 10th of April 2019 06:24:11 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +91111111111, Incident id:201904100002, Patient id:116, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904100002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 10th of April 2019 06:24:11 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9144444444444444
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0412
+ Ambulance Contact - 7774081959
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904100003
+MEMS
+Date:Wednesday 10th of April 2019 06:39:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081959
+Msg:BVG,
+Patient name: Unknown v v, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9144444444444444, Incident id:201904100003, Patient id:117, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904100003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 10th of April 2019 06:39:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904110001
+MEMS
+Date:Thursday 11th of April 2019 12:11:20 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Pune, Maharashtra, India, Caller No - +91989898989, Incident id:201904110001, Patient id:118, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904110001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 11th of April 2019 12:11:20 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989895623
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL0515
+ Ambulance Contact - 9372143840
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904110002
+MEMS
+Date:Thursday 11th of April 2019 01:17:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9372143840
+Msg:BVG,
+Patient name: Unknown  , Address- Chikhaldara, Maharashtra 444807, India, Caller No - +91989895623, Incident id:201904110002, Patient id:119, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904110002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 11th of April 2019 01:17:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9198989985
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120001
+MEMS
+Date:Friday 12th of April 2019 10:46:34 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name:   , Address- Pune, Maharashtra, India, Caller No - +9198989985, Incident id:201904120001, Patient id:120, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 10:46:34 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:919865324
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL0539
+ Ambulance Contact - 7774085982
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120002
+MEMS
+Date:Friday 12th of April 2019 10:53:49 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085982
+Msg:BVG,
+Patient name: Unknown  , Address- Dharni, Maharashtra 444702, India, Caller No - +919865324, Incident id:201904120002, Patient id:121, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 10:53:49 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91989898562
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120003
+MEMS
+Date:Friday 12th of April 2019 10:55:18 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - +91989898562, Incident id:201904120003, Patient id:122, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 10:55:18 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91111111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1155
+ Ambulance Contact - 8378957145
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120004
+MEMS
+Date:Friday 12th of April 2019 12:05:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957145
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +91111111111111, Incident id:201904120004, Patient id:123, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 12:05:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9144444445
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120005
+MEMS
+Date:Friday 12th of April 2019 12:19:04 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9144444445, Incident id:201904120005, Patient id:124, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 12:19:04 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9155555555
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120006
+MEMS
+Date:Friday 12th of April 2019 12:20:23 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9155555555, Incident id:201904120006, Patient id:125, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 12:20:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91566666666
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120007
+MEMS
+Date:Friday 12th of April 2019 12:21:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +91566666666, Incident id:201904120007, Patient id:126, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120007
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 12:21:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9133333333333
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120008
+MEMS
+Date:Friday 12th of April 2019 03:53:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9133333333333, Incident id:201904120008, Patient id:127, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120008
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 03:53:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9122222222222
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120009
+MEMS
+Date:Friday 12th of April 2019 03:55:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9122222222222, Incident id:201904120009, Patient id:128, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120009
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 03:55:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91444444444444
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120010
+MEMS
+Date:Friday 12th of April 2019 03:56:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +91444444444444, Incident id:201904120010, Patient id:129, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120010
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 03:56:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:911111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904120010
+MEMS
+Date:Friday 12th of April 2019 04:56:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +911111111111, Incident id:201904120010, Patient id:130, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904120010
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 12th of April 2019 04:56:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:91333333333333
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904130001
+MEMS
+Date:Saturday 13th of April 2019 10:35:18 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +91333333333333, Incident id:201904130001, Patient id:131, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904130001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 13th of April 2019 10:35:19 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9188888888888888
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904130002
+MEMS
+Date:Saturday 13th of April 2019 11:00:33 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - +9188888888888888, Incident id:201904130002, Patient id:132, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904130002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 13th of April 2019 11:00:33 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:4545454546
+Msg:BVG,
+ Ambulance dispatched: MH14 CL0562
+ Ambulance Contact - 7774084518
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904150001
+MEMS
+Date:Monday 15th of April 2019 12:09:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084518
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 4545454546, Incident id:201904150001, Patient id:133, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904150001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 15th of April 2019 12:09:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201904230001
+MEMS
+Date:Tuesday 23rd of April 2019 11:43:08 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201904230001, Patient id:135, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201904230001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 23rd of April 2019 11:43:08 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905020001
+MEMS
+Date:Thursday 2nd of May 2019 03:44:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: c s f, Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201905020001, Patient id:139, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905020001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 2nd of May 2019 03:44:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1378
+ Ambulance Contact - 7774084508
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905020002
+MEMS
+Date:Thursday 2nd of May 2019 04:47:14 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084508
+Msg:BVG,
+Patient name: Unknown  , Address- Sinhgad Rd, Pune Okayama Friendship Garden, Dattawadi, Pune, Maharashtra 411030, India, Caller No - 9730015484, Incident id:201905020002, Patient id:140, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905020002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 2nd of May 2019 04:47:14 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1140
+ Ambulance Contact - 7722010405
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905020003
+MEMS
+Date:Thursday 2nd of May 2019 04:53:13 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7722010405
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201905020003, Patient id:141, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905020003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 2nd of May 2019 04:53:13 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9865321245
+Msg:BVG,
+ Ambulance dispatched: MH14 CL0562
+ Ambulance Contact - 7774084518
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905030001
+MEMS
+Date:Friday 3rd of May 2019 01:07:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084518
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9865321245, Incident id:201905030001, Patient id:142, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905030001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 3rd of May 2019 01:07:51 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9865231245
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1205
+ Ambulance Contact - 9168601885
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905030002
+MEMS
+Date:Friday 3rd of May 2019 01:08:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9168601885
+Msg:BVG,
+Patient name: Unknown  , Address- New Airport Rd, Pune International Airport Area, Lohegaon, Pune, Maharashtra 411032, India, Caller No - 9865231245, Incident id:201905030002, Patient id:143, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905030002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 3rd of May 2019 01:08:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH14 CL0562
+ Ambulance Contact - 7774084518
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905030003
+MEMS
+Date:Friday 3rd of May 2019 01:09:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084518
+Msg:BVG,
+Patient name: c s f, Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201905030003, Patient id:144, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905030003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 3rd of May 2019 01:09:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856231245
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1372
+ Ambulance Contact - 7588168226
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905030003
+MEMS
+Date:Friday 3rd of May 2019 02:44:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7588168226
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Pune, Maharashtra, India, Caller No - 9856231245, Incident id:201905030003, Patient id:145, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905030003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 3rd of May 2019 02:44:03 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1054
+ Ambulance Contact - 7774084512
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905030004
+MEMS
+Date:Friday 3rd of May 2019 02:45:00 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084512
+Msg:BVG,
+Patient name: c s f, Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201905030004, Patient id:146, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905030004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 3rd of May 2019 02:45:00 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8706968686
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905160001
+MEMS
+Date:Thursday 16th of May 2019 04:35:58 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: m m m, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8706968686, Incident id:201905160001, Patient id:147, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905160001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 16th of May 2019 04:35:59 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9049732645
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0414
+ Ambulance Contact - 7774081964
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905160002
+MEMS
+Date:Thursday 16th of May 2019 05:23:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081964
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9049732645, Incident id:201905160002, Patient id:148, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905160002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 16th of May 2019 05:23:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7057425221
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0402
+ Ambulance Contact - 7774081863
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905160003
+MEMS
+Date:Thursday 16th of May 2019 05:26:03 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081863
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 7057425221, Incident id:201905160003, Patient id:149, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905160003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 16th of May 2019 05:26:03 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:2578987699
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0912
+ Ambulance Contact - 7774081828
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905180001
+MEMS
+Date:Saturday 18th of May 2019 12:21:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081828
+Msg:BVG,
+Patient name: test T T, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 2578987699, Incident id:201905180001, Patient id:150, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905180001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 18th of May 2019 12:21:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0414
+ Ambulance Contact - 7774081964
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905270001
+MEMS
+Date:Monday 27th of May 2019 10:27:32 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081964
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201905270001, Patient id:151, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905270001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 27th of May 2019 10:27:33 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:2345678987
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905270002
+MEMS
+Date:Monday 27th of May 2019 10:38:04 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: A A A, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 2345678987, Incident id:201905270002, Patient id:152, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905270002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 27th of May 2019 10:38:05 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567867
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905270003
+MEMS
+Date:Monday 27th of May 2019 10:42:26 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: nnnnnna an ab, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1234567867, Incident id:201905270003, Patient id:153, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905270003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 27th of May 2019 10:42:27 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:6767676767
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905270004
+MEMS
+Date:Monday 27th of May 2019 11:07:43 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 6767676767, Incident id:201905270004, Patient id:154, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905270004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 27th of May 2019 11:07:43 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8987678786
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905270006
+MEMS
+Date:Monday 27th of May 2019 02:19:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: D D D, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8987678786, Incident id:201905270006, Patient id:155, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905270006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 27th of May 2019 02:19:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1156778118
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905270007
+MEMS
+Date:Monday 27th of May 2019 03:43:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1156778118, Incident id:201905270007, Patient id:156, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905270007
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 27th of May 2019 03:43:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:6543456787
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0402
+ Ambulance Contact - 7774081863
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905300001
+MEMS
+Date:Thursday 30th of May 2019 06:23:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081863
+Msg:BVG,
+Patient name: S D D, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 6543456787, Incident id:201905300001, Patient id:157, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905300001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 30th of May 2019 06:23:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:5678776546
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905300002
+MEMS
+Date:Thursday 30th of May 2019 06:37:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 5678776546, Incident id:201905300002, Patient id:158, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905300002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 30th of May 2019 06:37:08 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:5678776546
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905300002
+MEMS
+Date:Thursday 30th of May 2019 06:38:25 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 5678776546, Incident id:201905300002, Patient id:159, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905300002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 30th of May 2019 06:38:25 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:4567899876
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905310001
+MEMS
+Date:Friday 31st of May 2019 12:08:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown h h, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 4567899876, Incident id:201905310001, Patient id:160, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905310001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 31st of May 2019 12:08:03 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7898765456
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1062
+ Ambulance Contact - 7774086023
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905310002
+MEMS
+Date:Friday 31st of May 2019 12:10:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086023
+Msg:BVG,
+Patient name: a a a, Address- Maliwada Bus Stand, Maliwada, Ahmednagar, Maharashtra 414001, India, Caller No - 7898765456, Incident id:201905310002, Patient id:161, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905310002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 31st of May 2019 12:10:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: Array
+ Ambulance Contact - 
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905310003
+MEMS
+Date:Friday 31st of May 2019 03:42:01 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201905310003, Patient id:162, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905310003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 31st of May 2019 03:42:01 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: Array
+ Ambulance Contact - 
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905310003
+MEMS
+Date:Friday 31st of May 2019 03:42:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201905310003, Patient id:163, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905310003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 31st of May 2019 03:42:17 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1411
+ Ambulance Contact - 7774081831
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201905310003
+MEMS
+Date:Friday 31st of May 2019 03:42:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081831
+Msg:BVG,
+Patient name:   , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201905310003, Patient id:164, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201905310003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 31st of May 2019 03:42:33 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:2345678678
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0825
+ Ambulance Contact - 7774086024
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906010001
+MEMS
+Date:Saturday 1st of June 2019 11:32:33 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086024
+Msg:BVG,
+Patient name: Unknown  , Address- Maliwada Bus Stand, Maliwada, Ahmednagar, Maharashtra 414001, India, Caller No - 2345678678, Incident id:201906010001, Patient id:167, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906010001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 1st of June 2019 11:32:34 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:5678987654
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0414
+ Ambulance Contact - 7774081964
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906010002
+MEMS
+Date:Saturday 1st of June 2019 12:37:42 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081964
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 5678987654, Incident id:201906010002, Patient id:168, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906010002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 1st of June 2019 12:37:42 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:3456787654
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0414
+ Ambulance Contact - 7774081964
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906010003
+MEMS
+Date:Saturday 1st of June 2019 12:38:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081964
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 3456787654, Incident id:201906010003, Patient id:169, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906010003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 1st of June 2019 12:38:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:6789875677
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906010004
+MEMS
+Date:Saturday 1st of June 2019 12:39:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 6789875677, Incident id:201906010004, Patient id:170, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906010004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 1st of June 2019 12:39:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234543456
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0414
+ Ambulance Contact - 7774081964
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906030002
+MEMS
+Date:Monday 3rd of June 2019 12:23:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081964
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1234543456, Incident id:201906030002, Patient id:172, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906030002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 3rd of June 2019 12:23:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906030003
+MEMS
+Date:Monday 3rd of June 2019 01:04:58 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201906030003, Patient id:173, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906030003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 3rd of June 2019 01:04:58 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0454
+ Ambulance Contact - 7774085910
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906030004
+MEMS
+Date:Monday 3rd of June 2019 02:50:51 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085910
+Msg:BVG,
+Patient name: Unknown  , Address- Chikhaldara, Maharashtra 444807, India, Caller No - 1111111111, Incident id:201906030004, Patient id:174, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906030004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 3rd of June 2019 02:50:51 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0450
+ Ambulance Contact - 8378957122
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906030005
+MEMS
+Date:Monday 3rd of June 2019 02:51:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957122
+Msg:BVG,
+Patient name: Unknown  , Address- Chikhaldara, Maharashtra 444807, India, Caller No - 1111111111, Incident id:201906030005, Patient id:175, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906030005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 3rd of June 2019 02:51:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1062
+ Ambulance Contact - 7774086023
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906030006
+MEMS
+Date:Monday 3rd of June 2019 02:53:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774086023
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Maliwada Bus Stand, Maliwada, Ahmednagar, Maharashtra 414001, India, Caller No - 1111111111, Incident id:201906030006, Patient id:176, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906030006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 3rd of June 2019 02:53:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567876
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906040001
+MEMS
+Date:Tuesday 4th of June 2019 07:16:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1234567876, Incident id:201906040001, Patient id:183, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906040001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 4th of June 2019 07:16:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7887656787
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906050001
+MEMS
+Date:Wednesday 5th of June 2019 12:19:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 7887656787, Incident id:201906050001, Patient id:184, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906050001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 5th of June 2019 12:19:58 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7678768798
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906050002
+MEMS
+Date:Wednesday 5th of June 2019 12:39:26 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 7678768798, Incident id:201906050002, Patient id:185, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906050002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 5th of June 2019 12:39:28 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906050003
+MEMS
+Date:Wednesday 5th of June 2019 12:44:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201906050003, Patient id:186, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906050003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 5th of June 2019 12:44:47 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906050003
+MEMS
+Date:Wednesday 5th of June 2019 12:45:26 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201906050003, Patient id:187, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906050003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 5th of June 2019 12:45:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906050003
+MEMS
+Date:Wednesday 5th of June 2019 12:47:25 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown Unknown Unknown, Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201906050003, Patient id:188, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906050003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 5th of June 2019 12:47:26 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:6767876787
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906060001
+MEMS
+Date:Thursday 6th of June 2019 03:24:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 6767876787, Incident id:201906060001, Patient id:189, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906060001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 6th of June 2019 03:24:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:3456786542
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0767
+ Ambulance Contact - 7722010421
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906060002
+MEMS
+Date:Thursday 6th of June 2019 03:26:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7722010421
+Msg:BVG,
+Patient name: Unknown  , Address- New Radhakisan Plots, Akola, Maharashtra 444001, India, Caller No - 3456786542, Incident id:201906060002, Patient id:190, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906060002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 6th of June 2019 03:26:11 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9850278550
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906150001
+MEMS
+Date:Saturday 15th of June 2019 05:18:06 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9850278550, Incident id:201906150001, Patient id:191, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906150001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Saturday 15th of June 2019 05:18:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240001
+MEMS
+Date:Monday 24th of June 2019 10:41:34 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8551995260, Incident id:201906240001, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 10:41:35 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9850278550
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240002
+MEMS
+Date:Monday 24th of June 2019 11:53:37 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9850278550, Incident id:201906240002, Patient id:2, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 11:53:38 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8989898989
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240003
+MEMS
+Date:Monday 24th of June 2019 01:00:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8989898989, Incident id:201906240003, Patient id:3, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 01:00:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9049732645
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240004
+MEMS
+Date:Monday 24th of June 2019 01:04:33 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9049732645, Incident id:201906240004, Patient id:4, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 01:04:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7057425221
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240005
+MEMS
+Date:Monday 24th of June 2019 01:05:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 7057425221, Incident id:201906240005, Patient id:5, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 01:05:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240006
+MEMS
+Date:Monday 24th of June 2019 04:40:14 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8551995260, Incident id:201906240006, Patient id:7, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 04:40:14 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:2222222222
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240007
+MEMS
+Date:Monday 24th of June 2019 06:19:00 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 2222222222, Incident id:201906240007, Patient id:8, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240007
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 06:19:01 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:4444444444
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1016
+ Ambulance Contact - 7774085990
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906240008
+MEMS
+Date:Monday 24th of June 2019 06:20:13 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085990
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 4444444444, Incident id:201906240008, Patient id:9, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906240008
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 24th of June 2019 06:20:13 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906260001
+MEMS
+Date:Wednesday 26th of June 2019 02:29:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201906260001, Patient id:14, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906260001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 26th of June 2019 02:29:46 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567898
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906280001
+MEMS
+Date:Friday 28th of June 2019 12:14:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1234567898, Incident id:201906280001, Patient id:16, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906280001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 28th of June 2019 12:14:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8787878787
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906280002
+MEMS
+Date:Friday 28th of June 2019 02:46:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8787878787, Incident id:201906280002, Patient id:19, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906280002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 28th of June 2019 02:46:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906280003
+MEMS
+Date:Friday 28th of June 2019 03:55:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8551995260, Incident id:201906280003, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906280003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 28th of June 2019 03:55:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906280004
+MEMS
+Date:Friday 28th of June 2019 04:10:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8551995260, Incident id:201906280004, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906280004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 28th of June 2019 04:10:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1055
+ Ambulance Contact - 7774085965
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906280005
+MEMS
+Date:Friday 28th of June 2019 04:22:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085965
+Msg:BVG,
+Patient name: test c c, Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:201906280005, Patient id:2, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906280005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 28th of June 2019 04:22:37 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9850278550
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201906280006
+MEMS
+Date:Friday 28th of June 2019 05:00:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: p  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9850278550, Incident id:201906280006, Patient id:5, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201906280006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 28th of June 2019 05:00:05 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567867
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907010001
+MEMS
+Date:Monday 1st of July 2019 11:29:26 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1234567867, Incident id:201907010001, Patient id:6, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907010001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 1st of July 2019 11:29:27 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090001
+MEMS
+Date:Tuesday 9th of July 2019 02:15:00 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201907090001, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 02:15:00 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8989898989
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0414
+ Ambulance Contact - 7774081964
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090002
+MEMS
+Date:Tuesday 9th of July 2019 02:15:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081964
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8989898989, Incident id:201907090002, Patient id:2, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 02:15:41 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8787878787
+Msg:BVG,
+ Ambulance dispatched: MH14 CL 0595
+ Ambulance Contact - 7767809671
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090003
+MEMS
+Date:Tuesday 9th of July 2019 02:16:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7767809671
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 8787878787, Incident id:201907090003, Patient id:3, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 02:16:36 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9878987678
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090004
+MEMS
+Date:Tuesday 9th of July 2019 03:39:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9878987678, Incident id:201907090004, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 03:39:57 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9860909090
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+MEMS
+Date:Tuesday 9th of July 2019 04:41:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9860909090, Incident id:201907090005, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 04:41:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9860909090
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+MEMS
+Date:Tuesday 9th of July 2019 04:42:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9860909090, Incident id:201907090005, Patient id:2, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 04:42:52 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9860909090
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+MEMS
+Date:Tuesday 9th of July 2019 04:48:53 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9860909090, Incident id:201907090005, Patient id:3, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 04:48:53 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9860909090
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+MEMS
+Date:Tuesday 9th of July 2019 04:52:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 9860909090, Incident id:201907090005, Patient id:4, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 04:52:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0412
+ Ambulance Contact - 7774081959
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907090006
+MEMS
+Date:Tuesday 9th of July 2019 05:17:43 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081959
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201907090006, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907090006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 9th of July 2019 05:17:43 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7676767676
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0412
+ Ambulance Contact - 7774081959
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907100001
+MEMS
+Date:Wednesday 10th of July 2019 09:00:18 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081959
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 7676767676, Incident id:201907100001, Patient id:4, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907100001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 10th of July 2019 09:00:18 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0412
+ Ambulance Contact - 7774081959
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907100002
+MEMS
+Date:Wednesday 10th of July 2019 03:30:42 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081959
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra State Road Transport Ganeshpeth Bus Stand, Chopkar Rd, Nagpur Vibhag, Ganeshpeth Colony, Nagpur, Maharashtra 440018, India, Caller No - 1111111111, Incident id:201907100002, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907100002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 10th of July 2019 03:30:42 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7676767676
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1438
+ Ambulance Contact - 7774081954
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907170002
+MEMS
+Date:Wednesday 17th of July 2019 11:45:17 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081954
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 7676767676, Incident id:201907170002, Patient id:3, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907170002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 17th of July 2019 11:45:17 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0994
+ Ambulance Contact - 7774085146
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907190001
+MEMS
+Date:Friday 19th of July 2019 04:18:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085146
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, India, Caller No - 1111111111, Incident id:201907190001, Patient id:10, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907190001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 19th of July 2019 04:18:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1111111111
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0994
+ Ambulance Contact - 7774085146
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907190001
+MEMS
+Date:Friday 19th of July 2019 04:27:15 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085146
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, India, Caller No - 1111111111, Incident id:201907190001, Patient id:13, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907190001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 19th of July 2019 04:27:15 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567676
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0460
+ Ambulance Contact - 9607939614
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907200001
+MEMS
+Date:Saturday 20th of July 2019 04:14:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607939614
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 1234567676, Incident id:201907200001, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907200001 MEMS
+Date:Saturday 20th of July 2019 04:14:21 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0460
+ Ambulance Contact - 9607939614
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907200002
+MEMS
+Date:Saturday 20th of July 2019 04:17:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607939614
+Msg:BVG,
+Patient name: priya  , Address- Bus stop, Maharashtra , Caller No - 8888888888, Incident id:201907200002, Patient id:2, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907200002 MEMS
+Date:Saturday 20th of July 2019 04:17:12 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:6767676767
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0458
+ Ambulance Contact - 7620102939
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907220001
+MEMS
+Date:Monday 22nd of July 2019 08:52:59 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7620102939
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 6767676767, Incident id:201907220001, Patient id:10, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907220001 MEMS
+Date:Monday 22nd of July 2019 08:52:59 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9867676867
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0460
+ Ambulance Contact - 9607939614
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907220002
+MEMS
+Date:Monday 22nd of July 2019 09:31:37 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607939614
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 9867676867, Incident id:201907220002, Patient id:1, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907220002 MEMS
+Date:Monday 22nd of July 2019 09:31:37 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234345456
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0770
+ Ambulance Contact - 7774084491
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907220003
+MEMS
+Date:Monday 22nd of July 2019 09:40:53 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084491
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 1234345456, Incident id:201907220003, Patient id:2, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907220003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Monday 22nd of July 2019 09:40:54 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234545454
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0460
+ Ambulance Contact - 9607939614
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907220004
+MEMS
+Date:Monday 22nd of July 2019 10:41:21 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607939614
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 1234545454, Incident id:201907220004, Patient id:3, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907220004 MEMS
+Date:Monday 22nd of July 2019 10:41:21 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567656
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0769
+ Ambulance Contact - 7774084492
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907310001
+MEMS
+Date:Wednesday 31st of July 2019 12:57:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774084492
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Bihar , Caller No - 1234567656, Incident id:201907310001, Patient id:4, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907310001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 31st of July 2019 12:57:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1236787677
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1022
+ Ambulance Contact - 7774085981
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907310002
+MEMS
+Date:Wednesday 31st of July 2019 02:32:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085981
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 1236787677, Incident id:201907310002, Patient id:5, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907310002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 31st of July 2019 02:32:44 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567876
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0460
+ Ambulance Contact - 9607939614
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907310003
+MEMS
+Date:Wednesday 31st of July 2019 02:34:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9607939614
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 1234567876, Incident id:201907310003, Patient id:6, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907310003 MEMS
+Date:Wednesday 31st of July 2019 02:34:45 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8767654567
+Msg:BVG,
+ Ambulance dispatched: MH 14 HG 0470
+ Ambulance Contact - 7620102937
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907310004
+MEMS
+Date:Wednesday 31st of July 2019 03:04:55 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7620102937
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 8767654567, Incident id:201907310004, Patient id:7, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907310004 MEMS
+Date:Wednesday 31st of July 2019 03:04:56 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:4534343434
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1089
+ Ambulance Contact - 7774085985
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907310005
+MEMS
+Date:Wednesday 31st of July 2019 03:07:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774085985
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 4534343434, Incident id:201907310005, Patient id:8, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907310005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 31st of July 2019 03:07:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234543434
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0406
+ Ambulance Contact - 7774081962
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201907310006
+MEMS
+Date:Wednesday 31st of July 2019 03:17:56 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081962
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 1234543434, Incident id:201907310006, Patient id:9, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201907310006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 31st of July 2019 03:17:56 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9562323568
+Msg:BVG,
+ Ambulance dispatched: MH-14 CL 0406
+ Ambulance Contact - 7774081962
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201908060001
+MEMS
+Date:Tuesday 6th of August 2019 01:25:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7774081962
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9562323568, Incident id:201908060001, Patient id:12, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201908060001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 01:25:50 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9855629563
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201908060002
+MEMS
+Date:Tuesday 6th of August 2019 03:01:45 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- pune maha, Caller No - 9855629563, Incident id:201908060002, Patient id:15, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201908060002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 03:02:41 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:
+Msg:BVG,
+ Ambulance dispatched: 
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/
+MEMS
+Date:Tuesday 6th of August 2019 03:03:39 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856231245
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/0001
+MEMS
+Date:Tuesday 6th of August 2019 03:59:17 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 9856231245, Incident id:0001, Patient id:16, Navigate- http://mulikas4/spero_ems_2019/amb/loc/0001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 04:00:13 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856231245
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/0001
+MEMS
+Date:Tuesday 6th of August 2019 04:01:10 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stop, Maharashtra , Caller No - 9856231245, Incident id:0001, Patient id:17, Navigate- http://mulikas4/spero_ems_2019/amb/loc/0001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 04:02:06 PM================================|
+
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856232356
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/0002
+MEMS
+Date:Tuesday 6th of August 2019 05:01:33 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, Caller No - 9856232356, Incident id:0002, Patient id:20, Navigate- http://mulikas4/spero_ems_2019/amb/loc/0002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 05:01:33 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856232356
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201908060003
+MEMS
+Date:Tuesday 6th of August 2019 05:04:38 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, Caller No - 9856232356, Incident id:201908060003, Patient id:21, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201908060003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 05:04:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8956421325
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201908060004
+MEMS
+Date:Tuesday 6th of August 2019 05:06:53 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, Caller No - 8956421325, Incident id:201908060004, Patient id:24, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201908060004
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 05:06:54 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856231245
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6419
+ Ambulance Contact - 8669987574
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201908060005
+MEMS
+Date:Tuesday 6th of August 2019 06:40:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987574
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, Caller No - 9856231245, Incident id:201908060005, Patient id:27, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201908060005
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 06:40:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9856232356
+Msg:BVG,
+ Ambulance dispatched: MH 12 QL 6418
+ Ambulance Contact - 8669987573
+ Track Link- http://mulikas4/spero_ems_2019/amb/loc/201908060006
+MEMS
+Date:Tuesday 6th of August 2019 07:33:54 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8669987573
+Msg:BVG,
+Patient name: Unknown  , Address- Bus stand , Chikhaldara, Chikhaldara, Maharashtra, Caller No - 9856232356, Incident id:201908060006, Patient id:30, Navigate- http://mulikas4/spero_ems_2019/amb/loc/201908060006
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Tuesday 6th of August 2019 07:33:54 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1212121212
+Msg:BVG,
+ Ambulance dispatched: MH 01 DL 1006
+ Ambulance Contact - 9850195647
+ Track Link- http://localhost/MHEms/amb/loc/201909280002
+MEMS
+Date:Saturday 28th of September 2019 02:16:39 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9850195647
+Msg:BVG,
+Patient name: q q q, Address- Jammu Airport, Jammu, Caller No - 1212121212, Incident id:201909280002, Patient id:374, Navigate- http://localhost/MHEms/amb/loc/201909280002 MEMS
+Date:Saturday 28th of September 2019 02:16:40 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1212121212
+Msg:BVG,
+ Ambulance dispatched: MH 01 DL 1006
+ Ambulance Contact - 9850195647
+ Track Link- http://localhost/MHEms/amb/loc/201909280002
+MEMS
+Date:Saturday 28th of September 2019 02:17:04 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1212121212
+Msg:BVG,
+ Ambulance dispatched: MH 01 DL 1006
+ Ambulance Contact - 9850195647
+ Track Link- http://localhost/MHEms/amb/loc/201909280002
+MEMS
+Date:Saturday 28th of September 2019 02:17:27 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1231231233
+Msg:BVG,
+ Ambulance dispatched: MH073152
+ Ambulance Contact - 9469735012
+ Track Link- http://localhost/MHEms/amb/loc/202002260001
+MEMS
+Date:Wednesday 26th of February 2020 03:46:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9469735012
+Msg:BVG,
+Patient name: , Address- Maharashtra, Caller No - 1231231233, Incident id:202002260001, Patient id:, Navigate- http://localhost/MHEms/amb/loc/202002260001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 26th of February 2020 03:46:32 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567890
+Msg:BVG,
+ Ambulance dispatched: Ch1382
+ Ambulance Contact - 7051596561
+ Track Link- http://localhost/MHEms/amb/loc/202002260002
+MEMS
+Date:Wednesday 26th of February 2020 03:51:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7051596561
+Msg:BVG,
+Patient name: , Address- , Caller No - 1234567890, Incident id:202002260002, Patient id:, Navigate- http://localhost/MHEms/amb/loc/202002260002
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 26th of February 2020 03:51:09 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:1234567890
+Msg:BVG,
+ Ambulance dispatched: MH01D1058
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost/MHEms/amb/loc/202002260003
+MEMS
+Date:Wednesday 26th of February 2020 03:52:19 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+Patient name: Unknown  , Address- Sub Centres, Aakura, Mattan, Anantnag, MEMS, Caller No - 1234567890, Incident id:202002260003, Patient id:375, Navigate- http://localhost/MHEms/amb/loc/202002260003
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Wednesday 26th of February 2020 03:52:20 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+<<<<<<< Updated upstream
+To:8551995260
+Msg:BVG,
+ Ambulance dispatched: MH01D1058
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost/MHEms/amb/loc/202003280001
+MEMS
+Date:Saturday 28th of March 2020 05:32:48 PM================================|
+=======
+To:789789789
+Msg:BVG,
+ Ambulance dispatched: MH01D1020
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost/MHEms/amb/loc/202003190001
+MEMS
+Date:Thursday 19th of March 2020 11:35:41 AM================================|
+>>>>>>> Stashed changes
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+Patient name: Unknown  , Address- Maharashtra, Caller No - 789789789, Incident id:202003190001, Patient id:375, Navigate- http://localhost/MHEms/amb/loc/202003190001
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 19th of March 2020 11:35:42 AM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH01D1055
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290001-1
+MEMS
+Date:Friday 29th of May 2020 07:26:07 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+Patient name: c s f, Address- Jammu Sub-District, Caller No - 9730015484, Incident id:A-202005290001-1, Patient id:400, Navigate- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290001-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 29th of May 2020 07:26:08 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH01D1054
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290002-1
+MEMS
+Date:Friday 29th of May 2020 07:29:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+Patient name: c s f, Address- Jammu Sub-District, Caller No - 9730015484, Incident id:A-202005290002-1, Patient id:401, Navigate- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290002-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 29th of May 2020 07:29:10 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH01D1025
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290003-1
+MEMS
+Date:Friday 29th of May 2020 07:35:58 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+Patient name: c s f, Address- Jammu Sub-District, Caller No - 9730015484, Incident id:A-202005290003-1, Patient id:402, Navigate- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290003-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 29th of May 2020 07:35:59 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH01D1014
+ Ambulance Contact - 8888888888
+ Track Link- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290004-1
+MEMS
+Date:Friday 29th of May 2020 07:40:02 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8888888888
+Msg:BVG,
+Patient name: c s f, Address- Jammu Sub-District, Caller No - 9730015484, Incident id:A-202005290004-1, Patient id:403, Navigate- http://localhost:8080/SPERO_J_K_EMS_2019/amb/loc/A-202005290004-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Friday 29th of May 2020 07:40:04 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1277
+ Ambulance Contact - 8378957072
+ Track Link- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200001-1
+MEMS
+Date:Thursday 20th of August 2020 03:50:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:8378957072
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:A-202008200001-1, Patient id:21, Navigate- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200001-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 20th of August 2020 03:50:30 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1125
+ Ambulance Contact - 777408
+ Track Link- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200002-1
+MEMS
+Date:Thursday 20th of August 2020 03:57:17 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:777408
+Msg:BVG,
+Patient name: Unknown  , Address- Pune Station, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:A-202008200002-1, Patient id:21, Navigate- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200002-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 20th of August 2020 03:57:18 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1125
+ Ambulance Contact - 777408
+ Track Link- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200002-1
+MEMS
+Date:Thursday 20th of August 2020 04:01:01 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:777408
+Msg:BVG,
+Patient name: Unknown  , Address- Pune Station, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:A-202008200002-1, Patient id:21, Navigate- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200002-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 20th of August 2020 04:01:01 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1125
+ Ambulance Contact - 777408
+ Track Link- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200002-1
+MEMS
+Date:Thursday 20th of August 2020 04:01:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:777408
+Msg:BVG,
+Patient name: Unknown  , Address- Pune Station, Pune, Maharashtra, India, Caller No - 9730015484, Incident id:A-202008200002-1, Patient id:21, Navigate- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200002-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 20th of August 2020 04:01:29 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 1372
+ Ambulance Contact - 7588168226
+ Track Link- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200003-1
+MEMS
+Date:Thursday 20th of August 2020 04:36:19 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:7588168226
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:A-202008200003-1, Patient id:21, Navigate- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200003-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 20th of August 2020 04:36:20 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9730015484
+Msg:BVG,
+ Ambulance dispatched: MH 14 CL 0787
+ Ambulance Contact - 9529090180
+ Track Link- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200004-1
+MEMS
+Date:Thursday 20th of August 2020 04:38:31 PM================================|
+0x207 - Invalid source IP<br>
+\url:http://www.unicel.in/SendSMS/sendmsg.php
+User:bvgmems
+To:9529090180
+Msg:BVG,
+Patient name: Unknown  , Address- Pune, Maharashtra, India, Caller No - 9730015484, Incident id:A-202008200004-1, Patient id:21, Navigate- http://localhost:8080/SPERO_MEMS2020/amb/loc/A-202008200004-1
+ Note: Call Bike Desk for Case ID creation. MEMS
+Date:Thursday 20th of August 2020 04:38:36 PM================================|
+0x207 - Invalid source IP<br>

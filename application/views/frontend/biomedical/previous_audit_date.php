@@ -1,0 +1,1 @@
+ <input type="text" name="previous_audit_date"  value="<?= @$audit_data[0]->current_audit_date; ?>" class="filter_required mi_timecalender" placeholder="Breakdown date and time" data-errors="{filter_required:'Accident date should not be blank'}" TABINDEX="8" <?php echo $update; echo $Approve; echo $Re_request; ?>>

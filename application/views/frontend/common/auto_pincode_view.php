@@ -1,0 +1,1 @@
+<input name="<?php echo $dt_rel; ?>_lat" value="<?php echo $pincode; ?>" class="auto_pcode" data-base="" type="text" placeholder="Pincode" tabindex="<?php echo $tab; ?>">
